@@ -2,13 +2,15 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
   <title>POKÉMON ARENA 2D - New PokeSprite Edition</title>
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="style.css?v=20261018_13" />
 </head>
 <body>
   <div id="game-wrapper">
     <canvas id="arenaCanvas"></canvas>
+    <div id="battlefield-sprites-layer"></div>
+    <canvas id="fxCanvas"></canvas>
 
     <!-- Top Fighter HUD (Left: P1 / Right: P2) -->
     <div id="top-hud">
@@ -32,13 +34,28 @@
           <div class="en-bar-outer">
             <div class="en-bar-fill" id="p1-en-bar"></div>
           </div>
+          <div class="pokedata-hud-strip" id="p1-stat-strip"></div>
+          <!-- Compact 5-Slot Skill HUD placed in the red-box area below P1's 2-line stat strip -->
+          <div id="skill-hud">
+            <div class="skill-stamina-bar">
+              <div class="skill-stamina-fill" id="skill-stamina-fill"></div>
+            </div>
+            <div class="skill-slots" id="skill-slots-container">
+              <!-- Populated dynamically by game.js -->
+            </div>
+          </div>
           <div class="move-callout" id="p1-move-callout">FLAMETHROWER!</div>
         </div>
       </div>
 
-      <!-- Center Top Controls -->
+      <!-- Center Top Controls (Menu 2) -->
       <div id="center-top-controls">
-        <div class="mode-buttons">
+        <div id="compact-menu-bar">
+          <button class="ui-btn mini-toggle-btn" id="btn-open-top-menu" title="上部メニューの表示/非表示">⚙️ メニュー</button>
+          <button class="ui-btn mini-toggle-btn" id="btn-open-roster-quick" title="ポケモン選択パネルの表示/非表示">📖 ポケモン選択</button>
+          <button class="ui-btn mini-toggle-btn" id="btn-toggle-pad" title="仮想パッドの表示切り替え">🕹️ パッド</button>
+        </div>
+        <div class="mode-buttons menu-hidden" id="top-menu-panel">
           <button class="ui-btn highlight" id="btn-field-change" title="フィールドチェンジ演出 (Fキー)">🌊 FIELD CHANGE (F)</button>
           <button class="ui-btn" id="btn-scene-grass" title="Nidorino vs Gengar (芝フィールド)">🏟️ 芝バトル開始</button>
           <button class="ui-btn" id="btn-scene-water" title="Charizard vs Seaking (水フィールド)">💧 水中バトル開始</button>
@@ -47,7 +64,9 @@
           <button class="ui-btn" id="btn-mega" title="メガシンカ (Mキー / 右クリック:相手)">✨ メガシンカ (M)</button>
           <button class="ui-btn" id="btn-gmax" title="キョダイマックス (Gキー / 右クリック:相手)">🌋 キョダイマックス (G)</button>
           <button class="ui-btn" id="btn-pokedata" title="現在操作中のポケモンの詳細データ (Iキー)">📊 図鑑データ (I)</button>
+          <button class="ui-btn" id="btn-autobattle" title="クリックまたはPキーで敵ポケモンの攻撃ON/OFFを切り替え（右クリック: 自動観戦モード）">🛡️ 敵の攻撃: OFF (練習 / P)</button>
           <button class="ui-btn" id="btn-sound" title="BGM・効果音 ON/OFF">🔊 音: ON</button>
+          <button class="ui-btn" id="btn-toggle-roster" title="ポケモン選択パネルの開閉">📖 ポケモン選択</button>
         </div>
       </div>
 
@@ -71,6 +90,7 @@
           <div class="en-bar-outer">
             <div class="en-bar-fill" id="p2-en-bar"></div>
           </div>
+          <div class="pokedata-hud-strip" id="p2-stat-strip"></div>
           <div class="move-callout" id="p2-move-callout">HORN ATTACK!</div>
         </div>
       </div>
@@ -89,18 +109,59 @@
     <!-- Cinematic Subtitle Overlay -->
     <div id="subtitle-banner">Seaking enters the battlefield!</div>
 
-    <!-- Bottom-Left 5-Slot Skill HUD -->
-    <div id="skill-hud">
-      <div class="skill-stamina-bar">
-        <div class="skill-stamina-fill" id="skill-stamina-fill"></div>
+    <!-- Virtual Joystick & Touch Action Pad (Mobile / Touch Devices + Optional Desktop Toggle) -->
+    <div id="mobile-controls-layer">
+      <!-- Left: Virtual Analog Joystick -->
+      <div id="vjoy-zone">
+        <div id="vjoy-base">
+          <div class="vjoy-dir vjoy-up">▲</div>
+          <div class="vjoy-dir vjoy-down">▼</div>
+          <div class="vjoy-dir vjoy-left">◀</div>
+          <div class="vjoy-dir vjoy-right">▶</div>
+          <div id="vjoy-stick"></div>
+        </div>
+        <div class="vjoy-label">ドラッグで移動 / 画面タッチでも移動</div>
       </div>
-      <div class="skill-slots" id="skill-slots-container">
-        <!-- Populated dynamically by game.js -->
+
+      <!-- Right: Arcade / Unite-style Skill & Action Pad -->
+      <div id="vpad-actions">
+        <div class="vpad-QuickRow">
+          <button class="vpad-mini-btn mega" id="vbtn-mega" type="button">✦メガ</button>
+          <button class="vpad-mini-btn gmax" id="vbtn-gmax" type="button">🌋キョダイ</button>
+          <button class="vpad-mini-btn swap" id="vbtn-swap" type="button">🔴交代</button>
+        </div>
+        <div class="vpad-skill-cluster">
+          <button class="vpad-skill-btn ult" id="vbtn-slot-4" data-slot="4" type="button">
+            <span class="vbtn-key">ULT</span>
+            <span class="vbtn-name" id="vbtn-name-4">究極技</span>
+            <span class="vbtn-cost" id="vbtn-cost-4"></span>
+          </button>
+          <button class="vpad-skill-btn spec" id="vbtn-slot-3" data-slot="3" type="button">
+            <span class="vbtn-key">必殺</span>
+            <span class="vbtn-name" id="vbtn-name-3">必殺技</span>
+            <span class="vbtn-cost" id="vbtn-cost-3"></span>
+          </button>
+          <button class="vpad-skill-btn atk2" id="vbtn-slot-1" data-slot="1" type="button">
+            <span class="vbtn-key">技2</span>
+            <span class="vbtn-name" id="vbtn-name-1">サブ技</span>
+            <span class="vbtn-cost" id="vbtn-cost-1"></span>
+          </button>
+          <button class="vpad-skill-btn dodge" id="vbtn-slot-2" data-slot="2" type="button">
+            <span class="vbtn-key">回避</span>
+            <span class="vbtn-name" id="vbtn-name-2">ダッシュ</span>
+            <span class="vbtn-cost" id="vbtn-cost-2"></span>
+          </button>
+          <button class="vpad-skill-btn atk1" id="vbtn-slot-0" data-slot="0" type="button">
+            <span class="vbtn-key">ATTACK</span>
+            <span class="vbtn-name" id="vbtn-name-0">通常技</span>
+            <span class="vbtn-cost" id="vbtn-cost-0"></span>
+          </button>
+        </div>
       </div>
     </div>
 
     <!-- Bottom-Right Full 1,025 Pokédex + Mega + Gigantamax + Regional Switcher -->
-    <div id="bottom-right-panel">
+    <div id="bottom-right-panel" class="roster-hidden">
       <div class="roster-toolbar" id="roster-toolbar">
         <div class="gen-tabs" id="gen-tabs">
           <button class="gen-tab active" data-gen="all">ALL</button>
@@ -120,21 +181,23 @@
         </div>
         <div class="roster-search-row">
           <input type="text" id="roster-search" placeholder="🔍 図鑑No・名前検索 (例: 0006, charizard, リザードン)" />
+          <button class="gen-tab target-toggle-btn p1-target" id="btn-roster-target" title="タップしたポケモンを自分(P1)にするか相手(P2)にするか切替">🎯 対象: 自分(P1)</button>
           <button class="gen-tab random-btn" id="btn-rand-p1" title="自分のポケモンをランダム選出">🎲 自分</button>
           <button class="gen-tab random-btn" id="btn-rand-p2" title="相手のポケモンをランダム選出">🎲 相手</button>
+          <button class="gen-tab close-roster-btn" id="btn-close-roster" title="パネルを閉じる">✕</button>
         </div>
       </div>
       <div class="roster-strip" id="roster-strip" title="左クリック: 自分のポケモン変更 / 右クリック: 相手のポケモン変更"></div>
       <div class="controls-hint">
-        移動: <b>WASD / 矢印</b> ｜ 技1: <b>左クリック / Z / 1</b> ｜ 技2: <b>右クリック / X / 2</b> ｜ 回避/飛行: <b>SPACE</b> ｜ 必殺1: <b>Q / 3</b> ｜ 究極技: <b>E / 4</b> ｜ メガ: <b>M</b> ｜ キョダイ: <b>G</b> ｜ 図鑑: <b>I</b> ｜ 交代: <b>R</b> ｜ フィールド変形: <b>F</b>
+        移動: <b>WASD / 矢印 / 🕹️スティック / 画面タッチ</b> ｜ 技: <b>左/右クリック / Z,X,Q,E / 右下ボタン</b> ｜ 回避: <b>SPACE</b> ｜ 敵攻撃ON/OFF: <b>P</b>
       </div>
     </div>
   </div>
 
-  <script src="../pokeData/pokeData.js"></script>
-  <script src="data.js"></script>
-  <script src="sprite_animator.js"></script>
-  <script src="effects.js"></script>
-  <script src="game.js"></script>
+  <script src="../pokeData/pokeData.js?v=20261018_14"></script>
+  <script src="data.js?v=20261018_14"></script>
+  <script src="sprite_animator.js?v=20261018_14"></script>
+  <script src="effects.js?v=20261018_14"></script>
+  <script src="game.js?v=20261018_14"></script>
 </body>
 </html>

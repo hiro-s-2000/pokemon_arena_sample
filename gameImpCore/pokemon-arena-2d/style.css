@@ -12,6 +12,8 @@
   box-sizing: border-box;
   user-select: none;
   -webkit-user-select: none;
+  -webkit-touch-callout: none;
+  -webkit-tap-highlight-color: transparent;
 }
 
 body, html {
@@ -19,7 +21,10 @@ body, html {
   padding: 0;
   width: 100vw;
   height: 100vh;
+  height: 100dvh;
   overflow: hidden;
+  touch-action: none;
+  overscroll-behavior: none;
   background: #0b0e17;
   font-family: 'Courier New', 'Hiragino Kaku Gothic ProN', monospace, sans-serif;
   color: #ffffff;
@@ -29,16 +34,64 @@ body, html {
   position: relative;
   width: 100vw;
   height: 100vh;
+  height: 100dvh;
   overflow: hidden;
+  touch-action: none;
 }
 
 canvas#arenaCanvas {
+  position: relative;
+  z-index: 1;
   display: block;
   width: 100%;
   height: 100%;
   image-rendering: pixelated;
   image-rendering: crisp-edges;
   cursor: crosshair;
+  touch-action: none;
+}
+
+#battlefield-sprites-layer {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  overflow: visible;
+  z-index: 2;
+}
+
+canvas#fxCanvas {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 3;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+}
+
+.bf-fighter-node {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 0;
+  height: 0;
+  pointer-events: none;
+  will-change: transform, filter;
+}
+
+.bf-fighter-gif,
+.bf-ghost-gif {
+  position: absolute;
+  left: 0;
+  top: 0;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+  pointer-events: none;
+  transform-origin: 50% 100%;
+  will-change: transform, opacity, filter;
 }
 
 /* Top Fighter HUD (matches sample1.mp4 & sample2.mp4) */
@@ -150,15 +203,20 @@ canvas#arenaCanvas {
 .bars-col {
   display: flex;
   flex-direction: column;
+  align-items: flex-start;
   gap: 4px;
   margin-top: 2px;
+}
+
+.fighter-hud.right .bars-col {
+  align-items: flex-end;
 }
 
 .name-hp-row {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
-  width: 270px;
+  width: 275px;
   font-weight: 900;
   font-size: 18px;
   letter-spacing: 1px;
@@ -167,6 +225,7 @@ canvas#arenaCanvas {
 
 .fighter-hud.right .name-hp-row {
   flex-direction: row-reverse;
+  margin-left: auto;
 }
 
 .hp-num {
@@ -193,6 +252,7 @@ canvas#arenaCanvas {
 
 .fighter-hud.right .hp-bar-outer {
   transform: skewX(20deg);
+  margin-left: auto;
 }
 
 .hp-bar-fill {
@@ -231,6 +291,28 @@ canvas#arenaCanvas {
   margin-left: auto;
 }
 
+.pokedata-hud-strip {
+  font-size: 10px;
+  font-weight: 800;
+  line-height: 1.38;
+  color: #e2e8f0;
+  background: rgba(15, 23, 42, 0.82);
+  border: 1px solid rgba(148, 163, 184, 0.35);
+  border-radius: 6px;
+  padding: 3px 7px;
+  margin-top: 2px;
+  letter-spacing: 0.15px;
+  white-space: pre-line;
+  text-shadow: 0 1px 2px #000;
+  width: 275px;
+  max-width: 275px;
+}
+
+.fighter-hud.right .pokedata-hud-strip {
+  align-self: flex-end;
+  text-align: right;
+}
+
 .move-callout {
   margin-top: 2px;
   font-size: 13px;
@@ -253,34 +335,63 @@ canvas#arenaCanvas {
   text-align: right;
 }
 
-/* Center Top Control Bar */
+/* Center Top Control Bar (Menu 2 - Responsive & Dismissible) */
 #center-top-controls {
   pointer-events: auto;
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 6px;
+  gap: 4px;
+  max-width: min(62vw, 580px);
+  z-index: 25;
+}
+
+#compact-menu-bar {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.ui-btn.mini-toggle-btn {
+  font-size: clamp(9.5px, 1vw, 11.5px);
+  padding: clamp(3px, 0.4vw, 5px) clamp(7px, 0.8vw, 10px);
+  background: rgba(15, 23, 42, 0.88);
+  border-color: #38bdf8;
+  color: #e0f2fe;
 }
 
 .mode-buttons {
   display: flex;
-  gap: 6px;
+  gap: clamp(3px, 0.5vw, 6px);
   flex-wrap: wrap;
   justify-content: center;
+  background: rgba(11, 15, 25, 0.88);
+  border: 1.5px solid rgba(71, 85, 105, 0.85);
+  border-radius: 8px;
+  padding: clamp(4px, 0.6vw, 7px) clamp(6px, 0.8vw, 9px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.65);
+  max-width: min(88vw, 560px);
+  transition: opacity 0.15s ease, transform 0.15s ease;
+}
+
+.mode-buttons.menu-hidden {
+  display: none !important;
 }
 
 .ui-btn {
-  background: rgba(18, 25, 38, 0.9);
+  background: rgba(18, 25, 38, 0.92);
   color: #f1f5f9;
-  border: 2px solid #475569;
+  border: 1.5px solid #475569;
   border-radius: 6px;
-  padding: 5px 10px;
+  padding: clamp(3px, 0.45vw, 5px) clamp(6px, 0.8vw, 10px);
   font-family: inherit;
-  font-size: 12px;
+  font-size: clamp(9px, 1.02vw, 12px);
   font-weight: 800;
   cursor: pointer;
   text-shadow: 1px 1px 0 #000;
-  box-shadow: 0 3px 0 #0f172a;
+  box-shadow: 0 2px 0 #0f172a;
   transition: transform 0.08s, border-color 0.12s, background 0.12s;
 }
 
@@ -304,26 +415,28 @@ canvas#arenaCanvas {
   border-color: #fed7aa;
 }
 
-/* Bottom-Left Skill Bar (matches sample1.mp4 & sample2.mp4) */
+/* Compact Skill Bar placed under P1's 2-line stat strip (Red Box area) */
 #skill-hud {
-  position: absolute;
-  left: 16px;
-  bottom: 14px;
+  position: relative;
+  pointer-events: auto;
+  width: 275px;
+  max-width: 275px;
+  min-width: 0;
+  margin-top: 2px;
   background: rgba(15, 18, 26, 0.92);
-  border: 3px solid #2e3846;
+  border: 2px solid #2e3846;
   border-radius: 6px;
-  padding: 6px 10px 8px;
-  box-shadow: 0 6px 0 rgba(0,0,0,0.65);
+  padding: 3px 4px 4px;
+  box-shadow: 0 3px 0 rgba(0, 0, 0, 0.65);
   z-index: 10;
-  min-width: 390px;
 }
 
 .skill-stamina-bar {
   width: 100%;
-  height: 8px;
+  height: 4px;
   background: #232a36;
   border: 1px solid #455268;
-  margin-bottom: 6px;
+  margin-bottom: 3px;
   position: relative;
   overflow: hidden;
 }
@@ -337,8 +450,8 @@ canvas#arenaCanvas {
 
 .skill-slots {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  gap: 8px;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 3px;
 }
 
 .skill-slot {
@@ -346,12 +459,13 @@ canvas#arenaCanvas {
   flex-direction: column;
   align-items: center;
   background: rgba(30, 38, 52, 0.85);
-  border: 2px solid #465369;
-  border-radius: 4px;
-  padding: 4px 6px;
+  border: 1.5px solid #465369;
+  border-radius: 3px;
+  padding: 2px 2px 3px;
   cursor: pointer;
   position: relative;
-  min-width: 68px;
+  min-width: 0;
+  overflow: hidden;
   transition: transform 0.08s, border-color 0.12s;
 }
 
@@ -376,25 +490,27 @@ canvas#arenaCanvas {
   align-items: center;
   justify-content: space-between;
   width: 100%;
-  font-size: 11px;
+  font-size: 8px;
   font-weight: 900;
-  gap: 4px;
-  margin-bottom: 3px;
+  gap: 2px;
+  margin-bottom: 2px;
 }
 
 .key-badge {
   background: #cbd5e1;
   color: #0f172a;
-  padding: 1px 4px;
+  padding: 0.5px 2px;
   border-radius: 2px;
-  font-size: 10px;
+  font-size: 7.5px;
   font-weight: 900;
-  box-shadow: 0 2px 0 #475569;
+  line-height: 1.1;
+  box-shadow: 0 1px 0 #475569;
 }
 
 .energy-tag {
-  font-size: 11px;
+  font-size: 8px;
   font-weight: 900;
+  line-height: 1;
   text-shadow: 1px 1px 0 #000;
 }
 
@@ -407,13 +523,16 @@ canvas#arenaCanvas {
 }
 
 .skill-name {
-  font-size: 10px;
+  font-size: 7px;
   font-weight: 900;
   color: #f8fafc;
   text-align: center;
-  letter-spacing: 0.3px;
+  letter-spacing: 0;
   text-shadow: 1px 1px 0 #000;
   white-space: nowrap;
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 /* Subtitle / Announcer Overlay */
@@ -476,32 +595,34 @@ canvas#arenaCanvas {
   transform: translate(-50%, -50%) scale(1);
 }
 
-/* Right Bottom Quick Roster & Controls Help */
+/* Right Bottom Quick Roster & Controls Help (Menu 1 - Responsive & Dismissible) */
 #bottom-right-panel {
   position: absolute;
-  right: 16px;
-  bottom: 12px;
+  right: clamp(8px, 1.4vw, 16px);
+  bottom: clamp(8px, 1.2vh, 12px);
   display: flex;
   flex-direction: column;
   align-items: flex-end;
-  gap: 5px;
-  z-index: 10;
+  gap: 4px;
+  z-index: 30;
+  width: clamp(270px, 42vw, 520px);
+  max-width: calc(100vw - 20px);
 }
 
 .roster-toolbar {
   display: flex;
   flex-direction: column;
   gap: 4px;
-  background: rgba(13, 17, 26, 0.92);
+  background: rgba(13, 17, 26, 0.94);
   border: 2px solid #334155;
   border-radius: 6px;
-  padding: 5px 7px;
-  width: 530px;
+  padding: clamp(3px, 0.5vw, 6px) clamp(4px, 0.6vw, 7px);
+  width: 100%;
 }
 
 .gen-tabs {
   display: flex;
-  gap: 3px;
+  gap: clamp(2px, 0.3vw, 4px);
   flex-wrap: wrap;
 }
 
@@ -510,8 +631,8 @@ canvas#arenaCanvas {
   color: #cbd5e1;
   border: 1px solid #475569;
   border-radius: 4px;
-  padding: 2px 6px;
-  font-size: 11px;
+  padding: clamp(1.5px, 0.25vw, 3px) clamp(4px, 0.5vw, 6px);
+  font-size: clamp(9px, 0.92vw, 11px);
   font-weight: 800;
   cursor: pointer;
 }
@@ -531,23 +652,25 @@ canvas#arenaCanvas {
   background: #3b0764;
   border-color: #a855f7;
   color: #f3e8ff;
-  padding: 3px 8px;
+  padding: clamp(2px, 0.3vw, 3px) clamp(5px, 0.6vw, 8px);
 }
 
 .roster-search-row {
   display: flex;
-  gap: 5px;
+  gap: 4px;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 #roster-search {
   flex: 1;
+  min-width: 110px;
   background: #0f172a;
   color: #ffffff;
   border: 1px solid #475569;
   border-radius: 4px;
-  padding: 3px 7px;
-  font-size: 11px;
+  padding: clamp(2px, 0.35vw, 4px) 6px;
+  font-size: clamp(9.5px, 0.95vw, 11px);
   outline: none;
 }
 
@@ -557,20 +680,20 @@ canvas#arenaCanvas {
 
 .roster-strip {
   display: flex;
-  gap: 4px;
-  background: rgba(15, 18, 26, 0.92);
+  gap: clamp(3px, 0.35vw, 4px);
+  background: rgba(15, 18, 26, 0.94);
   border: 2px solid #2e3846;
   border-radius: 6px;
-  padding: 5px 6px;
+  padding: clamp(4px, 0.5vw, 6px);
   flex-wrap: wrap;
-  width: 530px;
-  max-height: 128px;
+  width: 100%;
+  max-height: clamp(78px, 16vh, 132px);
   overflow-y: auto;
   justify-content: flex-start;
 }
 
 .roster-strip::-webkit-scrollbar {
-  width: 7px;
+  width: 6px;
 }
 
 .roster-strip::-webkit-scrollbar-thumb {
@@ -579,10 +702,10 @@ canvas#arenaCanvas {
 }
 
 .roster-btn {
-  width: 40px;
-  height: 40px;
+  width: clamp(30px, 3.1vw, 40px);
+  height: clamp(30px, 3.1vw, 40px);
   background: #1e293b;
-  border: 2px solid #475569;
+  border: 1.5px solid #475569;
   border-radius: 5px;
   padding: 0;
   cursor: pointer;
@@ -610,8 +733,8 @@ canvas#arenaCanvas {
 }
 
 .roster-btn img {
-  width: 34px;
-  height: 34px;
+  width: 85%;
+  height: 85%;
   image-rendering: pixelated;
   object-fit: contain;
 }
@@ -632,7 +755,7 @@ canvas#arenaCanvas {
   position: absolute;
   bottom: 0;
   right: 1px;
-  font-size: 8px;
+  font-size: clamp(6.5px, 0.65vw, 8px);
   font-weight: 900;
   color: #94a3b8;
   text-shadow: 1px 1px 0 #000;
@@ -641,13 +764,15 @@ canvas#arenaCanvas {
 }
 
 .controls-hint {
-  background: rgba(15, 18, 26, 0.86);
+  background: rgba(15, 18, 26, 0.88);
   border: 1px solid #334155;
   border-radius: 5px;
-  padding: 4px 9px;
-  font-size: 11px;
+  padding: 3px 8px;
+  font-size: clamp(8.5px, 0.85vw, 11px);
   color: #cbd5e1;
   text-shadow: 1px 1px 0 #000;
+  width: 100%;
+  text-align: center;
 }
 
 /* Mega Evolution X & Y Portrait & HP Name Effects */
@@ -889,3 +1014,461 @@ canvas#arenaCanvas {
     2px 2px 0 #4c0519;
   letter-spacing: 0.5px;
 }
+
+/* ============================================================================
+   Mobile / Touch Virtual Joystick & Action Pad + Responsive Layout
+   ============================================================================ */
+
+.gen-tab.target-toggle-btn.p1-target {
+  background: #14532d;
+  border-color: #4ade80;
+  color: #dcfce7;
+}
+
+.gen-tab.target-toggle-btn.p2-target {
+  background: #7f1d1d;
+  border-color: #f87171;
+  color: #fee2e2;
+}
+
+.gen-tab.close-roster-btn {
+  display: inline-block;
+  background: #dc2626;
+  border-color: #fca5a5;
+  color: #fff;
+  padding: clamp(2px, 0.3vw, 3px) clamp(6px, 0.7vw, 9px);
+}
+
+#mobile-controls-layer {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 18;
+  display: none;
+}
+
+body.show-vpad #mobile-controls-layer {
+  display: block;
+}
+
+/* Left Virtual Analog Joystick */
+#vjoy-zone {
+  position: absolute;
+  left: max(18px, env(safe-area-inset-left, 18px));
+  bottom: max(22px, env(safe-area-inset-bottom, 22px));
+  width: 156px;
+  height: 156px;
+  pointer-events: auto;
+  touch-action: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#vjoy-base {
+  position: relative;
+  width: 132px;
+  height: 132px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(15, 23, 42, 0.55) 0%, rgba(30, 41, 59, 0.78) 72%, rgba(15, 23, 42, 0.92) 100%);
+  border: 3px solid rgba(148, 163, 184, 0.55);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.55), inset 0 0 18px rgba(56, 189, 248, 0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+#vjoy-base.active {
+  border-color: #38bdf8;
+  box-shadow: 0 0 22px rgba(56, 189, 248, 0.55), inset 0 0 22px rgba(56, 189, 248, 0.35);
+}
+
+.vjoy-dir {
+  position: absolute;
+  font-size: 11px;
+  color: rgba(203, 213, 225, 0.45);
+  pointer-events: none;
+  font-weight: 900;
+}
+
+.vjoy-up { top: 7px; left: 50%; transform: translateX(-50%); }
+.vjoy-down { bottom: 7px; left: 50%; transform: translateX(-50%); }
+.vjoy-left { left: 9px; top: 50%; transform: translateY(-50%); }
+.vjoy-right { right: 9px; top: 50%; transform: translateY(-50%); }
+
+#vjoy-stick {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: radial-gradient(circle at 32% 30%, #f8fafc 0%, #38bdf8 45%, #0284c7 85%, #0369a1 100%);
+  border: 3px solid #ffffff;
+  box-shadow: 0 5px 14px rgba(0, 0, 0, 0.65), 0 0 12px rgba(56, 189, 248, 0.6);
+  pointer-events: none;
+  transform: translate(0px, 0px);
+  will-change: transform;
+}
+
+.vjoy-label {
+  margin-top: 5px;
+  font-size: 9.5px;
+  font-weight: 800;
+  color: rgba(226, 232, 240, 0.85);
+  text-shadow: 0 1px 3px #000;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+/* Right Action & Skill Pad */
+#vpad-actions {
+  position: absolute;
+  right: max(16px, env(safe-area-inset-right, 16px));
+  bottom: max(18px, env(safe-area-inset-bottom, 18px));
+  width: 220px;
+  height: 215px;
+  pointer-events: none;
+  touch-action: none;
+}
+
+.vpad-QuickRow {
+  position: absolute;
+  top: 0;
+  right: 0;
+  display: flex;
+  gap: 6px;
+  pointer-events: auto;
+}
+
+.vpad-mini-btn {
+  padding: 5px 9px;
+  border-radius: 999px;
+  font-size: 11px;
+  font-weight: 900;
+  color: #fff;
+  border: 2px solid rgba(255, 255, 255, 0.65);
+  background: rgba(15, 23, 42, 0.85);
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.55);
+  cursor: pointer;
+  touch-action: manipulation;
+  text-shadow: 0 1px 2px #000;
+}
+
+.vpad-mini-btn.mega {
+  background: linear-gradient(135deg, rgba(14, 165, 233, 0.88), rgba(147, 51, 234, 0.88));
+  border-color: #fde047;
+}
+
+.vpad-mini-btn.gmax {
+  background: linear-gradient(135deg, rgba(225, 29, 72, 0.88), rgba(127, 29, 29, 0.88));
+  border-color: #fda4af;
+}
+
+.vpad-mini-btn.swap {
+  background: linear-gradient(135deg, rgba(239, 68, 68, 0.88), rgba(185, 28, 28, 0.88));
+  border-color: #fecaca;
+}
+
+.vpad-mini-btn:active {
+  transform: scale(0.92);
+}
+
+.vpad-skill-cluster {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+.vpad-skill-btn {
+  position: absolute;
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  font-family: inherit;
+  border: 3px solid rgba(255, 255, 255, 0.8);
+  box-shadow: 0 5px 14px rgba(0, 0, 0, 0.65), inset 0 2px 6px rgba(255, 255, 255, 0.3);
+  cursor: pointer;
+  pointer-events: auto;
+  touch-action: none;
+  padding: 2px;
+  transition: transform 0.06s, opacity 0.12s, filter 0.12s;
+  overflow: hidden;
+}
+
+.vpad-skill-btn:active,
+.vpad-skill-btn.pressed {
+  transform: scale(0.9);
+  filter: brightness(1.22);
+}
+
+.vpad-skill-btn.on-cd,
+.vpad-skill-btn.no-energy {
+  opacity: 0.46;
+  filter: grayscale(0.45);
+}
+
+/* Primary Attack (Slot 0 - Bottom Right Giant Button) */
+.vpad-skill-btn.atk1 {
+  width: 82px;
+  height: 82px;
+  right: 4px;
+  bottom: 4px;
+  background: radial-gradient(circle at 32% 28%, #fb923c, #ea580c 60%, #9a3412 100%);
+  border-color: #fed7aa;
+  box-shadow: 0 6px 18px rgba(234, 88, 12, 0.55), inset 0 2px 8px rgba(255, 255, 255, 0.4);
+}
+
+/* Dodge / Dash (Slot 2 - Bottom Left of Attack) */
+.vpad-skill-btn.dodge {
+  width: 60px;
+  height: 60px;
+  right: 98px;
+  bottom: 2px;
+  background: radial-gradient(circle at 32% 28%, #4ade80, #16a34a 65%, #14532d 100%);
+  border-color: #bbf7d0;
+}
+
+/* Skill 2 (Slot 1 - Arc Left-Middle) */
+.vpad-skill-btn.atk2 {
+  width: 64px;
+  height: 64px;
+  right: 92px;
+  bottom: 72px;
+  background: radial-gradient(circle at 32% 28%, #38bdf8, #0284c7 65%, #0c4a6e 100%);
+  border-color: #bae6fd;
+}
+
+/* Special Skill 1 (Slot 3 - Arc Top-Middle) */
+.vpad-skill-btn.spec {
+  width: 64px;
+  height: 64px;
+  right: 46px;
+  bottom: 120px;
+  background: radial-gradient(circle at 32% 28%, #c084fc, #9333ea 65%, #581c87 100%);
+  border-color: #e9d5ff;
+}
+
+/* Ultimate Skill (Slot 4 - Arc Top-Right) */
+.vpad-skill-btn.ult {
+  width: 66px;
+  height: 66px;
+  right: 148px;
+  bottom: 112px;
+  background: radial-gradient(circle at 32% 28%, #fde047, #eab308 55%, #b45309 100%);
+  border-color: #fef9c3;
+  box-shadow: 0 0 14px rgba(250, 204, 21, 0.55);
+}
+
+.vbtn-key {
+  font-size: 9px;
+  font-weight: 900;
+  letter-spacing: 0.4px;
+  color: rgba(255, 255, 255, 0.92);
+  text-shadow: 0 1px 2px #000;
+  line-height: 1;
+}
+
+.vpad-skill-btn.atk1 .vbtn-key {
+  font-size: 11px;
+}
+
+.vbtn-name {
+  font-size: 9.5px;
+  font-weight: 900;
+  color: #ffffff;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  text-align: center;
+  max-width: 92%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  margin-top: 2px;
+}
+
+.vpad-skill-btn.atk1 .vbtn-name {
+  font-size: 10.5px;
+}
+
+.vbtn-cost {
+  font-size: 8.5px;
+  font-weight: 900;
+  color: #fef08a;
+  text-shadow: 0 1px 2px #000;
+  line-height: 1;
+  margin-top: 1px;
+}
+
+/* Touch destination indicator on canvas */
+#bottom-right-panel.roster-hidden {
+  display: none !important;
+}
+
+/* Responsive layout for Smartphones & Tablets */
+@media (max-width: 1024px), (pointer: coarse) {
+  /* Hide desktop bottom-left skill bar when virtual pad is toggled on */
+  body.show-vpad #skill-hud {
+    display: none;
+  }
+
+  /* Compact Top HUD for mobile screens */
+  #top-hud {
+    top: 8px;
+    left: 8px;
+    right: 8px;
+    flex-wrap: wrap;
+    gap: 4px;
+  }
+
+  .portrait-wrap {
+    width: 48px;
+    height: 48px;
+    border-width: 2.5px;
+  }
+
+  .portrait-inner img {
+    width: 42px;
+    height: 42px;
+  }
+
+  .party-balls {
+    bottom: -15px;
+  }
+
+  .party-ball {
+    width: 13px;
+    height: 13px;
+  }
+
+  .name-hp-row {
+    width: 135px;
+    font-size: 12px;
+  }
+
+  .hp-bar-outer {
+    width: 140px;
+    height: 11px;
+    border-width: 2px;
+  }
+
+  .en-bar-outer {
+    width: 124px;
+    height: 6px;
+  }
+
+  .pokedata-hud-strip {
+    font-size: 7.5px;
+    line-height: 1.3;
+    padding: 2px 4px;
+    width: 195px;
+    max-width: 195px;
+    white-space: pre-line;
+  }
+
+  #skill-hud {
+    width: 195px;
+    max-width: 195px;
+    padding: 2px 3px 3px;
+  }
+
+  .move-callout {
+    font-size: 10px;
+    min-height: 14px;
+  }
+
+  #center-top-controls {
+    order: 3;
+    width: 100%;
+    max-width: 100%;
+    margin-top: 2px;
+  }
+
+  .mode-buttons {
+    gap: clamp(3px, 1vw, 5px);
+    width: min(94vw, 480px);
+    max-width: 94vw;
+    max-height: 44vh;
+    overflow-y: auto;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: clamp(5px, 1.4vw, 8px);
+    background: rgba(9, 13, 22, 0.95);
+    border: 1.5px solid #38bdf8;
+    border-radius: 10px;
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.85);
+  }
+
+  .ui-btn {
+    font-size: clamp(9px, 2.3vw, 11px);
+    padding: clamp(3px, 1vw, 5px) clamp(6px, 1.8vw, 9px);
+    white-space: nowrap;
+  }
+
+  .gen-tab.close-roster-btn {
+    display: inline-block;
+  }
+
+  /* Make Pokédex selector (Menu 1) a compact responsive drawer on mobile so it doesn't block gameplay */
+  #bottom-right-panel {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    right: auto;
+    bottom: auto;
+    transform: translate(-50%, -50%);
+    width: min(92vw, 460px);
+    max-height: 76vh;
+    background: rgba(9, 13, 22, 0.96);
+    border: 2px solid #38bdf8;
+    border-radius: 12px;
+    padding: clamp(6px, 1.8vw, 10px);
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.85);
+    z-index: 150;
+    align-items: stretch;
+  }
+
+  .roster-toolbar,
+  .roster-strip {
+    width: 100%;
+  }
+
+  .roster-strip {
+    max-height: clamp(120px, 34vh, 240px);
+  }
+
+  .roster-btn {
+    width: clamp(30px, 8.2vw, 38px);
+    height: clamp(30px, 8.2vw, 38px);
+  }
+
+  .controls-hint {
+    font-size: clamp(8px, 2.1vw, 9.5px);
+    text-align: center;
+  }
+
+  #subtitle-banner {
+    bottom: auto;
+    top: 96px;
+    font-size: clamp(12px, 3.5vw, 15px);
+  }
+}
+
+@media (max-width: 480px) {
+  .name-hp-row {
+    width: 112px;
+    font-size: 11px;
+  }
+  .hp-bar-outer {
+    width: 115px;
+  }
+  .en-bar-outer {
+    width: 102px;
+  }
+  .pokedata-hud-strip {
+    display: none;
+  }
+}
+
