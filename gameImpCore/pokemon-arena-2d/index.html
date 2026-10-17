@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>POKÉMON ARENA 2D - New PokeSprite Edition</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="game-wrapper">
+    <canvas id="arenaCanvas"></canvas>
+
+    <!-- Top Fighter HUD (Left: P1 / Right: P2) -->
+    <div id="top-hud">
+      <!-- Left Fighter (P1) -->
+      <div class="fighter-hud left" id="hud-p1">
+        <div class="portrait-wrap" id="p1-portrait-wrap">
+          <div class="portrait-inner">
+            <img id="p1-portrait" src="../pokeSprite/gen1/0006_charizard.gif" alt="P1" />
+          </div>
+          <div class="ko-stamp">K.O.!</div>
+          <div class="party-balls" id="p1-balls"></div>
+        </div>
+        <div class="bars-col">
+          <div class="name-hp-row">
+            <span id="p1-name">CHARIZARD</span>
+            <span class="hp-num"><span class="heart-icon">♥</span><span id="p1-hp-text">140</span></span>
+          </div>
+          <div class="hp-bar-outer">
+            <div class="hp-bar-fill" id="p1-hp-bar"></div>
+          </div>
+          <div class="en-bar-outer">
+            <div class="en-bar-fill" id="p1-en-bar"></div>
+          </div>
+          <div class="move-callout" id="p1-move-callout">FLAMETHROWER!</div>
+        </div>
+      </div>
+
+      <!-- Center Top Controls -->
+      <div id="center-top-controls">
+        <div class="mode-buttons">
+          <button class="ui-btn highlight" id="btn-field-change" title="フィールドチェンジ演出 (Fキー)">🌊 FIELD CHANGE (F)</button>
+          <button class="ui-btn" id="btn-scene-grass" title="Nidorino vs Gengar (芝フィールド)">🏟️ 芝バトル開始</button>
+          <button class="ui-btn" id="btn-scene-water" title="Charizard vs Seaking (水フィールド)">💧 水中バトル開始</button>
+          <button class="ui-btn" id="btn-scene-royale" title="サンプル終盤の大乱闘モード (渦潮・破壊光線)">🌪️ 大乱闘モード (B)</button>
+          <button class="ui-btn" id="btn-swap-poke" title="次のポケモンに交代 (Rキー)">🔴 ポケモン交代 (R)</button>
+          <button class="ui-btn" id="btn-mega" title="メガシンカ (Mキー / 右クリック:相手)">✨ メガシンカ (M)</button>
+          <button class="ui-btn" id="btn-gmax" title="キョダイマックス (Gキー / 右クリック:相手)">🌋 キョダイマックス (G)</button>
+          <button class="ui-btn" id="btn-pokedata" title="現在操作中のポケモンの詳細データ (Iキー)">📊 図鑑データ (I)</button>
+          <button class="ui-btn" id="btn-sound" title="BGM・効果音 ON/OFF">🔊 音: ON</button>
+        </div>
+      </div>
+
+      <!-- Right Fighter (P2 / CPU) -->
+      <div class="fighter-hud right" id="hud-p2">
+        <div class="portrait-wrap" id="p2-portrait-wrap">
+          <div class="portrait-inner">
+            <img id="p2-portrait" src="../pokeSprite/gen1/0119_seaking.gif" alt="P2" />
+          </div>
+          <div class="ko-stamp">K.O.!</div>
+          <div class="party-balls" id="p2-balls"></div>
+        </div>
+        <div class="bars-col">
+          <div class="name-hp-row">
+            <span id="p2-name">SEAKING</span>
+            <span class="hp-num"><span id="p2-hp-text">118</span><span class="heart-icon">♥</span></span>
+          </div>
+          <div class="hp-bar-outer">
+            <div class="hp-bar-fill" id="p2-hp-bar"></div>
+          </div>
+          <div class="en-bar-outer">
+            <div class="en-bar-fill" id="p2-en-bar"></div>
+          </div>
+          <div class="move-callout" id="p2-move-callout">HORN ATTACK!</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Giant K.O.! Overlay -->
+    <div id="ko-overlay">K.O.!</div>
+
+    <!-- PokéStats Detailed Data Modal (reads from ../pokeData/pokeData.js) -->
+    <div id="pokedata-modal" style="display:none;position:fixed;inset:0;background:rgba(9,13,22,0.82);backdrop-filter:blur(6px);z-index:200;align-items:center;justify-content:center;padding:20px;">
+      <div id="pokedata-modal-card" style="width:min(960px,95vw);max-height:88vh;overflow-y:auto;background:#0f172a;border:2px solid #38bdf8;border-radius:14px;box-shadow:0 20px 50px rgba(0,0,0,0.75);color:#f8fafc;font-family:sans-serif;padding:20px 24px;">
+        <div id="pokedata-modal-body"></div>
+      </div>
+    </div>
+
+    <!-- Cinematic Subtitle Overlay -->
+    <div id="subtitle-banner">Seaking enters the battlefield!</div>
+
+    <!-- Bottom-Left 5-Slot Skill HUD -->
+    <div id="skill-hud">
+      <div class="skill-stamina-bar">
+        <div class="skill-stamina-fill" id="skill-stamina-fill"></div>
+      </div>
+      <div class="skill-slots" id="skill-slots-container">
+        <!-- Populated dynamically by game.js -->
+      </div>
+    </div>
+
+    <!-- Bottom-Right Full 1,025 Pokédex + Mega + Gigantamax + Regional Switcher -->
+    <div id="bottom-right-panel">
+      <div class="roster-toolbar" id="roster-toolbar">
+        <div class="gen-tabs" id="gen-tabs">
+          <button class="gen-tab active" data-gen="all">ALL</button>
+          <button class="gen-tab" data-gen="featured">★初期15</button>
+          <button class="gen-tab mega-tab" data-gen="mega">✦メガ(99)</button>
+          <button class="gen-tab gmax-tab" data-gen="gmax">🌋キョダイ(34)</button>
+          <button class="gen-tab" data-gen="regional">🌍リージョン(58)</button>
+          <button class="gen-tab" data-gen="1">G1</button>
+          <button class="gen-tab" data-gen="2">G2</button>
+          <button class="gen-tab" data-gen="3">G3</button>
+          <button class="gen-tab" data-gen="4">G4</button>
+          <button class="gen-tab" data-gen="5">G5</button>
+          <button class="gen-tab" data-gen="6">G6</button>
+          <button class="gen-tab" data-gen="7">G7</button>
+          <button class="gen-tab" data-gen="8">G8</button>
+          <button class="gen-tab" data-gen="9">G9</button>
+        </div>
+        <div class="roster-search-row">
+          <input type="text" id="roster-search" placeholder="🔍 図鑑No・名前検索 (例: 0006, charizard, リザードン)" />
+          <button class="gen-tab random-btn" id="btn-rand-p1" title="自分のポケモンをランダム選出">🎲 自分</button>
+          <button class="gen-tab random-btn" id="btn-rand-p2" title="相手のポケモンをランダム選出">🎲 相手</button>
+        </div>
+      </div>
+      <div class="roster-strip" id="roster-strip" title="左クリック: 自分のポケモン変更 / 右クリック: 相手のポケモン変更"></div>
+      <div class="controls-hint">
+        移動: <b>WASD / 矢印</b> ｜ 技1: <b>左クリック / Z / 1</b> ｜ 技2: <b>右クリック / X / 2</b> ｜ 回避/飛行: <b>SPACE</b> ｜ 必殺1: <b>Q / 3</b> ｜ 究極技: <b>E / 4</b> ｜ メガ: <b>M</b> ｜ キョダイ: <b>G</b> ｜ 図鑑: <b>I</b> ｜ 交代: <b>R</b> ｜ フィールド変形: <b>F</b>
+      </div>
+    </div>
+  </div>
+
+  <script src="../pokeData/pokeData.js"></script>
+  <script src="data.js"></script>
+  <script src="sprite_animator.js"></script>
+  <script src="effects.js"></script>
+  <script src="game.js"></script>
+</body>
+</html>
