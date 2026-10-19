@@ -11,8 +11,8 @@
   "category": "gen3",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen3/0313_volbeat.gif",
-  "backSprite": "../pokeSprite/gen3/back/0313_volbeat_back.gif",
+  "sprite": "../pokeSprite/gen3/0313_volbeat/normal/front.gif",
+  "backSprite": "../pokeSprite/gen3/0313_volbeat/normal/back.gif",
   "abilities": [
     {
       "id": 35,
@@ -268,8 +268,8 @@
         "types": [
           "bug"
         ],
-        "sprite": "../pokeSprite/gen3/0313_volbeat.gif",
-        "backSprite": "../pokeSprite/gen3/back/0313_volbeat_back.gif",
+        "sprite": "../pokeSprite/gen3/0313_volbeat/normal/front.gif",
+        "backSprite": "../pokeSprite/gen3/0313_volbeat/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

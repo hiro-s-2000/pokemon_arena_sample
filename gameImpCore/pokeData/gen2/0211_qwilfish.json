@@ -11,8 +11,8 @@
   "category": "gen2",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen2/0211_qwilfish.gif",
-  "backSprite": "../pokeSprite/gen2/back/0211_qwilfish_back.gif",
+  "sprite": "../pokeSprite/gen2/0211_qwilfish/normal/front.gif",
+  "backSprite": "../pokeSprite/gen2/0211_qwilfish/normal/back.gif",
   "abilities": [
     {
       "id": 38,
@@ -322,8 +322,8 @@
           "water",
           "poison"
         ],
-        "sprite": "../pokeSprite/gen2/0211_qwilfish.gif",
-        "backSprite": "../pokeSprite/gen2/back/0211_qwilfish_back.gif",
+        "sprite": "../pokeSprite/gen2/0211_qwilfish/normal/front.gif",
+        "backSprite": "../pokeSprite/gen2/0211_qwilfish/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -338,8 +338,8 @@
               "dark",
               "poison"
             ],
-            "sprite": "../pokeSprite/gen8/0904_overqwil.gif",
-            "backSprite": "../pokeSprite/gen8/back/0904_overqwil_back.gif",
+            "sprite": "../pokeSprite/gen8/0904_overqwil/normal/front.gif",
+            "backSprite": "../pokeSprite/gen8/0904_overqwil/normal/back.gif",
             "condition": "Use move in strong style / Level up knowing Barb Barrage / Use move",
             "conditionJa": "Use move in strong style / レベルアップ（「どくばりセンボン」を習得） / Use move",
             "details": [

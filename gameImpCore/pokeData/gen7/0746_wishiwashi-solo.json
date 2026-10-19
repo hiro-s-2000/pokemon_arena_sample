@@ -11,8 +11,8 @@
   "category": "gen7",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen7/0746_wishiwashi-solo.gif",
-  "backSprite": "../pokeSprite/gen7/back/0746_wishiwashi-solo_back.gif",
+  "sprite": "../pokeSprite/gen7/0746_wishiwashi-solo/normal/front.gif",
+  "backSprite": "../pokeSprite/gen7/0746_wishiwashi-solo/normal/back.gif",
   "abilities": [
     {
       "id": 208,
@@ -242,8 +242,8 @@
         "types": [
           "water"
         ],
-        "sprite": "../pokeSprite/gen7/0746_wishiwashi-solo.gif",
-        "backSprite": "../pokeSprite/gen7/back/0746_wishiwashi-solo_back.gif",
+        "sprite": "../pokeSprite/gen7/0746_wishiwashi-solo/normal/front.gif",
+        "backSprite": "../pokeSprite/gen7/0746_wishiwashi-solo/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

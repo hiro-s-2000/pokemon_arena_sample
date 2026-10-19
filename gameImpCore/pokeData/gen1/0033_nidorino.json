@@ -11,8 +11,8 @@
   "category": "gen1",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen1/0033_nidorino.gif",
-  "backSprite": "../pokeSprite/gen1/back/0033_nidorino_back.gif",
+  "sprite": "../pokeSprite/gen1/0033_nidorino/normal/front.gif",
+  "backSprite": "../pokeSprite/gen1/0033_nidorino/normal/back.gif",
   "abilities": [
     {
       "id": 38,
@@ -311,8 +311,8 @@
         "types": [
           "poison"
         ],
-        "sprite": "../pokeSprite/gen1/0032_nidoran-m.gif",
-        "backSprite": "../pokeSprite/gen1/back/0032_nidoran-m_back.gif",
+        "sprite": "../pokeSprite/gen1/0032_nidoran-m/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0032_nidoran-m/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -326,8 +326,8 @@
             "types": [
               "poison"
             ],
-            "sprite": "../pokeSprite/gen1/0033_nidorino.gif",
-            "backSprite": "../pokeSprite/gen1/back/0033_nidorino_back.gif",
+            "sprite": "../pokeSprite/gen1/0033_nidorino/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0033_nidorino/normal/back.gif",
             "condition": "Level 16",
             "conditionJa": "Lv.16",
             "details": [
@@ -356,8 +356,8 @@
                   "poison",
                   "ground"
                 ],
-                "sprite": "../pokeSprite/gen1/0034_nidoking.gif",
-                "backSprite": "../pokeSprite/gen1/back/0034_nidoking_back.gif",
+                "sprite": "../pokeSprite/gen1/0034_nidoking/normal/front.gif",
+                "backSprite": "../pokeSprite/gen1/0034_nidoking/normal/back.gif",
                 "condition": "Use Moon Stone",
                 "conditionJa": "「つきのいし」を使用",
                 "details": [

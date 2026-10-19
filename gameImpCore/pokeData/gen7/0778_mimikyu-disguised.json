@@ -11,8 +11,8 @@
   "category": "gen7",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen7/0778_mimikyu-disguised.gif",
-  "backSprite": "../pokeSprite/gen7/back/0778_mimikyu-disguised_back.gif",
+  "sprite": "../pokeSprite/gen7/0778_mimikyu-disguised/normal/front.gif",
+  "backSprite": "../pokeSprite/gen7/0778_mimikyu-disguised/normal/back.gif",
   "abilities": [
     {
       "id": 209,
@@ -254,8 +254,8 @@
           "ghost",
           "fairy"
         ],
-        "sprite": "../pokeSprite/gen7/0778_mimikyu-disguised.gif",
-        "backSprite": "../pokeSprite/gen7/back/0778_mimikyu-disguised_back.gif",
+        "sprite": "../pokeSprite/gen7/0778_mimikyu-disguised/normal/front.gif",
+        "backSprite": "../pokeSprite/gen7/0778_mimikyu-disguised/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

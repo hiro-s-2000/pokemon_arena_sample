@@ -11,8 +11,8 @@
   "category": "mega",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/mega/0229_houndoom-mega.gif",
-  "backSprite": "../pokeSprite/mega/back/0229_houndoom-mega_back.gif",
+  "sprite": "../pokeSprite/gen2/0229_houndoom/mega/houndoom-mega/front.gif",
+  "backSprite": "../pokeSprite/gen2/0229_houndoom/mega/houndoom-mega/back.gif",
   "abilities": [
     {
       "id": 94,
@@ -276,8 +276,8 @@
           "dark",
           "fire"
         ],
-        "sprite": "../pokeSprite/gen2/0228_houndour.gif",
-        "backSprite": "../pokeSprite/gen2/back/0228_houndour_back.gif",
+        "sprite": "../pokeSprite/gen2/0228_houndour/normal/front.gif",
+        "backSprite": "../pokeSprite/gen2/0228_houndour/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -292,8 +292,8 @@
               "dark",
               "fire"
             ],
-            "sprite": "../pokeSprite/gen2/0229_houndoom.gif",
-            "backSprite": "../pokeSprite/gen2/back/0229_houndoom_back.gif",
+            "sprite": "../pokeSprite/gen2/0229_houndoom/normal/front.gif",
+            "backSprite": "../pokeSprite/gen2/0229_houndoom/normal/back.gif",
             "condition": "Level 24",
             "conditionJa": "Lv.24",
             "details": [

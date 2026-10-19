@@ -11,8 +11,8 @@
   "category": "gen9",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen9/0986_brute-bonnet.gif",
-  "backSprite": "../pokeSprite/gen9/back/0986_brute-bonnet_back.gif",
+  "sprite": "../pokeSprite/gen9/0986_brute-bonnet/normal/front.gif",
+  "backSprite": "../pokeSprite/gen9/0986_brute-bonnet/normal/back.gif",
   "abilities": [
     {
       "id": 281,
@@ -255,8 +255,8 @@
           "grass",
           "dark"
         ],
-        "sprite": "../pokeSprite/gen9/0986_brute-bonnet.gif",
-        "backSprite": "../pokeSprite/gen9/back/0986_brute-bonnet_back.gif",
+        "sprite": "../pokeSprite/gen9/0986_brute-bonnet/normal/front.gif",
+        "backSprite": "../pokeSprite/gen9/0986_brute-bonnet/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

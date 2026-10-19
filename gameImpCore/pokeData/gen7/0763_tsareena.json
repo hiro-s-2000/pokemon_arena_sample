@@ -11,8 +11,8 @@
   "category": "gen7",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen7/0763_tsareena.gif",
-  "backSprite": "../pokeSprite/gen7/back/0763_tsareena_back.gif",
+  "sprite": "../pokeSprite/gen7/0763_tsareena/normal/front.gif",
+  "backSprite": "../pokeSprite/gen7/0763_tsareena/normal/back.gif",
   "abilities": [
     {
       "id": 102,
@@ -283,8 +283,8 @@
         "types": [
           "grass"
         ],
-        "sprite": "../pokeSprite/gen7/0761_bounsweet.gif",
-        "backSprite": "../pokeSprite/gen7/back/0761_bounsweet_back.gif",
+        "sprite": "../pokeSprite/gen7/0761_bounsweet/normal/front.gif",
+        "backSprite": "../pokeSprite/gen7/0761_bounsweet/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -298,8 +298,8 @@
             "types": [
               "grass"
             ],
-            "sprite": "../pokeSprite/gen7/0762_steenee.gif",
-            "backSprite": "../pokeSprite/gen7/back/0762_steenee_back.gif",
+            "sprite": "../pokeSprite/gen7/0762_steenee/normal/front.gif",
+            "backSprite": "../pokeSprite/gen7/0762_steenee/normal/back.gif",
             "condition": "Level 18",
             "conditionJa": "Lv.18",
             "details": [
@@ -327,8 +327,8 @@
                 "types": [
                   "grass"
                 ],
-                "sprite": "../pokeSprite/gen7/0763_tsareena.gif",
-                "backSprite": "../pokeSprite/gen7/back/0763_tsareena_back.gif",
+                "sprite": "../pokeSprite/gen7/0763_tsareena/normal/front.gif",
+                "backSprite": "../pokeSprite/gen7/0763_tsareena/normal/back.gif",
                 "condition": "Level up knowing Stomp",
                 "conditionJa": "レベルアップ（「ふみつけ」を習得）",
                 "details": [

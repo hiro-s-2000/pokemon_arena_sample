@@ -11,8 +11,8 @@
   "category": "gen1",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen1/0109_koffing.gif",
-  "backSprite": "../pokeSprite/gen1/back/0109_koffing_back.gif",
+  "sprite": "../pokeSprite/gen1/0109_koffing/normal/front.gif",
+  "backSprite": "../pokeSprite/gen1/0109_koffing/normal/back.gif",
   "abilities": [
     {
       "id": 26,
@@ -297,8 +297,8 @@
         "types": [
           "poison"
         ],
-        "sprite": "../pokeSprite/gen1/0109_koffing.gif",
-        "backSprite": "../pokeSprite/gen1/back/0109_koffing_back.gif",
+        "sprite": "../pokeSprite/gen1/0109_koffing/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0109_koffing/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -312,8 +312,8 @@
             "types": [
               "poison"
             ],
-            "sprite": "../pokeSprite/gen1/0110_weezing.gif",
-            "backSprite": "../pokeSprite/gen1/back/0110_weezing_back.gif",
+            "sprite": "../pokeSprite/gen1/0110_weezing/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0110_weezing/normal/back.gif",
             "condition": "Level 35",
             "conditionJa": "Lv.35",
             "details": [

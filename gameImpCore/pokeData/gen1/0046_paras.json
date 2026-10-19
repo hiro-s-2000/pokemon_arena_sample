@@ -11,8 +11,8 @@
   "category": "gen1",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen1/0046_paras.gif",
-  "backSprite": "../pokeSprite/gen1/back/0046_paras_back.gif",
+  "sprite": "../pokeSprite/gen1/0046_paras/normal/front.gif",
+  "backSprite": "../pokeSprite/gen1/0046_paras/normal/back.gif",
   "abilities": [
     {
       "id": 27,
@@ -305,8 +305,8 @@
           "bug",
           "grass"
         ],
-        "sprite": "../pokeSprite/gen1/0046_paras.gif",
-        "backSprite": "../pokeSprite/gen1/back/0046_paras_back.gif",
+        "sprite": "../pokeSprite/gen1/0046_paras/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0046_paras/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -321,8 +321,8 @@
               "bug",
               "grass"
             ],
-            "sprite": "../pokeSprite/gen1/0047_parasect.gif",
-            "backSprite": "../pokeSprite/gen1/back/0047_parasect_back.gif",
+            "sprite": "../pokeSprite/gen1/0047_parasect/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0047_parasect/normal/back.gif",
             "condition": "Level 24",
             "conditionJa": "Lv.24",
             "details": [

@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0611_fraxure.gif",
-  "backSprite": "../pokeSprite/gen5/back/0611_fraxure_back.gif",
+  "sprite": "../pokeSprite/gen5/0611_fraxure/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0611_fraxure/normal/back.gif",
   "abilities": [
     {
       "id": 79,
@@ -310,8 +310,8 @@
         "types": [
           "dragon"
         ],
-        "sprite": "../pokeSprite/gen5/0610_axew.gif",
-        "backSprite": "../pokeSprite/gen5/back/0610_axew_back.gif",
+        "sprite": "../pokeSprite/gen5/0610_axew/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0610_axew/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -325,8 +325,8 @@
             "types": [
               "dragon"
             ],
-            "sprite": "../pokeSprite/gen5/0611_fraxure.gif",
-            "backSprite": "../pokeSprite/gen5/back/0611_fraxure_back.gif",
+            "sprite": "../pokeSprite/gen5/0611_fraxure/normal/front.gif",
+            "backSprite": "../pokeSprite/gen5/0611_fraxure/normal/back.gif",
             "condition": "Level 38",
             "conditionJa": "Lv.38",
             "details": [
@@ -354,8 +354,8 @@
                 "types": [
                   "dragon"
                 ],
-                "sprite": "../pokeSprite/gen5/0612_haxorus.gif",
-                "backSprite": "../pokeSprite/gen5/back/0612_haxorus_back.gif",
+                "sprite": "../pokeSprite/gen5/0612_haxorus/normal/front.gif",
+                "backSprite": "../pokeSprite/gen5/0612_haxorus/normal/back.gif",
                 "condition": "Level 48",
                 "conditionJa": "Lv.48",
                 "details": [

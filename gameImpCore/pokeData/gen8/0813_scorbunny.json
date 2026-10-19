@@ -11,8 +11,8 @@
   "category": "gen8",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen8/0813_scorbunny.gif",
-  "backSprite": "../pokeSprite/gen8/back/0813_scorbunny_back.gif",
+  "sprite": "../pokeSprite/gen8/0813_scorbunny/normal/front.gif",
+  "backSprite": "../pokeSprite/gen8/0813_scorbunny/normal/back.gif",
   "abilities": [
     {
       "id": 66,
@@ -282,8 +282,8 @@
         "types": [
           "fire"
         ],
-        "sprite": "../pokeSprite/gen8/0813_scorbunny.gif",
-        "backSprite": "../pokeSprite/gen8/back/0813_scorbunny_back.gif",
+        "sprite": "../pokeSprite/gen8/0813_scorbunny/normal/front.gif",
+        "backSprite": "../pokeSprite/gen8/0813_scorbunny/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -297,8 +297,8 @@
             "types": [
               "fire"
             ],
-            "sprite": "../pokeSprite/gen8/0814_raboot.gif",
-            "backSprite": "../pokeSprite/gen8/back/0814_raboot_back.gif",
+            "sprite": "../pokeSprite/gen8/0814_raboot/normal/front.gif",
+            "backSprite": "../pokeSprite/gen8/0814_raboot/normal/back.gif",
             "condition": "Level 16",
             "conditionJa": "Lv.16",
             "details": [
@@ -326,8 +326,8 @@
                 "types": [
                   "fire"
                 ],
-                "sprite": "../pokeSprite/gen8/0815_cinderace.gif",
-                "backSprite": "../pokeSprite/gen8/back/0815_cinderace_back.gif",
+                "sprite": "../pokeSprite/gen8/0815_cinderace/normal/front.gif",
+                "backSprite": "../pokeSprite/gen8/0815_cinderace/normal/back.gif",
                 "condition": "Level 35",
                 "conditionJa": "Lv.35",
                 "details": [

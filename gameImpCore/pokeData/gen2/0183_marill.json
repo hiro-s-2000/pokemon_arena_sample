@@ -11,8 +11,8 @@
   "category": "gen2",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen2/0183_marill.gif",
-  "backSprite": "../pokeSprite/gen2/back/0183_marill_back.gif",
+  "sprite": "../pokeSprite/gen2/0183_marill/normal/front.gif",
+  "backSprite": "../pokeSprite/gen2/0183_marill/normal/back.gif",
   "abilities": [
     {
       "id": 47,
@@ -325,8 +325,8 @@
           "normal",
           "fairy"
         ],
-        "sprite": "../pokeSprite/gen3/0298_azurill.gif",
-        "backSprite": "../pokeSprite/gen3/back/0298_azurill_back.gif",
+        "sprite": "../pokeSprite/gen3/0298_azurill/normal/front.gif",
+        "backSprite": "../pokeSprite/gen3/0298_azurill/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -341,8 +341,8 @@
               "water",
               "fairy"
             ],
-            "sprite": "../pokeSprite/gen2/0183_marill.gif",
-            "backSprite": "../pokeSprite/gen2/back/0183_marill_back.gif",
+            "sprite": "../pokeSprite/gen2/0183_marill/normal/front.gif",
+            "backSprite": "../pokeSprite/gen2/0183_marill/normal/back.gif",
             "condition": "Level up high Friendship (160+)",
             "conditionJa": "レベルアップ（なつき度160以上）",
             "details": [
@@ -371,8 +371,8 @@
                   "water",
                   "fairy"
                 ],
-                "sprite": "../pokeSprite/gen2/0184_azumarill.gif",
-                "backSprite": "../pokeSprite/gen2/back/0184_azumarill_back.gif",
+                "sprite": "../pokeSprite/gen2/0184_azumarill/normal/front.gif",
+                "backSprite": "../pokeSprite/gen2/0184_azumarill/normal/back.gif",
                 "condition": "Level 18",
                 "conditionJa": "Lv.18",
                 "details": [

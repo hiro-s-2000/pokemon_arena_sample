@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0597_ferroseed.gif",
-  "backSprite": "../pokeSprite/gen5/back/0597_ferroseed_back.gif",
+  "sprite": "../pokeSprite/gen5/0597_ferroseed/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0597_ferroseed/normal/back.gif",
   "abilities": [
     {
       "id": 160,
@@ -285,8 +285,8 @@
           "grass",
           "steel"
         ],
-        "sprite": "../pokeSprite/gen5/0597_ferroseed.gif",
-        "backSprite": "../pokeSprite/gen5/back/0597_ferroseed_back.gif",
+        "sprite": "../pokeSprite/gen5/0597_ferroseed/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0597_ferroseed/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -301,8 +301,8 @@
               "grass",
               "steel"
             ],
-            "sprite": "../pokeSprite/gen5/0598_ferrothorn.gif",
-            "backSprite": "../pokeSprite/gen5/back/0598_ferrothorn_back.gif",
+            "sprite": "../pokeSprite/gen5/0598_ferrothorn/normal/front.gif",
+            "backSprite": "../pokeSprite/gen5/0598_ferrothorn/normal/back.gif",
             "condition": "Level 40",
             "conditionJa": "Lv.40",
             "details": [

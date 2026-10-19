@@ -11,8 +11,8 @@
   "category": "gen8",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen8/0839_coalossal.gif",
-  "backSprite": "../pokeSprite/gen8/back/0839_coalossal_back.gif",
+  "sprite": "../pokeSprite/gen8/0839_coalossal/normal/front.gif",
+  "backSprite": "../pokeSprite/gen8/0839_coalossal/normal/back.gif",
   "abilities": [
     {
       "id": 243,
@@ -296,8 +296,8 @@
         "types": [
           "rock"
         ],
-        "sprite": "../pokeSprite/gen8/0837_rolycoly.gif",
-        "backSprite": "../pokeSprite/gen8/back/0837_rolycoly_back.gif",
+        "sprite": "../pokeSprite/gen8/0837_rolycoly/normal/front.gif",
+        "backSprite": "../pokeSprite/gen8/0837_rolycoly/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -312,8 +312,8 @@
               "rock",
               "fire"
             ],
-            "sprite": "../pokeSprite/gen8/0838_carkol.gif",
-            "backSprite": "../pokeSprite/gen8/back/0838_carkol_back.gif",
+            "sprite": "../pokeSprite/gen8/0838_carkol/normal/front.gif",
+            "backSprite": "../pokeSprite/gen8/0838_carkol/normal/back.gif",
             "condition": "Level 18",
             "conditionJa": "Lv.18",
             "details": [
@@ -342,8 +342,8 @@
                   "rock",
                   "fire"
                 ],
-                "sprite": "../pokeSprite/gen8/0839_coalossal.gif",
-                "backSprite": "../pokeSprite/gen8/back/0839_coalossal_back.gif",
+                "sprite": "../pokeSprite/gen8/0839_coalossal/normal/front.gif",
+                "backSprite": "../pokeSprite/gen8/0839_coalossal/normal/back.gif",
                 "condition": "Level 34",
                 "conditionJa": "Lv.34",
                 "details": [

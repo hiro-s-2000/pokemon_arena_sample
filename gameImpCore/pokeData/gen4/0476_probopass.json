@@ -11,8 +11,8 @@
   "category": "gen4",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen4/0476_probopass.gif",
-  "backSprite": "../pokeSprite/gen4/back/0476_probopass_back.gif",
+  "sprite": "../pokeSprite/gen4/0476_probopass/normal/front.gif",
+  "backSprite": "../pokeSprite/gen4/0476_probopass/normal/back.gif",
   "abilities": [
     {
       "id": 5,
@@ -381,8 +381,8 @@
         "types": [
           "rock"
         ],
-        "sprite": "../pokeSprite/gen3/0299_nosepass.gif",
-        "backSprite": "../pokeSprite/gen3/back/0299_nosepass_back.gif",
+        "sprite": "../pokeSprite/gen3/0299_nosepass/normal/front.gif",
+        "backSprite": "../pokeSprite/gen3/0299_nosepass/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -397,8 +397,8 @@
               "rock",
               "steel"
             ],
-            "sprite": "../pokeSprite/gen4/0476_probopass.gif",
-            "backSprite": "../pokeSprite/gen4/back/0476_probopass_back.gif",
+            "sprite": "../pokeSprite/gen4/0476_probopass/normal/front.gif",
+            "backSprite": "../pokeSprite/gen4/0476_probopass/normal/back.gif",
             "condition": "Level up / Use Thunder Stone",
             "conditionJa": "レベルアップ / 「かみなりのいし」を使用",
             "details": [

@@ -11,8 +11,8 @@
   "category": "gen4",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen4/0464_rhyperior.gif",
-  "backSprite": "../pokeSprite/gen4/back/0464_rhyperior_back.gif",
+  "sprite": "../pokeSprite/gen4/0464_rhyperior/normal/front.gif",
+  "backSprite": "../pokeSprite/gen4/0464_rhyperior/normal/back.gif",
   "abilities": [
     {
       "id": 31,
@@ -306,8 +306,8 @@
           "ground",
           "rock"
         ],
-        "sprite": "../pokeSprite/gen1/0111_rhyhorn.gif",
-        "backSprite": "../pokeSprite/gen1/back/0111_rhyhorn_back.gif",
+        "sprite": "../pokeSprite/gen1/0111_rhyhorn/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0111_rhyhorn/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -322,8 +322,8 @@
               "ground",
               "rock"
             ],
-            "sprite": "../pokeSprite/gen1/0112_rhydon.gif",
-            "backSprite": "../pokeSprite/gen1/back/0112_rhydon_back.gif",
+            "sprite": "../pokeSprite/gen1/0112_rhydon/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0112_rhydon/normal/back.gif",
             "condition": "Level 42",
             "conditionJa": "Lv.42",
             "details": [
@@ -352,8 +352,8 @@
                   "ground",
                   "rock"
                 ],
-                "sprite": "../pokeSprite/gen4/0464_rhyperior.gif",
-                "backSprite": "../pokeSprite/gen4/back/0464_rhyperior_back.gif",
+                "sprite": "../pokeSprite/gen4/0464_rhyperior/normal/front.gif",
+                "backSprite": "../pokeSprite/gen4/0464_rhyperior/normal/back.gif",
                 "condition": "Trade holding Protector",
                 "conditionJa": "通信交換（プロテクターを持たせる）",
                 "details": [

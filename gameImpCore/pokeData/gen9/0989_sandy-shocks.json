@@ -11,8 +11,8 @@
   "category": "gen9",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen9/0989_sandy-shocks.gif",
-  "backSprite": "../pokeSprite/gen9/back/0989_sandy-shocks_back.gif",
+  "sprite": "../pokeSprite/gen9/0989_sandy-shocks/normal/front.gif",
+  "backSprite": "../pokeSprite/gen9/0989_sandy-shocks/normal/back.gif",
   "abilities": [
     {
       "id": 281,
@@ -256,8 +256,8 @@
           "electric",
           "ground"
         ],
-        "sprite": "../pokeSprite/gen9/0989_sandy-shocks.gif",
-        "backSprite": "../pokeSprite/gen9/back/0989_sandy-shocks_back.gif",
+        "sprite": "../pokeSprite/gen9/0989_sandy-shocks/normal/front.gif",
+        "backSprite": "../pokeSprite/gen9/0989_sandy-shocks/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

@@ -11,8 +11,8 @@
   "category": "gen6",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen6/0672_skiddo.gif",
-  "backSprite": "../pokeSprite/gen6/back/0672_skiddo_back.gif",
+  "sprite": "../pokeSprite/gen6/0672_skiddo/normal/front.gif",
+  "backSprite": "../pokeSprite/gen6/0672_skiddo/normal/back.gif",
   "abilities": [
     {
       "id": 157,
@@ -275,8 +275,8 @@
         "types": [
           "grass"
         ],
-        "sprite": "../pokeSprite/gen6/0672_skiddo.gif",
-        "backSprite": "../pokeSprite/gen6/back/0672_skiddo_back.gif",
+        "sprite": "../pokeSprite/gen6/0672_skiddo/normal/front.gif",
+        "backSprite": "../pokeSprite/gen6/0672_skiddo/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -290,8 +290,8 @@
             "types": [
               "grass"
             ],
-            "sprite": "../pokeSprite/gen6/0673_gogoat.gif",
-            "backSprite": "../pokeSprite/gen6/back/0673_gogoat_back.gif",
+            "sprite": "../pokeSprite/gen6/0673_gogoat/normal/front.gif",
+            "backSprite": "../pokeSprite/gen6/0673_gogoat/normal/back.gif",
             "condition": "Level 32",
             "conditionJa": "Lv.32",
             "details": [

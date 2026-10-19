@@ -11,8 +11,8 @@
   "category": "regional",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/regional/0050_diglett-alola.gif",
-  "backSprite": "../pokeSprite/regional/back/0050_diglett-alola_back.gif",
+  "sprite": "../pokeSprite/gen1/0050_diglett/regional/diglett-alola/front.gif",
+  "backSprite": "../pokeSprite/gen1/0050_diglett/regional/diglett-alola/back.gif",
   "abilities": [
     {
       "id": 8,
@@ -312,8 +312,8 @@
         "types": [
           "ground"
         ],
-        "sprite": "../pokeSprite/gen1/0050_diglett.gif",
-        "backSprite": "../pokeSprite/gen1/back/0050_diglett_back.gif",
+        "sprite": "../pokeSprite/gen1/0050_diglett/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0050_diglett/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -327,8 +327,8 @@
             "types": [
               "ground"
             ],
-            "sprite": "../pokeSprite/gen1/0051_dugtrio.gif",
-            "backSprite": "../pokeSprite/gen1/back/0051_dugtrio_back.gif",
+            "sprite": "../pokeSprite/gen1/0051_dugtrio/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0051_dugtrio/normal/back.gif",
             "condition": "Level 26",
             "conditionJa": "Lv.26",
             "details": [

@@ -11,8 +11,8 @@
   "category": "gen3",
   "isLegendary": false,
   "isMythical": true,
-  "sprite": "../pokeSprite/gen3/0385_jirachi.gif",
-  "backSprite": "../pokeSprite/gen3/back/0385_jirachi_back.gif",
+  "sprite": "../pokeSprite/gen3/0385_jirachi/normal/front.gif",
+  "backSprite": "../pokeSprite/gen3/0385_jirachi/normal/back.gif",
   "abilities": [
     {
       "id": 32,
@@ -255,8 +255,8 @@
           "steel",
           "psychic"
         ],
-        "sprite": "../pokeSprite/gen3/0385_jirachi.gif",
-        "backSprite": "../pokeSprite/gen3/back/0385_jirachi_back.gif",
+        "sprite": "../pokeSprite/gen3/0385_jirachi/normal/front.gif",
+        "backSprite": "../pokeSprite/gen3/0385_jirachi/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

@@ -11,8 +11,8 @@
   "category": "gen9",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen9/0957_tinkatink.gif",
-  "backSprite": "../pokeSprite/gen9/back/0957_tinkatink_back.gif",
+  "sprite": "../pokeSprite/gen9/0957_tinkatink/normal/front.gif",
+  "backSprite": "../pokeSprite/gen9/0957_tinkatink/normal/back.gif",
   "abilities": [
     {
       "id": 104,
@@ -299,8 +299,8 @@
           "fairy",
           "steel"
         ],
-        "sprite": "../pokeSprite/gen9/0957_tinkatink.gif",
-        "backSprite": "../pokeSprite/gen9/back/0957_tinkatink_back.gif",
+        "sprite": "../pokeSprite/gen9/0957_tinkatink/normal/front.gif",
+        "backSprite": "../pokeSprite/gen9/0957_tinkatink/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -315,8 +315,8 @@
               "fairy",
               "steel"
             ],
-            "sprite": "../pokeSprite/gen9/0958_tinkatuff.gif",
-            "backSprite": "../pokeSprite/gen9/back/0958_tinkatuff_back.gif",
+            "sprite": "../pokeSprite/gen9/0958_tinkatuff/normal/front.gif",
+            "backSprite": "../pokeSprite/gen9/0958_tinkatuff/normal/back.gif",
             "condition": "Level 24",
             "conditionJa": "Lv.24",
             "details": [
@@ -345,8 +345,8 @@
                   "fairy",
                   "steel"
                 ],
-                "sprite": "../pokeSprite/gen9/0959_tinkaton.gif",
-                "backSprite": "../pokeSprite/gen9/back/0959_tinkaton_back.gif",
+                "sprite": "../pokeSprite/gen9/0959_tinkaton/normal/front.gif",
+                "backSprite": "../pokeSprite/gen9/0959_tinkaton/normal/back.gif",
                 "condition": "Level 38",
                 "conditionJa": "Lv.38",
                 "details": [

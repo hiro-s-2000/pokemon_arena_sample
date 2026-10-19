@@ -11,8 +11,8 @@
   "category": "gen6",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen6/0694_helioptile.gif",
-  "backSprite": "../pokeSprite/gen6/back/0694_helioptile_back.gif",
+  "sprite": "../pokeSprite/gen6/0694_helioptile/normal/front.gif",
+  "backSprite": "../pokeSprite/gen6/0694_helioptile/normal/back.gif",
   "abilities": [
     {
       "id": 87,
@@ -300,8 +300,8 @@
           "electric",
           "normal"
         ],
-        "sprite": "../pokeSprite/gen6/0694_helioptile.gif",
-        "backSprite": "../pokeSprite/gen6/back/0694_helioptile_back.gif",
+        "sprite": "../pokeSprite/gen6/0694_helioptile/normal/front.gif",
+        "backSprite": "../pokeSprite/gen6/0694_helioptile/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -316,8 +316,8 @@
               "electric",
               "normal"
             ],
-            "sprite": "../pokeSprite/gen6/0695_heliolisk.gif",
-            "backSprite": "../pokeSprite/gen6/back/0695_heliolisk_back.gif",
+            "sprite": "../pokeSprite/gen6/0695_heliolisk/normal/front.gif",
+            "backSprite": "../pokeSprite/gen6/0695_heliolisk/normal/back.gif",
             "condition": "Use Sun Stone",
             "conditionJa": "「たいようのいし」を使用",
             "details": [

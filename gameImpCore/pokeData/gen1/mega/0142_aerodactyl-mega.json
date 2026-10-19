@@ -11,8 +11,8 @@
   "category": "mega",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/mega/0142_aerodactyl-mega.gif",
-  "backSprite": "../pokeSprite/mega/back/0142_aerodactyl-mega_back.gif",
+  "sprite": "../pokeSprite/gen1/0142_aerodactyl/mega/aerodactyl-mega/front.gif",
+  "backSprite": "../pokeSprite/gen1/0142_aerodactyl/mega/aerodactyl-mega/back.gif",
   "abilities": [
     {
       "id": 181,
@@ -255,8 +255,8 @@
           "rock",
           "flying"
         ],
-        "sprite": "../pokeSprite/gen1/0142_aerodactyl.gif",
-        "backSprite": "../pokeSprite/gen1/back/0142_aerodactyl_back.gif",
+        "sprite": "../pokeSprite/gen1/0142_aerodactyl/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0142_aerodactyl/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0588_karrablast.gif",
-  "backSprite": "../pokeSprite/gen5/back/0588_karrablast_back.gif",
+  "sprite": "../pokeSprite/gen5/0588_karrablast/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0588_karrablast/normal/back.gif",
   "abilities": [
     {
       "id": 68,
@@ -285,8 +285,8 @@
         "types": [
           "bug"
         ],
-        "sprite": "../pokeSprite/gen5/0588_karrablast.gif",
-        "backSprite": "../pokeSprite/gen5/back/0588_karrablast_back.gif",
+        "sprite": "../pokeSprite/gen5/0588_karrablast/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0588_karrablast/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -301,8 +301,8 @@
               "bug",
               "steel"
             ],
-            "sprite": "../pokeSprite/gen5/0589_escavalier.gif",
-            "backSprite": "../pokeSprite/gen5/back/0589_escavalier_back.gif",
+            "sprite": "../pokeSprite/gen5/0589_escavalier/normal/front.gif",
+            "backSprite": "../pokeSprite/gen5/0589_escavalier/normal/back.gif",
             "condition": "Trade",
             "conditionJa": "通信交換",
             "details": [

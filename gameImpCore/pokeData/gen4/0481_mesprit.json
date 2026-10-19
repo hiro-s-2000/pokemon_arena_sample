@@ -11,8 +11,8 @@
   "category": "gen4",
   "isLegendary": true,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen4/0481_mesprit.gif",
-  "backSprite": "../pokeSprite/gen4/back/0481_mesprit_back.gif",
+  "sprite": "../pokeSprite/gen4/0481_mesprit/normal/front.gif",
+  "backSprite": "../pokeSprite/gen4/0481_mesprit/normal/back.gif",
   "abilities": [
     {
       "id": 26,
@@ -253,8 +253,8 @@
         "types": [
           "psychic"
         ],
-        "sprite": "../pokeSprite/gen4/0481_mesprit.gif",
-        "backSprite": "../pokeSprite/gen4/back/0481_mesprit_back.gif",
+        "sprite": "../pokeSprite/gen4/0481_mesprit/normal/front.gif",
+        "backSprite": "../pokeSprite/gen4/0481_mesprit/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

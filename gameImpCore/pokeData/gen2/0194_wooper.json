@@ -11,8 +11,8 @@
   "category": "gen2",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen2/0194_wooper.gif",
-  "backSprite": "../pokeSprite/gen2/back/0194_wooper_back.gif",
+  "sprite": "../pokeSprite/gen2/0194_wooper/normal/front.gif",
+  "backSprite": "../pokeSprite/gen2/0194_wooper/normal/back.gif",
   "abilities": [
     {
       "id": 6,
@@ -326,8 +326,8 @@
           "water",
           "ground"
         ],
-        "sprite": "../pokeSprite/gen2/0194_wooper.gif",
-        "backSprite": "../pokeSprite/gen2/back/0194_wooper_back.gif",
+        "sprite": "../pokeSprite/gen2/0194_wooper/normal/front.gif",
+        "backSprite": "../pokeSprite/gen2/0194_wooper/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -342,8 +342,8 @@
               "water",
               "ground"
             ],
-            "sprite": "../pokeSprite/gen2/0195_quagsire.gif",
-            "backSprite": "../pokeSprite/gen2/back/0195_quagsire_back.gif",
+            "sprite": "../pokeSprite/gen2/0195_quagsire/normal/front.gif",
+            "backSprite": "../pokeSprite/gen2/0195_quagsire/normal/back.gif",
             "condition": "Level 20",
             "conditionJa": "Lv.20",
             "details": [
@@ -373,8 +373,8 @@
               "poison",
               "ground"
             ],
-            "sprite": "../pokeSprite/gen9/0980_clodsire.gif",
-            "backSprite": "../pokeSprite/gen9/back/0980_clodsire_back.gif",
+            "sprite": "../pokeSprite/gen9/0980_clodsire/normal/front.gif",
+            "backSprite": "../pokeSprite/gen9/0980_clodsire/normal/back.gif",
             "condition": "Level 20",
             "conditionJa": "Lv.20",
             "details": [

@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": true,
-  "sprite": "../pokeSprite/gen5/0649_genesect.gif",
-  "backSprite": "../pokeSprite/gen5/back/0649_genesect_back.gif",
+  "sprite": "../pokeSprite/gen5/0649_genesect/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0649_genesect/normal/back.gif",
   "abilities": [
     {
       "id": 88,
@@ -268,8 +268,8 @@
           "bug",
           "steel"
         ],
-        "sprite": "../pokeSprite/gen5/0649_genesect.gif",
-        "backSprite": "../pokeSprite/gen5/back/0649_genesect_back.gif",
+        "sprite": "../pokeSprite/gen5/0649_genesect/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0649_genesect/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

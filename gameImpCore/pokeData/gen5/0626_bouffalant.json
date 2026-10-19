@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0626_bouffalant.gif",
-  "backSprite": "../pokeSprite/gen5/back/0626_bouffalant_back.gif",
+  "sprite": "../pokeSprite/gen5/0626_bouffalant/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0626_bouffalant/normal/back.gif",
   "abilities": [
     {
       "id": 120,
@@ -258,8 +258,8 @@
         "types": [
           "normal"
         ],
-        "sprite": "../pokeSprite/gen5/0626_bouffalant.gif",
-        "backSprite": "../pokeSprite/gen5/back/0626_bouffalant_back.gif",
+        "sprite": "../pokeSprite/gen5/0626_bouffalant/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0626_bouffalant/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

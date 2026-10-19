@@ -11,8 +11,8 @@
   "category": "mega",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/mega/0071_victreebel-mega.gif",
-  "backSprite": "../pokeSprite/mega/back/0071_victreebel-mega_back.gif",
+  "sprite": "../pokeSprite/gen1/0071_victreebel/mega/victreebel-mega/front.gif",
+  "backSprite": "../pokeSprite/gen1/0071_victreebel/mega/victreebel-mega/back.gif",
   "abilities": [
     {
       "id": 215,
@@ -275,8 +275,8 @@
           "grass",
           "poison"
         ],
-        "sprite": "../pokeSprite/gen1/0069_bellsprout.gif",
-        "backSprite": "../pokeSprite/gen1/back/0069_bellsprout_back.gif",
+        "sprite": "../pokeSprite/gen1/0069_bellsprout/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0069_bellsprout/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -291,8 +291,8 @@
               "grass",
               "poison"
             ],
-            "sprite": "../pokeSprite/gen1/0070_weepinbell.gif",
-            "backSprite": "../pokeSprite/gen1/back/0070_weepinbell_back.gif",
+            "sprite": "../pokeSprite/gen1/0070_weepinbell/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0070_weepinbell/normal/back.gif",
             "condition": "Level 21",
             "conditionJa": "Lv.21",
             "details": [
@@ -321,8 +321,8 @@
                   "grass",
                   "poison"
                 ],
-                "sprite": "../pokeSprite/gen1/0071_victreebel.gif",
-                "backSprite": "../pokeSprite/gen1/back/0071_victreebel_back.gif",
+                "sprite": "../pokeSprite/gen1/0071_victreebel/normal/front.gif",
+                "backSprite": "../pokeSprite/gen1/0071_victreebel/normal/back.gif",
                 "condition": "Use Leaf Stone",
                 "conditionJa": "「リーフのいし」を使用",
                 "details": [

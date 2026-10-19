@@ -11,8 +11,8 @@
   "category": "mega",
   "isLegendary": true,
   "isMythical": false,
-  "sprite": "../pokeSprite/mega/0384_rayquaza-mega.gif",
-  "backSprite": "../pokeSprite/mega/back/0384_rayquaza-mega_back.gif",
+  "sprite": "../pokeSprite/gen3/0384_rayquaza/mega/rayquaza-mega/front.gif",
+  "backSprite": "../pokeSprite/gen3/0384_rayquaza/mega/rayquaza-mega/back.gif",
   "abilities": [
     {
       "id": 191,
@@ -261,8 +261,8 @@
           "dragon",
           "flying"
         ],
-        "sprite": "../pokeSprite/gen3/0384_rayquaza.gif",
-        "backSprite": "../pokeSprite/gen3/back/0384_rayquaza_back.gif",
+        "sprite": "../pokeSprite/gen3/0384_rayquaza/normal/front.gif",
+        "backSprite": "../pokeSprite/gen3/0384_rayquaza/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

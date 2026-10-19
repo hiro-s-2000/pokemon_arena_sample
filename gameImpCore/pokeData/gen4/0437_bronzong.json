@@ -11,8 +11,8 @@
   "category": "gen4",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen4/0437_bronzong.gif",
-  "backSprite": "../pokeSprite/gen4/back/0437_bronzong_back.gif",
+  "sprite": "../pokeSprite/gen4/0437_bronzong/normal/front.gif",
+  "backSprite": "../pokeSprite/gen4/0437_bronzong/normal/back.gif",
   "abilities": [
     {
       "id": 26,
@@ -302,8 +302,8 @@
           "steel",
           "psychic"
         ],
-        "sprite": "../pokeSprite/gen4/0436_bronzor.gif",
-        "backSprite": "../pokeSprite/gen4/back/0436_bronzor_back.gif",
+        "sprite": "../pokeSprite/gen4/0436_bronzor/normal/front.gif",
+        "backSprite": "../pokeSprite/gen4/0436_bronzor/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -318,8 +318,8 @@
               "steel",
               "psychic"
             ],
-            "sprite": "../pokeSprite/gen4/0437_bronzong.gif",
-            "backSprite": "../pokeSprite/gen4/back/0437_bronzong_back.gif",
+            "sprite": "../pokeSprite/gen4/0437_bronzong/normal/front.gif",
+            "backSprite": "../pokeSprite/gen4/0437_bronzong/normal/back.gif",
             "condition": "Level 33",
             "conditionJa": "Lv.33",
             "details": [

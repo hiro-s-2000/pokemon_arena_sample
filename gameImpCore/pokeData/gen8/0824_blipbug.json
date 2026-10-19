@@ -11,8 +11,8 @@
   "category": "gen8",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen8/0824_blipbug.gif",
-  "backSprite": "../pokeSprite/gen8/back/0824_blipbug_back.gif",
+  "sprite": "../pokeSprite/gen8/0824_blipbug/normal/front.gif",
+  "backSprite": "../pokeSprite/gen8/0824_blipbug/normal/back.gif",
   "abilities": [
     {
       "id": 68,
@@ -285,8 +285,8 @@
         "types": [
           "bug"
         ],
-        "sprite": "../pokeSprite/gen8/0824_blipbug.gif",
-        "backSprite": "../pokeSprite/gen8/back/0824_blipbug_back.gif",
+        "sprite": "../pokeSprite/gen8/0824_blipbug/normal/front.gif",
+        "backSprite": "../pokeSprite/gen8/0824_blipbug/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -301,8 +301,8 @@
               "bug",
               "psychic"
             ],
-            "sprite": "../pokeSprite/gen8/0825_dottler.gif",
-            "backSprite": "../pokeSprite/gen8/back/0825_dottler_back.gif",
+            "sprite": "../pokeSprite/gen8/0825_dottler/normal/front.gif",
+            "backSprite": "../pokeSprite/gen8/0825_dottler/normal/back.gif",
             "condition": "Level 10",
             "conditionJa": "Lv.10",
             "details": [
@@ -331,8 +331,8 @@
                   "bug",
                   "psychic"
                 ],
-                "sprite": "../pokeSprite/gen8/0826_orbeetle.gif",
-                "backSprite": "../pokeSprite/gen8/back/0826_orbeetle_back.gif",
+                "sprite": "../pokeSprite/gen8/0826_orbeetle/normal/front.gif",
+                "backSprite": "../pokeSprite/gen8/0826_orbeetle/normal/back.gif",
                 "condition": "Level 30",
                 "conditionJa": "Lv.30",
                 "details": [

@@ -11,8 +11,8 @@
   "category": "gen6",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen6/0706_goodra.gif",
-  "backSprite": "../pokeSprite/gen6/back/0706_goodra_back.gif",
+  "sprite": "../pokeSprite/gen6/0706_goodra/normal/front.gif",
+  "backSprite": "../pokeSprite/gen6/0706_goodra/normal/back.gif",
   "abilities": [
     {
       "id": 157,
@@ -294,8 +294,8 @@
         "types": [
           "dragon"
         ],
-        "sprite": "../pokeSprite/gen6/0704_goomy.gif",
-        "backSprite": "../pokeSprite/gen6/back/0704_goomy_back.gif",
+        "sprite": "../pokeSprite/gen6/0704_goomy/normal/front.gif",
+        "backSprite": "../pokeSprite/gen6/0704_goomy/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -309,8 +309,8 @@
             "types": [
               "dragon"
             ],
-            "sprite": "../pokeSprite/gen6/0705_sliggoo.gif",
-            "backSprite": "../pokeSprite/gen6/back/0705_sliggoo_back.gif",
+            "sprite": "../pokeSprite/gen6/0705_sliggoo/normal/front.gif",
+            "backSprite": "../pokeSprite/gen6/0705_sliggoo/normal/back.gif",
             "condition": "Level 40",
             "conditionJa": "Lv.40",
             "details": [
@@ -351,8 +351,8 @@
                 "types": [
                   "dragon"
                 ],
-                "sprite": "../pokeSprite/gen6/0706_goodra.gif",
-                "backSprite": "../pokeSprite/gen6/back/0706_goodra_back.gif",
+                "sprite": "../pokeSprite/gen6/0706_goodra/normal/front.gif",
+                "backSprite": "../pokeSprite/gen6/0706_goodra/normal/back.gif",
                 "condition": "Level 50",
                 "conditionJa": "Lv.50",
                 "details": [

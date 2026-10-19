@@ -11,8 +11,8 @@
   "category": "mega",
   "isLegendary": true,
   "isMythical": false,
-  "sprite": "../pokeSprite/mega/0485_heatran-mega.gif",
-  "backSprite": "../pokeSprite/mega/back/0485_heatran-mega_back.gif",
+  "sprite": "../pokeSprite/gen4/0485_heatran/mega/heatran-mega/front.gif",
+  "backSprite": "../pokeSprite/gen4/0485_heatran/mega/heatran-mega/back.gif",
   "abilities": [
     {
       "id": 18,
@@ -267,8 +267,8 @@
           "fire",
           "steel"
         ],
-        "sprite": "../pokeSprite/gen4/0485_heatran.gif",
-        "backSprite": "../pokeSprite/gen4/back/0485_heatran_back.gif",
+        "sprite": "../pokeSprite/gen4/0485_heatran/normal/front.gif",
+        "backSprite": "../pokeSprite/gen4/0485_heatran/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

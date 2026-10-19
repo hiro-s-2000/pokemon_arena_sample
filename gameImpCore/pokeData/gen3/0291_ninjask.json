@@ -11,8 +11,8 @@
   "category": "gen3",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen3/0291_ninjask.gif",
-  "backSprite": "../pokeSprite/gen3/back/0291_ninjask_back.gif",
+  "sprite": "../pokeSprite/gen3/0291_ninjask/normal/front.gif",
+  "backSprite": "../pokeSprite/gen3/0291_ninjask/normal/back.gif",
   "abilities": [
     {
       "id": 3,
@@ -287,8 +287,8 @@
           "bug",
           "ground"
         ],
-        "sprite": "../pokeSprite/gen3/0290_nincada.gif",
-        "backSprite": "../pokeSprite/gen3/back/0290_nincada_back.gif",
+        "sprite": "../pokeSprite/gen3/0290_nincada/normal/front.gif",
+        "backSprite": "../pokeSprite/gen3/0290_nincada/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -303,8 +303,8 @@
               "bug",
               "flying"
             ],
-            "sprite": "../pokeSprite/gen3/0291_ninjask.gif",
-            "backSprite": "../pokeSprite/gen3/back/0291_ninjask_back.gif",
+            "sprite": "../pokeSprite/gen3/0291_ninjask/normal/front.gif",
+            "backSprite": "../pokeSprite/gen3/0291_ninjask/normal/back.gif",
             "condition": "Level 20",
             "conditionJa": "Lv.20",
             "details": [
@@ -334,8 +334,8 @@
               "bug",
               "ghost"
             ],
-            "sprite": "../pokeSprite/gen3/0292_shedinja.gif",
-            "backSprite": "../pokeSprite/gen3/back/0292_shedinja_back.gif",
+            "sprite": "../pokeSprite/gen3/0292_shedinja/normal/front.gif",
+            "backSprite": "../pokeSprite/gen3/0292_shedinja/normal/back.gif",
             "condition": "Shed",
             "conditionJa": "Shed",
             "details": [

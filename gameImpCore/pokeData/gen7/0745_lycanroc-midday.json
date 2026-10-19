@@ -11,8 +11,8 @@
   "category": "gen7",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen7/0745_lycanroc-midday.gif",
-  "backSprite": "../pokeSprite/gen7/back/0745_lycanroc-midday_back.gif",
+  "sprite": "../pokeSprite/gen7/0745_lycanroc-midday/normal/front.gif",
+  "backSprite": "../pokeSprite/gen7/0745_lycanroc-midday/normal/back.gif",
   "abilities": [
     {
       "id": 51,
@@ -310,8 +310,8 @@
         "types": [
           "rock"
         ],
-        "sprite": "../pokeSprite/gen7/0744_rockruff.gif",
-        "backSprite": "../pokeSprite/gen7/back/0744_rockruff_back.gif",
+        "sprite": "../pokeSprite/gen7/0744_rockruff/normal/front.gif",
+        "backSprite": "../pokeSprite/gen7/0744_rockruff/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -325,8 +325,8 @@
             "types": [
               "rock"
             ],
-            "sprite": "../pokeSprite/gen7/0745_lycanroc-midday.gif",
-            "backSprite": "../pokeSprite/gen7/back/0745_lycanroc-midday_back.gif",
+            "sprite": "../pokeSprite/gen7/0745_lycanroc-midday/normal/front.gif",
+            "backSprite": "../pokeSprite/gen7/0745_lycanroc-midday/normal/back.gif",
             "condition": "Level 25 at day / Level 25 at night / Level 25 at dusk",
             "conditionJa": "Lv.25（day） / Lv.25（night） / Lv.25（dusk）",
             "details": [

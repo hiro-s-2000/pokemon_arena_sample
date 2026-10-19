@@ -11,8 +11,8 @@
   "category": "gen4",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen4/0469_yanmega.gif",
-  "backSprite": "../pokeSprite/gen4/back/0469_yanmega_back.gif",
+  "sprite": "../pokeSprite/gen4/0469_yanmega/normal/front.gif",
+  "backSprite": "../pokeSprite/gen4/0469_yanmega/normal/back.gif",
   "abilities": [
     {
       "id": 3,
@@ -297,8 +297,8 @@
           "bug",
           "flying"
         ],
-        "sprite": "../pokeSprite/gen2/0193_yanma.gif",
-        "backSprite": "../pokeSprite/gen2/back/0193_yanma_back.gif",
+        "sprite": "../pokeSprite/gen2/0193_yanma/normal/front.gif",
+        "backSprite": "../pokeSprite/gen2/0193_yanma/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -313,8 +313,8 @@
               "bug",
               "flying"
             ],
-            "sprite": "../pokeSprite/gen4/0469_yanmega.gif",
-            "backSprite": "../pokeSprite/gen4/back/0469_yanmega_back.gif",
+            "sprite": "../pokeSprite/gen4/0469_yanmega/normal/front.gif",
+            "backSprite": "../pokeSprite/gen4/0469_yanmega/normal/back.gif",
             "condition": "Level up knowing Ancient Power",
             "conditionJa": "レベルアップ（「げんしのちから」を習得）",
             "details": [

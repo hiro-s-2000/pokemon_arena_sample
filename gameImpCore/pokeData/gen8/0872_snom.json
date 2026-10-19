@@ -11,8 +11,8 @@
   "category": "gen8",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen8/0872_snom.gif",
-  "backSprite": "../pokeSprite/gen8/back/0872_snom_back.gif",
+  "sprite": "../pokeSprite/gen8/0872_snom/normal/front.gif",
+  "backSprite": "../pokeSprite/gen8/0872_snom/normal/back.gif",
   "abilities": [
     {
       "id": 19,
@@ -288,8 +288,8 @@
           "ice",
           "bug"
         ],
-        "sprite": "../pokeSprite/gen8/0872_snom.gif",
-        "backSprite": "../pokeSprite/gen8/back/0872_snom_back.gif",
+        "sprite": "../pokeSprite/gen8/0872_snom/normal/front.gif",
+        "backSprite": "../pokeSprite/gen8/0872_snom/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -304,8 +304,8 @@
               "ice",
               "bug"
             ],
-            "sprite": "../pokeSprite/gen8/0873_frosmoth.gif",
-            "backSprite": "../pokeSprite/gen8/back/0873_frosmoth_back.gif",
+            "sprite": "../pokeSprite/gen8/0873_frosmoth/normal/front.gif",
+            "backSprite": "../pokeSprite/gen8/0873_frosmoth/normal/back.gif",
             "condition": "Level up high Friendship (160+) at night",
             "conditionJa": "レベルアップ（なつき度160以上）（night）",
             "details": [

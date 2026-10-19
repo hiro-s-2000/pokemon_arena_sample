@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0621_druddigon.gif",
-  "backSprite": "../pokeSprite/gen5/back/0621_druddigon_back.gif",
+  "sprite": "../pokeSprite/gen5/0621_druddigon/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0621_druddigon/normal/back.gif",
   "abilities": [
     {
       "id": 24,
@@ -266,8 +266,8 @@
         "types": [
           "dragon"
         ],
-        "sprite": "../pokeSprite/gen5/0621_druddigon.gif",
-        "backSprite": "../pokeSprite/gen5/back/0621_druddigon_back.gif",
+        "sprite": "../pokeSprite/gen5/0621_druddigon/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0621_druddigon/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

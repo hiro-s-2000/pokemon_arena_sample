@@ -11,8 +11,8 @@
   "category": "gen6",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen6/0676_furfrou.gif",
-  "backSprite": "../pokeSprite/gen6/back/0676_furfrou_back.gif",
+  "sprite": "../pokeSprite/gen6/0676_furfrou/normal/front.gif",
+  "backSprite": "../pokeSprite/gen6/0676_furfrou/normal/back.gif",
   "abilities": [
     {
       "id": 169,
@@ -238,8 +238,8 @@
         "types": [
           "normal"
         ],
-        "sprite": "../pokeSprite/gen6/0676_furfrou.gif",
-        "backSprite": "../pokeSprite/gen6/back/0676_furfrou_back.gif",
+        "sprite": "../pokeSprite/gen6/0676_furfrou/normal/front.gif",
+        "backSprite": "../pokeSprite/gen6/0676_furfrou/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

@@ -11,8 +11,8 @@
   "category": "gen9",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen9/0931_squawkabilly-green-plumage.gif",
-  "backSprite": "../pokeSprite/gen9/back/0931_squawkabilly-green-plumage_back.gif",
+  "sprite": "../pokeSprite/gen9/0931_squawkabilly-green-plumage/normal/front.gif",
+  "backSprite": "../pokeSprite/gen9/0931_squawkabilly-green-plumage/normal/back.gif",
   "abilities": [
     {
       "id": 22,
@@ -272,8 +272,8 @@
           "normal",
           "flying"
         ],
-        "sprite": "../pokeSprite/gen9/0931_squawkabilly-green-plumage.gif",
-        "backSprite": "../pokeSprite/gen9/back/0931_squawkabilly-green-plumage_back.gif",
+        "sprite": "../pokeSprite/gen9/0931_squawkabilly-green-plumage/normal/front.gif",
+        "backSprite": "../pokeSprite/gen9/0931_squawkabilly-green-plumage/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

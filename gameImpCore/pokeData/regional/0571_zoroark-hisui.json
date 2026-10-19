@@ -11,8 +11,8 @@
   "category": "regional",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/regional/0571_zoroark-hisui.gif",
-  "backSprite": "../pokeSprite/regional/back/0571_zoroark-hisui_back.gif",
+  "sprite": "../pokeSprite/gen5/0571_zoroark/regional/zoroark-hisui/front.gif",
+  "backSprite": "../pokeSprite/gen5/0571_zoroark/regional/zoroark-hisui/back.gif",
   "abilities": [
     {
       "id": 149,
@@ -284,8 +284,8 @@
         "types": [
           "dark"
         ],
-        "sprite": "../pokeSprite/gen5/0570_zorua.gif",
-        "backSprite": "../pokeSprite/gen5/back/0570_zorua_back.gif",
+        "sprite": "../pokeSprite/gen5/0570_zorua/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0570_zorua/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -299,8 +299,8 @@
             "types": [
               "dark"
             ],
-            "sprite": "../pokeSprite/gen5/0571_zoroark.gif",
-            "backSprite": "../pokeSprite/gen5/back/0571_zoroark_back.gif",
+            "sprite": "../pokeSprite/gen5/0571_zoroark/normal/front.gif",
+            "backSprite": "../pokeSprite/gen5/0571_zoroark/normal/back.gif",
             "condition": "Level 30",
             "conditionJa": "Lv.30",
             "details": [

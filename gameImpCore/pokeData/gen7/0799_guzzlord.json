@@ -11,8 +11,8 @@
   "category": "gen7",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen7/0799_guzzlord.gif",
-  "backSprite": "../pokeSprite/gen7/back/0799_guzzlord_back.gif",
+  "sprite": "../pokeSprite/gen7/0799_guzzlord/normal/front.gif",
+  "backSprite": "../pokeSprite/gen7/0799_guzzlord/normal/back.gif",
   "abilities": [
     {
       "id": 224,
@@ -253,8 +253,8 @@
           "dark",
           "dragon"
         ],
-        "sprite": "../pokeSprite/gen7/0799_guzzlord.gif",
-        "backSprite": "../pokeSprite/gen7/back/0799_guzzlord_back.gif",
+        "sprite": "../pokeSprite/gen7/0799_guzzlord/normal/front.gif",
+        "backSprite": "../pokeSprite/gen7/0799_guzzlord/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

@@ -11,8 +11,8 @@
   "category": "mega",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/mega/0768_golisopod-mega.gif",
-  "backSprite": "../pokeSprite/mega/back/0768_golisopod-mega_back.gif",
+  "sprite": "../pokeSprite/gen7/0768_golisopod/mega/golisopod-mega/front.gif",
+  "backSprite": "../pokeSprite/gen7/0768_golisopod/mega/golisopod-mega/back.gif",
   "abilities": [
     {
       "id": 181,
@@ -283,8 +283,8 @@
           "bug",
           "water"
         ],
-        "sprite": "../pokeSprite/gen7/0767_wimpod.gif",
-        "backSprite": "../pokeSprite/gen7/back/0767_wimpod_back.gif",
+        "sprite": "../pokeSprite/gen7/0767_wimpod/normal/front.gif",
+        "backSprite": "../pokeSprite/gen7/0767_wimpod/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -299,8 +299,8 @@
               "bug",
               "water"
             ],
-            "sprite": "../pokeSprite/gen7/0768_golisopod.gif",
-            "backSprite": "../pokeSprite/gen7/back/0768_golisopod_back.gif",
+            "sprite": "../pokeSprite/gen7/0768_golisopod/normal/front.gif",
+            "backSprite": "../pokeSprite/gen7/0768_golisopod/normal/back.gif",
             "condition": "Level 30",
             "conditionJa": "Lv.30",
             "details": [

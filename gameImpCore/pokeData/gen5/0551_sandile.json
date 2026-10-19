@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0551_sandile.gif",
-  "backSprite": "../pokeSprite/gen5/back/0551_sandile_back.gif",
+  "sprite": "../pokeSprite/gen5/0551_sandile/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0551_sandile/normal/back.gif",
   "abilities": [
     {
       "id": 22,
@@ -299,8 +299,8 @@
           "ground",
           "dark"
         ],
-        "sprite": "../pokeSprite/gen5/0551_sandile.gif",
-        "backSprite": "../pokeSprite/gen5/back/0551_sandile_back.gif",
+        "sprite": "../pokeSprite/gen5/0551_sandile/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0551_sandile/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -315,8 +315,8 @@
               "ground",
               "dark"
             ],
-            "sprite": "../pokeSprite/gen5/0552_krokorok.gif",
-            "backSprite": "../pokeSprite/gen5/back/0552_krokorok_back.gif",
+            "sprite": "../pokeSprite/gen5/0552_krokorok/normal/front.gif",
+            "backSprite": "../pokeSprite/gen5/0552_krokorok/normal/back.gif",
             "condition": "Level 29",
             "conditionJa": "Lv.29",
             "details": [
@@ -345,8 +345,8 @@
                   "ground",
                   "dark"
                 ],
-                "sprite": "../pokeSprite/gen5/0553_krookodile.gif",
-                "backSprite": "../pokeSprite/gen5/back/0553_krookodile_back.gif",
+                "sprite": "../pokeSprite/gen5/0553_krookodile/normal/front.gif",
+                "backSprite": "../pokeSprite/gen5/0553_krookodile/normal/back.gif",
                 "condition": "Level 40",
                 "conditionJa": "Lv.40",
                 "details": [

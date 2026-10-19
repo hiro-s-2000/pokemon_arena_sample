@@ -11,8 +11,8 @@
   "category": "gen3",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen3/0312_minun.gif",
-  "backSprite": "../pokeSprite/gen3/back/0312_minun_back.gif",
+  "sprite": "../pokeSprite/gen3/0312_minun/normal/front.gif",
+  "backSprite": "../pokeSprite/gen3/0312_minun/normal/back.gif",
   "abilities": [
     {
       "id": 58,
@@ -251,8 +251,8 @@
         "types": [
           "electric"
         ],
-        "sprite": "../pokeSprite/gen3/0312_minun.gif",
-        "backSprite": "../pokeSprite/gen3/back/0312_minun_back.gif",
+        "sprite": "../pokeSprite/gen3/0312_minun/normal/front.gif",
+        "backSprite": "../pokeSprite/gen3/0312_minun/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

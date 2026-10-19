@@ -11,8 +11,8 @@
   "category": "gen2",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen2/0177_natu.gif",
-  "backSprite": "../pokeSprite/gen2/back/0177_natu_back.gif",
+  "sprite": "../pokeSprite/gen2/0177_natu/normal/front.gif",
+  "backSprite": "../pokeSprite/gen2/0177_natu/normal/back.gif",
   "abilities": [
     {
       "id": 28,
@@ -297,8 +297,8 @@
           "psychic",
           "flying"
         ],
-        "sprite": "../pokeSprite/gen2/0177_natu.gif",
-        "backSprite": "../pokeSprite/gen2/back/0177_natu_back.gif",
+        "sprite": "../pokeSprite/gen2/0177_natu/normal/front.gif",
+        "backSprite": "../pokeSprite/gen2/0177_natu/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -313,8 +313,8 @@
               "psychic",
               "flying"
             ],
-            "sprite": "../pokeSprite/gen2/0178_xatu.gif",
-            "backSprite": "../pokeSprite/gen2/back/0178_xatu_back.gif",
+            "sprite": "../pokeSprite/gen2/0178_xatu/normal/front.gif",
+            "backSprite": "../pokeSprite/gen2/0178_xatu/normal/back.gif",
             "condition": "Level 25",
             "conditionJa": "Lv.25",
             "details": [

@@ -11,8 +11,8 @@
   "category": "gen7",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen7/0756_shiinotic.gif",
-  "backSprite": "../pokeSprite/gen7/back/0756_shiinotic_back.gif",
+  "sprite": "../pokeSprite/gen7/0756_shiinotic/normal/front.gif",
+  "backSprite": "../pokeSprite/gen7/0756_shiinotic/normal/back.gif",
   "abilities": [
     {
       "id": 35,
@@ -297,8 +297,8 @@
           "grass",
           "fairy"
         ],
-        "sprite": "../pokeSprite/gen7/0755_morelull.gif",
-        "backSprite": "../pokeSprite/gen7/back/0755_morelull_back.gif",
+        "sprite": "../pokeSprite/gen7/0755_morelull/normal/front.gif",
+        "backSprite": "../pokeSprite/gen7/0755_morelull/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -313,8 +313,8 @@
               "grass",
               "fairy"
             ],
-            "sprite": "../pokeSprite/gen7/0756_shiinotic.gif",
-            "backSprite": "../pokeSprite/gen7/back/0756_shiinotic_back.gif",
+            "sprite": "../pokeSprite/gen7/0756_shiinotic/normal/front.gif",
+            "backSprite": "../pokeSprite/gen7/0756_shiinotic/normal/back.gif",
             "condition": "Level 24",
             "conditionJa": "Lv.24",
             "details": [

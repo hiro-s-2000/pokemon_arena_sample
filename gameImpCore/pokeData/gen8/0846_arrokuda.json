@@ -11,8 +11,8 @@
   "category": "gen8",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen8/0846_arrokuda.gif",
-  "backSprite": "../pokeSprite/gen8/back/0846_arrokuda_back.gif",
+  "sprite": "../pokeSprite/gen8/0846_arrokuda/normal/front.gif",
+  "backSprite": "../pokeSprite/gen8/0846_arrokuda/normal/back.gif",
   "abilities": [
     {
       "id": 33,
@@ -275,8 +275,8 @@
         "types": [
           "water"
         ],
-        "sprite": "../pokeSprite/gen8/0846_arrokuda.gif",
-        "backSprite": "../pokeSprite/gen8/back/0846_arrokuda_back.gif",
+        "sprite": "../pokeSprite/gen8/0846_arrokuda/normal/front.gif",
+        "backSprite": "../pokeSprite/gen8/0846_arrokuda/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -290,8 +290,8 @@
             "types": [
               "water"
             ],
-            "sprite": "../pokeSprite/gen8/0847_barraskewda.gif",
-            "backSprite": "../pokeSprite/gen8/back/0847_barraskewda_back.gif",
+            "sprite": "../pokeSprite/gen8/0847_barraskewda/normal/front.gif",
+            "backSprite": "../pokeSprite/gen8/0847_barraskewda/normal/back.gif",
             "condition": "Level 26",
             "conditionJa": "Lv.26",
             "details": [

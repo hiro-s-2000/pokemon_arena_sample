@@ -11,8 +11,8 @@
   "category": "mega",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/mega/0376_metagross-mega.gif",
-  "backSprite": "../pokeSprite/mega/back/0376_metagross-mega_back.gif",
+  "sprite": "../pokeSprite/gen3/0376_metagross/mega/metagross-mega/front.gif",
+  "backSprite": "../pokeSprite/gen3/0376_metagross/mega/metagross-mega/back.gif",
   "abilities": [
     {
       "id": 181,
@@ -276,8 +276,8 @@
           "steel",
           "psychic"
         ],
-        "sprite": "../pokeSprite/gen3/0374_beldum.gif",
-        "backSprite": "../pokeSprite/gen3/back/0374_beldum_back.gif",
+        "sprite": "../pokeSprite/gen3/0374_beldum/normal/front.gif",
+        "backSprite": "../pokeSprite/gen3/0374_beldum/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -292,8 +292,8 @@
               "steel",
               "psychic"
             ],
-            "sprite": "../pokeSprite/gen3/0375_metang.gif",
-            "backSprite": "../pokeSprite/gen3/back/0375_metang_back.gif",
+            "sprite": "../pokeSprite/gen3/0375_metang/normal/front.gif",
+            "backSprite": "../pokeSprite/gen3/0375_metang/normal/back.gif",
             "condition": "Level 20",
             "conditionJa": "Lv.20",
             "details": [
@@ -322,8 +322,8 @@
                   "steel",
                   "psychic"
                 ],
-                "sprite": "../pokeSprite/gen3/0376_metagross.gif",
-                "backSprite": "../pokeSprite/gen3/back/0376_metagross_back.gif",
+                "sprite": "../pokeSprite/gen3/0376_metagross/normal/front.gif",
+                "backSprite": "../pokeSprite/gen3/0376_metagross/normal/back.gif",
                 "condition": "Level 45",
                 "conditionJa": "Lv.45",
                 "details": [

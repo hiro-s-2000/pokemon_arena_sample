@@ -11,8 +11,8 @@
   "category": "mega",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/mega/0094_gengar-mega.gif",
-  "backSprite": "../pokeSprite/mega/back/0094_gengar-mega_back.gif",
+  "sprite": "../pokeSprite/gen1/0094_gengar/mega/gengar-mega/front.gif",
+  "backSprite": "../pokeSprite/gen1/0094_gengar/mega/gengar-mega/back.gif",
   "abilities": [
     {
       "id": 23,
@@ -275,8 +275,8 @@
           "ghost",
           "poison"
         ],
-        "sprite": "../pokeSprite/gen1/0092_gastly.gif",
-        "backSprite": "../pokeSprite/gen1/back/0092_gastly_back.gif",
+        "sprite": "../pokeSprite/gen1/0092_gastly/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0092_gastly/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -291,8 +291,8 @@
               "ghost",
               "poison"
             ],
-            "sprite": "../pokeSprite/gen1/0093_haunter.gif",
-            "backSprite": "../pokeSprite/gen1/back/0093_haunter_back.gif",
+            "sprite": "../pokeSprite/gen1/0093_haunter/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0093_haunter/normal/back.gif",
             "condition": "Level 25",
             "conditionJa": "Lv.25",
             "details": [
@@ -321,8 +321,8 @@
                   "ghost",
                   "poison"
                 ],
-                "sprite": "../pokeSprite/gen1/0094_gengar.gif",
-                "backSprite": "../pokeSprite/gen1/back/0094_gengar_back.gif",
+                "sprite": "../pokeSprite/gen1/0094_gengar/normal/front.gif",
+                "backSprite": "../pokeSprite/gen1/0094_gengar/normal/back.gif",
                 "condition": "Trade",
                 "conditionJa": "通信交換",
                 "details": [

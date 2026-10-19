@@ -11,8 +11,8 @@
   "category": "gen4",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen4/0473_mamoswine.gif",
-  "backSprite": "../pokeSprite/gen4/back/0473_mamoswine_back.gif",
+  "sprite": "../pokeSprite/gen4/0473_mamoswine/normal/front.gif",
+  "backSprite": "../pokeSprite/gen4/0473_mamoswine/normal/back.gif",
   "abilities": [
     {
       "id": 12,
@@ -299,8 +299,8 @@
           "ice",
           "ground"
         ],
-        "sprite": "../pokeSprite/gen2/0220_swinub.gif",
-        "backSprite": "../pokeSprite/gen2/back/0220_swinub_back.gif",
+        "sprite": "../pokeSprite/gen2/0220_swinub/normal/front.gif",
+        "backSprite": "../pokeSprite/gen2/0220_swinub/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -315,8 +315,8 @@
               "ice",
               "ground"
             ],
-            "sprite": "../pokeSprite/gen2/0221_piloswine.gif",
-            "backSprite": "../pokeSprite/gen2/back/0221_piloswine_back.gif",
+            "sprite": "../pokeSprite/gen2/0221_piloswine/normal/front.gif",
+            "backSprite": "../pokeSprite/gen2/0221_piloswine/normal/back.gif",
             "condition": "Level 33",
             "conditionJa": "Lv.33",
             "details": [
@@ -345,8 +345,8 @@
                   "ice",
                   "ground"
                 ],
-                "sprite": "../pokeSprite/gen4/0473_mamoswine.gif",
-                "backSprite": "../pokeSprite/gen4/back/0473_mamoswine_back.gif",
+                "sprite": "../pokeSprite/gen4/0473_mamoswine/normal/front.gif",
+                "backSprite": "../pokeSprite/gen4/0473_mamoswine/normal/back.gif",
                 "condition": "Level up knowing Ancient Power",
                 "conditionJa": "レベルアップ（「げんしのちから」を習得）",
                 "details": [

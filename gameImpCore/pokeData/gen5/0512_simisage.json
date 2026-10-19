@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0512_simisage.gif",
-  "backSprite": "../pokeSprite/gen5/back/0512_simisage_back.gif",
+  "sprite": "../pokeSprite/gen5/0512_simisage/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0512_simisage/normal/back.gif",
   "abilities": [
     {
       "id": 82,
@@ -273,8 +273,8 @@
         "types": [
           "grass"
         ],
-        "sprite": "../pokeSprite/gen5/0511_pansage.gif",
-        "backSprite": "../pokeSprite/gen5/back/0511_pansage_back.gif",
+        "sprite": "../pokeSprite/gen5/0511_pansage/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0511_pansage/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -288,8 +288,8 @@
             "types": [
               "grass"
             ],
-            "sprite": "../pokeSprite/gen5/0512_simisage.gif",
-            "backSprite": "../pokeSprite/gen5/back/0512_simisage_back.gif",
+            "sprite": "../pokeSprite/gen5/0512_simisage/normal/front.gif",
+            "backSprite": "../pokeSprite/gen5/0512_simisage/normal/back.gif",
             "condition": "Use Leaf Stone",
             "conditionJa": "「リーフのいし」を使用",
             "details": [

@@ -11,8 +11,8 @@
   "category": "gen1",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen1/0010_caterpie.gif",
-  "backSprite": "../pokeSprite/gen1/back/0010_caterpie_back.gif",
+  "sprite": "../pokeSprite/gen1/0010_caterpie/normal/front.gif",
+  "backSprite": "../pokeSprite/gen1/0010_caterpie/normal/back.gif",
   "abilities": [
     {
       "id": 19,
@@ -275,8 +275,8 @@
         "types": [
           "bug"
         ],
-        "sprite": "../pokeSprite/gen1/0010_caterpie.gif",
-        "backSprite": "../pokeSprite/gen1/back/0010_caterpie_back.gif",
+        "sprite": "../pokeSprite/gen1/0010_caterpie/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0010_caterpie/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -290,8 +290,8 @@
             "types": [
               "bug"
             ],
-            "sprite": "../pokeSprite/gen1/0011_metapod.gif",
-            "backSprite": "../pokeSprite/gen1/back/0011_metapod_back.gif",
+            "sprite": "../pokeSprite/gen1/0011_metapod/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0011_metapod/normal/back.gif",
             "condition": "Level 7",
             "conditionJa": "Lv.7",
             "details": [
@@ -320,8 +320,8 @@
                   "bug",
                   "flying"
                 ],
-                "sprite": "../pokeSprite/gen1/0012_butterfree.gif",
-                "backSprite": "../pokeSprite/gen1/back/0012_butterfree_back.gif",
+                "sprite": "../pokeSprite/gen1/0012_butterfree/normal/front.gif",
+                "backSprite": "../pokeSprite/gen1/0012_butterfree/normal/back.gif",
                 "condition": "Level 10",
                 "conditionJa": "Lv.10",
                 "details": [

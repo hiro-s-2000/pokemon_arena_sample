@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0521_unfezant.gif",
-  "backSprite": "../pokeSprite/gen5/back/0521_unfezant_back.gif",
+  "sprite": "../pokeSprite/gen5/0521_unfezant/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0521_unfezant/normal/back.gif",
   "abilities": [
     {
       "id": 145,
@@ -293,8 +293,8 @@
           "normal",
           "flying"
         ],
-        "sprite": "../pokeSprite/gen5/0519_pidove.gif",
-        "backSprite": "../pokeSprite/gen5/back/0519_pidove_back.gif",
+        "sprite": "../pokeSprite/gen5/0519_pidove/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0519_pidove/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -309,8 +309,8 @@
               "normal",
               "flying"
             ],
-            "sprite": "../pokeSprite/gen5/0520_tranquill.gif",
-            "backSprite": "../pokeSprite/gen5/back/0520_tranquill_back.gif",
+            "sprite": "../pokeSprite/gen5/0520_tranquill/normal/front.gif",
+            "backSprite": "../pokeSprite/gen5/0520_tranquill/normal/back.gif",
             "condition": "Level 21",
             "conditionJa": "Lv.21",
             "details": [
@@ -339,8 +339,8 @@
                   "normal",
                   "flying"
                 ],
-                "sprite": "../pokeSprite/gen5/0521_unfezant.gif",
-                "backSprite": "../pokeSprite/gen5/back/0521_unfezant_back.gif",
+                "sprite": "../pokeSprite/gen5/0521_unfezant/normal/front.gif",
+                "backSprite": "../pokeSprite/gen5/0521_unfezant/normal/back.gif",
                 "condition": "Level 32",
                 "conditionJa": "Lv.32",
                 "details": [

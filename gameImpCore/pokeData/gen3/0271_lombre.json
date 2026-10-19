@@ -11,8 +11,8 @@
   "category": "gen3",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen3/0271_lombre.gif",
-  "backSprite": "../pokeSprite/gen3/back/0271_lombre_back.gif",
+  "sprite": "../pokeSprite/gen3/0271_lombre/normal/front.gif",
+  "backSprite": "../pokeSprite/gen3/0271_lombre/normal/back.gif",
   "abilities": [
     {
       "id": 33,
@@ -323,8 +323,8 @@
           "water",
           "grass"
         ],
-        "sprite": "../pokeSprite/gen3/0270_lotad.gif",
-        "backSprite": "../pokeSprite/gen3/back/0270_lotad_back.gif",
+        "sprite": "../pokeSprite/gen3/0270_lotad/normal/front.gif",
+        "backSprite": "../pokeSprite/gen3/0270_lotad/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -339,8 +339,8 @@
               "water",
               "grass"
             ],
-            "sprite": "../pokeSprite/gen3/0271_lombre.gif",
-            "backSprite": "../pokeSprite/gen3/back/0271_lombre_back.gif",
+            "sprite": "../pokeSprite/gen3/0271_lombre/normal/front.gif",
+            "backSprite": "../pokeSprite/gen3/0271_lombre/normal/back.gif",
             "condition": "Level 14",
             "conditionJa": "Lv.14",
             "details": [
@@ -369,8 +369,8 @@
                   "water",
                   "grass"
                 ],
-                "sprite": "../pokeSprite/gen3/0272_ludicolo.gif",
-                "backSprite": "../pokeSprite/gen3/back/0272_ludicolo_back.gif",
+                "sprite": "../pokeSprite/gen3/0272_ludicolo/normal/front.gif",
+                "backSprite": "../pokeSprite/gen3/0272_ludicolo/normal/back.gif",
                 "condition": "Use Water Stone",
                 "conditionJa": "「みずのいし」を使用",
                 "details": [

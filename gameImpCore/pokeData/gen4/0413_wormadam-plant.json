@@ -11,8 +11,8 @@
   "category": "gen4",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen4/0413_wormadam-plant.gif",
-  "backSprite": "../pokeSprite/gen4/back/0413_wormadam-plant_back.gif",
+  "sprite": "../pokeSprite/gen4/0413_wormadam-plant/normal/front.gif",
+  "backSprite": "../pokeSprite/gen4/0413_wormadam-plant/normal/back.gif",
   "abilities": [
     {
       "id": 107,
@@ -312,8 +312,8 @@
         "types": [
           "bug"
         ],
-        "sprite": "../pokeSprite/gen4/0412_burmy.gif",
-        "backSprite": "../pokeSprite/gen4/back/0412_burmy_back.gif",
+        "sprite": "../pokeSprite/gen4/0412_burmy/normal/front.gif",
+        "backSprite": "../pokeSprite/gen4/0412_burmy/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -328,8 +328,8 @@
               "bug",
               "grass"
             ],
-            "sprite": "../pokeSprite/gen4/0413_wormadam-plant.gif",
-            "backSprite": "../pokeSprite/gen4/back/0413_wormadam-plant_back.gif",
+            "sprite": "../pokeSprite/gen4/0413_wormadam-plant/normal/front.gif",
+            "backSprite": "../pokeSprite/gen4/0413_wormadam-plant/normal/back.gif",
             "condition": "Level 20",
             "conditionJa": "Lv.20",
             "details": [
@@ -385,8 +385,8 @@
               "bug",
               "flying"
             ],
-            "sprite": "../pokeSprite/gen4/0414_mothim.gif",
-            "backSprite": "../pokeSprite/gen4/back/0414_mothim_back.gif",
+            "sprite": "../pokeSprite/gen4/0414_mothim/normal/front.gif",
+            "backSprite": "../pokeSprite/gen4/0414_mothim/normal/back.gif",
             "condition": "Level 20",
             "conditionJa": "Lv.20",
             "details": [

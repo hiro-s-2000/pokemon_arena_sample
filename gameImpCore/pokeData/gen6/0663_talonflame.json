@@ -11,8 +11,8 @@
   "category": "gen6",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen6/0663_talonflame.gif",
-  "backSprite": "../pokeSprite/gen6/back/0663_talonflame_back.gif",
+  "sprite": "../pokeSprite/gen6/0663_talonflame/normal/front.gif",
+  "backSprite": "../pokeSprite/gen6/0663_talonflame/normal/back.gif",
   "abilities": [
     {
       "id": 49,
@@ -287,8 +287,8 @@
           "normal",
           "flying"
         ],
-        "sprite": "../pokeSprite/gen6/0661_fletchling.gif",
-        "backSprite": "../pokeSprite/gen6/back/0661_fletchling_back.gif",
+        "sprite": "../pokeSprite/gen6/0661_fletchling/normal/front.gif",
+        "backSprite": "../pokeSprite/gen6/0661_fletchling/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -303,8 +303,8 @@
               "fire",
               "flying"
             ],
-            "sprite": "../pokeSprite/gen6/0662_fletchinder.gif",
-            "backSprite": "../pokeSprite/gen6/back/0662_fletchinder_back.gif",
+            "sprite": "../pokeSprite/gen6/0662_fletchinder/normal/front.gif",
+            "backSprite": "../pokeSprite/gen6/0662_fletchinder/normal/back.gif",
             "condition": "Level 17",
             "conditionJa": "Lv.17",
             "details": [
@@ -333,8 +333,8 @@
                   "fire",
                   "flying"
                 ],
-                "sprite": "../pokeSprite/gen6/0663_talonflame.gif",
-                "backSprite": "../pokeSprite/gen6/back/0663_talonflame_back.gif",
+                "sprite": "../pokeSprite/gen6/0663_talonflame/normal/front.gif",
+                "backSprite": "../pokeSprite/gen6/0663_talonflame/normal/back.gif",
                 "condition": "Level 35",
                 "conditionJa": "Lv.35",
                 "details": [

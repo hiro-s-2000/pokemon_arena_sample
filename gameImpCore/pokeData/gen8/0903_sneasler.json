@@ -11,8 +11,8 @@
   "category": "gen8",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen8/0903_sneasler.gif",
-  "backSprite": "../pokeSprite/gen8/back/0903_sneasler_back.gif",
+  "sprite": "../pokeSprite/gen8/0903_sneasler/normal/front.gif",
+  "backSprite": "../pokeSprite/gen8/0903_sneasler/normal/back.gif",
   "abilities": [
     {
       "id": 46,
@@ -298,8 +298,8 @@
           "dark",
           "ice"
         ],
-        "sprite": "../pokeSprite/gen2/0215_sneasel.gif",
-        "backSprite": "../pokeSprite/gen2/back/0215_sneasel_back.gif",
+        "sprite": "../pokeSprite/gen2/0215_sneasel/normal/front.gif",
+        "backSprite": "../pokeSprite/gen2/0215_sneasel/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -314,8 +314,8 @@
               "dark",
               "ice"
             ],
-            "sprite": "../pokeSprite/gen4/0461_weavile.gif",
-            "backSprite": "../pokeSprite/gen4/back/0461_weavile_back.gif",
+            "sprite": "../pokeSprite/gen4/0461_weavile/normal/front.gif",
+            "backSprite": "../pokeSprite/gen4/0461_weavile/normal/back.gif",
             "condition": "Level up holding Razor Claw at night",
             "conditionJa": "レベルアップ（するどいツメを持たせる）（night）",
             "details": [
@@ -345,8 +345,8 @@
               "fighting",
               "poison"
             ],
-            "sprite": "../pokeSprite/gen8/0903_sneasler.gif",
-            "backSprite": "../pokeSprite/gen8/back/0903_sneasler_back.gif",
+            "sprite": "../pokeSprite/gen8/0903_sneasler/normal/front.gif",
+            "backSprite": "../pokeSprite/gen8/0903_sneasler/normal/back.gif",
             "condition": "Level up holding Razor Claw at day",
             "conditionJa": "レベルアップ（するどいツメを持たせる）（day）",
             "details": [

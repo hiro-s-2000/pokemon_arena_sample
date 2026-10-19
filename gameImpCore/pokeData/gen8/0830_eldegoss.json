@@ -11,8 +11,8 @@
   "category": "gen8",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen8/0830_eldegoss.gif",
-  "backSprite": "../pokeSprite/gen8/back/0830_eldegoss_back.gif",
+  "sprite": "../pokeSprite/gen8/0830_eldegoss/normal/front.gif",
+  "backSprite": "../pokeSprite/gen8/0830_eldegoss/normal/back.gif",
   "abilities": [
     {
       "id": 238,
@@ -283,8 +283,8 @@
         "types": [
           "grass"
         ],
-        "sprite": "../pokeSprite/gen8/0829_gossifleur.gif",
-        "backSprite": "../pokeSprite/gen8/back/0829_gossifleur_back.gif",
+        "sprite": "../pokeSprite/gen8/0829_gossifleur/normal/front.gif",
+        "backSprite": "../pokeSprite/gen8/0829_gossifleur/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -298,8 +298,8 @@
             "types": [
               "grass"
             ],
-            "sprite": "../pokeSprite/gen8/0830_eldegoss.gif",
-            "backSprite": "../pokeSprite/gen8/back/0830_eldegoss_back.gif",
+            "sprite": "../pokeSprite/gen8/0830_eldegoss/normal/front.gif",
+            "backSprite": "../pokeSprite/gen8/0830_eldegoss/normal/back.gif",
             "condition": "Level 20",
             "conditionJa": "Lv.20",
             "details": [

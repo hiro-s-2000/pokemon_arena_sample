@@ -11,8 +11,8 @@
   "category": "mega",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/mega/0668_pyroar-mega.gif",
-  "backSprite": "../pokeSprite/mega/back/0668_pyroar-mega_back.gif",
+  "sprite": "../pokeSprite/gen6/0668_pyroar-male/mega/pyroar-mega/front.gif",
+  "backSprite": "../pokeSprite/gen6/0668_pyroar-male/mega/pyroar-mega/back.gif",
   "abilities": [
     {
       "id": 313,
@@ -274,8 +274,8 @@
           "fire",
           "normal"
         ],
-        "sprite": "../pokeSprite/gen6/0667_litleo.gif",
-        "backSprite": "../pokeSprite/gen6/back/0667_litleo_back.gif",
+        "sprite": "../pokeSprite/gen6/0667_litleo/normal/front.gif",
+        "backSprite": "../pokeSprite/gen6/0667_litleo/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -290,8 +290,8 @@
               "fire",
               "normal"
             ],
-            "sprite": "../pokeSprite/gen6/0668_pyroar-male.gif",
-            "backSprite": "../pokeSprite/gen6/back/0668_pyroar-male_back.gif",
+            "sprite": "../pokeSprite/gen6/0668_pyroar-male/normal/front.gif",
+            "backSprite": "../pokeSprite/gen6/0668_pyroar-male/normal/back.gif",
             "condition": "Level 35",
             "conditionJa": "Lv.35",
             "details": [

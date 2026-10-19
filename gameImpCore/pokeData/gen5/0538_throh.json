@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0538_throh.gif",
-  "backSprite": "../pokeSprite/gen5/back/0538_throh_back.gif",
+  "sprite": "../pokeSprite/gen5/0538_throh/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0538_throh/normal/back.gif",
   "abilities": [
     {
       "id": 62,
@@ -264,8 +264,8 @@
         "types": [
           "fighting"
         ],
-        "sprite": "../pokeSprite/gen5/0538_throh.gif",
-        "backSprite": "../pokeSprite/gen5/back/0538_throh_back.gif",
+        "sprite": "../pokeSprite/gen5/0538_throh/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0538_throh/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

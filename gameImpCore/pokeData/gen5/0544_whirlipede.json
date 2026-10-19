@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0544_whirlipede.gif",
-  "backSprite": "../pokeSprite/gen5/back/0544_whirlipede_back.gif",
+  "sprite": "../pokeSprite/gen5/0544_whirlipede/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0544_whirlipede/normal/back.gif",
   "abilities": [
     {
       "id": 38,
@@ -317,8 +317,8 @@
           "bug",
           "poison"
         ],
-        "sprite": "../pokeSprite/gen5/0543_venipede.gif",
-        "backSprite": "../pokeSprite/gen5/back/0543_venipede_back.gif",
+        "sprite": "../pokeSprite/gen5/0543_venipede/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0543_venipede/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -333,8 +333,8 @@
               "bug",
               "poison"
             ],
-            "sprite": "../pokeSprite/gen5/0544_whirlipede.gif",
-            "backSprite": "../pokeSprite/gen5/back/0544_whirlipede_back.gif",
+            "sprite": "../pokeSprite/gen5/0544_whirlipede/normal/front.gif",
+            "backSprite": "../pokeSprite/gen5/0544_whirlipede/normal/back.gif",
             "condition": "Level 22",
             "conditionJa": "Lv.22",
             "details": [
@@ -363,8 +363,8 @@
                   "bug",
                   "poison"
                 ],
-                "sprite": "../pokeSprite/gen5/0545_scolipede.gif",
-                "backSprite": "../pokeSprite/gen5/back/0545_scolipede_back.gif",
+                "sprite": "../pokeSprite/gen5/0545_scolipede/normal/front.gif",
+                "backSprite": "../pokeSprite/gen5/0545_scolipede/normal/back.gif",
                 "condition": "Level 30",
                 "conditionJa": "Lv.30",
                 "details": [

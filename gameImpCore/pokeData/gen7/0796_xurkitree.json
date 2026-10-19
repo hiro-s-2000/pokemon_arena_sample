@@ -11,8 +11,8 @@
   "category": "gen7",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen7/0796_xurkitree.gif",
-  "backSprite": "../pokeSprite/gen7/back/0796_xurkitree_back.gif",
+  "sprite": "../pokeSprite/gen7/0796_xurkitree/normal/front.gif",
+  "backSprite": "../pokeSprite/gen7/0796_xurkitree/normal/back.gif",
   "abilities": [
     {
       "id": 224,
@@ -241,8 +241,8 @@
         "types": [
           "electric"
         ],
-        "sprite": "../pokeSprite/gen7/0796_xurkitree.gif",
-        "backSprite": "../pokeSprite/gen7/back/0796_xurkitree_back.gif",
+        "sprite": "../pokeSprite/gen7/0796_xurkitree/normal/front.gif",
+        "backSprite": "../pokeSprite/gen7/0796_xurkitree/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

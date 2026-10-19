@@ -11,8 +11,8 @@
   "category": "gen3",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen3/0358_chimecho.gif",
-  "backSprite": "../pokeSprite/gen3/back/0358_chimecho_back.gif",
+  "sprite": "../pokeSprite/gen3/0358_chimecho/normal/front.gif",
+  "backSprite": "../pokeSprite/gen3/0358_chimecho/normal/back.gif",
   "abilities": [
     {
       "id": 26,
@@ -268,8 +268,8 @@
         "types": [
           "psychic"
         ],
-        "sprite": "../pokeSprite/gen4/0433_chingling.gif",
-        "backSprite": "../pokeSprite/gen4/back/0433_chingling_back.gif",
+        "sprite": "../pokeSprite/gen4/0433_chingling/normal/front.gif",
+        "backSprite": "../pokeSprite/gen4/0433_chingling/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -283,8 +283,8 @@
             "types": [
               "psychic"
             ],
-            "sprite": "../pokeSprite/gen3/0358_chimecho.gif",
-            "backSprite": "../pokeSprite/gen3/back/0358_chimecho_back.gif",
+            "sprite": "../pokeSprite/gen3/0358_chimecho/normal/front.gif",
+            "backSprite": "../pokeSprite/gen3/0358_chimecho/normal/back.gif",
             "condition": "Level up high Friendship (220+) at night",
             "conditionJa": "レベルアップ（なつき度220以上）（night）",
             "details": [

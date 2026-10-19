@@ -11,8 +11,8 @@
   "category": "mega",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/mega/0248_tyranitar-mega.gif",
-  "backSprite": "../pokeSprite/mega/back/0248_tyranitar-mega_back.gif",
+  "sprite": "../pokeSprite/gen2/0248_tyranitar/mega/tyranitar-mega/front.gif",
+  "backSprite": "../pokeSprite/gen2/0248_tyranitar/mega/tyranitar-mega/back.gif",
   "abilities": [
     {
       "id": 45,
@@ -277,8 +277,8 @@
           "rock",
           "ground"
         ],
-        "sprite": "../pokeSprite/gen2/0246_larvitar.gif",
-        "backSprite": "../pokeSprite/gen2/back/0246_larvitar_back.gif",
+        "sprite": "../pokeSprite/gen2/0246_larvitar/normal/front.gif",
+        "backSprite": "../pokeSprite/gen2/0246_larvitar/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -293,8 +293,8 @@
               "rock",
               "ground"
             ],
-            "sprite": "../pokeSprite/gen2/0247_pupitar.gif",
-            "backSprite": "../pokeSprite/gen2/back/0247_pupitar_back.gif",
+            "sprite": "../pokeSprite/gen2/0247_pupitar/normal/front.gif",
+            "backSprite": "../pokeSprite/gen2/0247_pupitar/normal/back.gif",
             "condition": "Level 30",
             "conditionJa": "Lv.30",
             "details": [
@@ -323,8 +323,8 @@
                   "rock",
                   "dark"
                 ],
-                "sprite": "../pokeSprite/gen2/0248_tyranitar.gif",
-                "backSprite": "../pokeSprite/gen2/back/0248_tyranitar_back.gif",
+                "sprite": "../pokeSprite/gen2/0248_tyranitar/normal/front.gif",
+                "backSprite": "../pokeSprite/gen2/0248_tyranitar/normal/back.gif",
                 "condition": "Level 55",
                 "conditionJa": "Lv.55",
                 "details": [

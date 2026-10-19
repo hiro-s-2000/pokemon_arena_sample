@@ -11,8 +11,8 @@
   "category": "gen2",
   "isLegendary": true,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen2/0245_suicune.gif",
-  "backSprite": "../pokeSprite/gen2/back/0245_suicune_back.gif",
+  "sprite": "../pokeSprite/gen2/0245_suicune/normal/front.gif",
+  "backSprite": "../pokeSprite/gen2/0245_suicune/normal/back.gif",
   "abilities": [
     {
       "id": 46,
@@ -258,8 +258,8 @@
         "types": [
           "water"
         ],
-        "sprite": "../pokeSprite/gen2/0245_suicune.gif",
-        "backSprite": "../pokeSprite/gen2/back/0245_suicune_back.gif",
+        "sprite": "../pokeSprite/gen2/0245_suicune/normal/front.gif",
+        "backSprite": "../pokeSprite/gen2/0245_suicune/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

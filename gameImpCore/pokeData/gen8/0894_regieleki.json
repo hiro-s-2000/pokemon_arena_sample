@@ -11,8 +11,8 @@
   "category": "gen8",
   "isLegendary": true,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen8/0894_regieleki.gif",
-  "backSprite": "../pokeSprite/gen8/back/0894_regieleki_back.gif",
+  "sprite": "../pokeSprite/gen8/0894_regieleki/normal/front.gif",
+  "backSprite": "../pokeSprite/gen8/0894_regieleki/normal/back.gif",
   "abilities": [
     {
       "id": 262,
@@ -241,8 +241,8 @@
         "types": [
           "electric"
         ],
-        "sprite": "../pokeSprite/gen8/0894_regieleki.gif",
-        "backSprite": "../pokeSprite/gen8/back/0894_regieleki_back.gif",
+        "sprite": "../pokeSprite/gen8/0894_regieleki/normal/front.gif",
+        "backSprite": "../pokeSprite/gen8/0894_regieleki/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

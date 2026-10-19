@@ -11,8 +11,8 @@
   "category": "gen2",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen2/0202_wobbuffet.gif",
-  "backSprite": "../pokeSprite/gen2/back/0202_wobbuffet_back.gif",
+  "sprite": "../pokeSprite/gen2/0202_wobbuffet/normal/front.gif",
+  "backSprite": "../pokeSprite/gen2/0202_wobbuffet/normal/back.gif",
   "abilities": [
     {
       "id": 23,
@@ -272,8 +272,8 @@
         "types": [
           "psychic"
         ],
-        "sprite": "../pokeSprite/gen3/0360_wynaut.gif",
-        "backSprite": "../pokeSprite/gen3/back/0360_wynaut_back.gif",
+        "sprite": "../pokeSprite/gen3/0360_wynaut/normal/front.gif",
+        "backSprite": "../pokeSprite/gen3/0360_wynaut/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -287,8 +287,8 @@
             "types": [
               "psychic"
             ],
-            "sprite": "../pokeSprite/gen2/0202_wobbuffet.gif",
-            "backSprite": "../pokeSprite/gen2/back/0202_wobbuffet_back.gif",
+            "sprite": "../pokeSprite/gen2/0202_wobbuffet/normal/front.gif",
+            "backSprite": "../pokeSprite/gen2/0202_wobbuffet/normal/back.gif",
             "condition": "Level 15",
             "conditionJa": "Lv.15",
             "details": [

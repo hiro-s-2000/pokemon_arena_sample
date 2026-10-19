@@ -11,8 +11,8 @@
   "category": "gigantamax",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gigantamax/0823_corviknight-gmax.gif",
-  "backSprite": "../pokeSprite/gigantamax/back/0823_corviknight-gmax_back.gif",
+  "sprite": "../pokeSprite/gen8/0823_corviknight/gigantamax/corviknight-gmax/front.gif",
+  "backSprite": "../pokeSprite/gen8/0823_corviknight/gigantamax/corviknight-gmax/back.gif",
   "abilities": [
     {
       "id": 46,
@@ -296,8 +296,8 @@
         "types": [
           "flying"
         ],
-        "sprite": "../pokeSprite/gen8/0821_rookidee.gif",
-        "backSprite": "../pokeSprite/gen8/back/0821_rookidee_back.gif",
+        "sprite": "../pokeSprite/gen8/0821_rookidee/normal/front.gif",
+        "backSprite": "../pokeSprite/gen8/0821_rookidee/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -311,8 +311,8 @@
             "types": [
               "flying"
             ],
-            "sprite": "../pokeSprite/gen8/0822_corvisquire.gif",
-            "backSprite": "../pokeSprite/gen8/back/0822_corvisquire_back.gif",
+            "sprite": "../pokeSprite/gen8/0822_corvisquire/normal/front.gif",
+            "backSprite": "../pokeSprite/gen8/0822_corvisquire/normal/back.gif",
             "condition": "Level 18",
             "conditionJa": "Lv.18",
             "details": [
@@ -341,8 +341,8 @@
                   "flying",
                   "steel"
                 ],
-                "sprite": "../pokeSprite/gen8/0823_corviknight.gif",
-                "backSprite": "../pokeSprite/gen8/back/0823_corviknight_back.gif",
+                "sprite": "../pokeSprite/gen8/0823_corviknight/normal/front.gif",
+                "backSprite": "../pokeSprite/gen8/0823_corviknight/normal/back.gif",
                 "condition": "Level 38",
                 "conditionJa": "Lv.38",
                 "details": [

@@ -11,8 +11,8 @@
   "category": "gen7",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen7/0734_yungoos.gif",
-  "backSprite": "../pokeSprite/gen7/back/0734_yungoos_back.gif",
+  "sprite": "../pokeSprite/gen7/0734_yungoos/normal/front.gif",
+  "backSprite": "../pokeSprite/gen7/0734_yungoos/normal/back.gif",
   "abilities": [
     {
       "id": 198,
@@ -281,8 +281,8 @@
         "types": [
           "normal"
         ],
-        "sprite": "../pokeSprite/gen7/0734_yungoos.gif",
-        "backSprite": "../pokeSprite/gen7/back/0734_yungoos_back.gif",
+        "sprite": "../pokeSprite/gen7/0734_yungoos/normal/front.gif",
+        "backSprite": "../pokeSprite/gen7/0734_yungoos/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -296,8 +296,8 @@
             "types": [
               "normal"
             ],
-            "sprite": "../pokeSprite/gen7/0735_gumshoos.gif",
-            "backSprite": "../pokeSprite/gen7/back/0735_gumshoos_back.gif",
+            "sprite": "../pokeSprite/gen7/0735_gumshoos/normal/front.gif",
+            "backSprite": "../pokeSprite/gen7/0735_gumshoos/normal/back.gif",
             "condition": "Level 20 at day",
             "conditionJa": "Lv.20（day）",
             "details": [

@@ -11,8 +11,8 @@
   "category": "gen4",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen4/0416_vespiquen.gif",
-  "backSprite": "../pokeSprite/gen4/back/0416_vespiquen_back.gif",
+  "sprite": "../pokeSprite/gen4/0416_vespiquen/normal/front.gif",
+  "backSprite": "../pokeSprite/gen4/0416_vespiquen/normal/back.gif",
   "abilities": [
     {
       "id": 46,
@@ -293,8 +293,8 @@
           "bug",
           "flying"
         ],
-        "sprite": "../pokeSprite/gen4/0415_combee.gif",
-        "backSprite": "../pokeSprite/gen4/back/0415_combee_back.gif",
+        "sprite": "../pokeSprite/gen4/0415_combee/normal/front.gif",
+        "backSprite": "../pokeSprite/gen4/0415_combee/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -309,8 +309,8 @@
               "bug",
               "flying"
             ],
-            "sprite": "../pokeSprite/gen4/0416_vespiquen.gif",
-            "backSprite": "../pokeSprite/gen4/back/0416_vespiquen_back.gif",
+            "sprite": "../pokeSprite/gen4/0416_vespiquen/normal/front.gif",
+            "backSprite": "../pokeSprite/gen4/0416_vespiquen/normal/back.gif",
             "condition": "Level 21",
             "conditionJa": "Lv.21",
             "details": [

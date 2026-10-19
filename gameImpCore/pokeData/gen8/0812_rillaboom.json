@@ -11,8 +11,8 @@
   "category": "gen8",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen8/0812_rillaboom.gif",
-  "backSprite": "../pokeSprite/gen8/back/0812_rillaboom_back.gif",
+  "sprite": "../pokeSprite/gen8/0812_rillaboom/normal/front.gif",
+  "backSprite": "../pokeSprite/gen8/0812_rillaboom/normal/back.gif",
   "abilities": [
     {
       "id": 65,
@@ -279,8 +279,8 @@
         "types": [
           "grass"
         ],
-        "sprite": "../pokeSprite/gen8/0810_grookey.gif",
-        "backSprite": "../pokeSprite/gen8/back/0810_grookey_back.gif",
+        "sprite": "../pokeSprite/gen8/0810_grookey/normal/front.gif",
+        "backSprite": "../pokeSprite/gen8/0810_grookey/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -294,8 +294,8 @@
             "types": [
               "grass"
             ],
-            "sprite": "../pokeSprite/gen8/0811_thwackey.gif",
-            "backSprite": "../pokeSprite/gen8/back/0811_thwackey_back.gif",
+            "sprite": "../pokeSprite/gen8/0811_thwackey/normal/front.gif",
+            "backSprite": "../pokeSprite/gen8/0811_thwackey/normal/back.gif",
             "condition": "Level 16",
             "conditionJa": "Lv.16",
             "details": [
@@ -323,8 +323,8 @@
                 "types": [
                   "grass"
                 ],
-                "sprite": "../pokeSprite/gen8/0812_rillaboom.gif",
-                "backSprite": "../pokeSprite/gen8/back/0812_rillaboom_back.gif",
+                "sprite": "../pokeSprite/gen8/0812_rillaboom/normal/front.gif",
+                "backSprite": "../pokeSprite/gen8/0812_rillaboom/normal/back.gif",
                 "condition": "Level 35",
                 "conditionJa": "Lv.35",
                 "details": [

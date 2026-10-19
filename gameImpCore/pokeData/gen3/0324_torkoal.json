@@ -11,8 +11,8 @@
   "category": "gen3",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen3/0324_torkoal.gif",
-  "backSprite": "../pokeSprite/gen3/back/0324_torkoal_back.gif",
+  "sprite": "../pokeSprite/gen3/0324_torkoal/normal/front.gif",
+  "backSprite": "../pokeSprite/gen3/0324_torkoal/normal/back.gif",
   "abilities": [
     {
       "id": 73,
@@ -263,8 +263,8 @@
         "types": [
           "fire"
         ],
-        "sprite": "../pokeSprite/gen3/0324_torkoal.gif",
-        "backSprite": "../pokeSprite/gen3/back/0324_torkoal_back.gif",
+        "sprite": "../pokeSprite/gen3/0324_torkoal/normal/front.gif",
+        "backSprite": "../pokeSprite/gen3/0324_torkoal/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

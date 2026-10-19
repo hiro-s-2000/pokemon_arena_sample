@@ -11,8 +11,8 @@
   "category": "gen1",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen1/0138_omanyte.gif",
-  "backSprite": "../pokeSprite/gen1/back/0138_omanyte_back.gif",
+  "sprite": "../pokeSprite/gen1/0138_omanyte/normal/front.gif",
+  "backSprite": "../pokeSprite/gen1/0138_omanyte/normal/back.gif",
   "abilities": [
     {
       "id": 33,
@@ -305,8 +305,8 @@
           "rock",
           "water"
         ],
-        "sprite": "../pokeSprite/gen1/0138_omanyte.gif",
-        "backSprite": "../pokeSprite/gen1/back/0138_omanyte_back.gif",
+        "sprite": "../pokeSprite/gen1/0138_omanyte/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0138_omanyte/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -321,8 +321,8 @@
               "rock",
               "water"
             ],
-            "sprite": "../pokeSprite/gen1/0139_omastar.gif",
-            "backSprite": "../pokeSprite/gen1/back/0139_omastar_back.gif",
+            "sprite": "../pokeSprite/gen1/0139_omastar/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0139_omastar/normal/back.gif",
             "condition": "Level 40",
             "conditionJa": "Lv.40",
             "details": [

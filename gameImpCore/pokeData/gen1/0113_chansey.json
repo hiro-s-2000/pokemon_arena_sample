@@ -11,8 +11,8 @@
   "category": "gen1",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen1/0113_chansey.gif",
-  "backSprite": "../pokeSprite/gen1/back/0113_chansey_back.gif",
+  "sprite": "../pokeSprite/gen1/0113_chansey/normal/front.gif",
+  "backSprite": "../pokeSprite/gen1/0113_chansey/normal/back.gif",
   "abilities": [
     {
       "id": 30,
@@ -302,8 +302,8 @@
         "types": [
           "normal"
         ],
-        "sprite": "../pokeSprite/gen4/0440_happiny.gif",
-        "backSprite": "../pokeSprite/gen4/back/0440_happiny_back.gif",
+        "sprite": "../pokeSprite/gen4/0440_happiny/normal/front.gif",
+        "backSprite": "../pokeSprite/gen4/0440_happiny/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -317,8 +317,8 @@
             "types": [
               "normal"
             ],
-            "sprite": "../pokeSprite/gen1/0113_chansey.gif",
-            "backSprite": "../pokeSprite/gen1/back/0113_chansey_back.gif",
+            "sprite": "../pokeSprite/gen1/0113_chansey/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0113_chansey/normal/back.gif",
             "condition": "Level up holding Oval Stone at day",
             "conditionJa": "レベルアップ（まんまるいしを持たせる）（day）",
             "details": [
@@ -346,8 +346,8 @@
                 "types": [
                   "normal"
                 ],
-                "sprite": "../pokeSprite/gen2/0242_blissey.gif",
-                "backSprite": "../pokeSprite/gen2/back/0242_blissey_back.gif",
+                "sprite": "../pokeSprite/gen2/0242_blissey/normal/front.gif",
+                "backSprite": "../pokeSprite/gen2/0242_blissey/normal/back.gif",
                 "condition": "Level up high Friendship (160+)",
                 "conditionJa": "レベルアップ（なつき度160以上）",
                 "details": [

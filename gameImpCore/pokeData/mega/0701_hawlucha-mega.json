@@ -11,8 +11,8 @@
   "category": "mega",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/mega/0701_hawlucha-mega.gif",
-  "backSprite": "../pokeSprite/mega/back/0701_hawlucha-mega_back.gif",
+  "sprite": "../pokeSprite/gen6/0701_hawlucha/mega/hawlucha-mega/front.gif",
+  "backSprite": "../pokeSprite/gen6/0701_hawlucha/mega/hawlucha-mega/back.gif",
   "abilities": [
     {
       "id": 99,
@@ -264,8 +264,8 @@
           "fighting",
           "flying"
         ],
-        "sprite": "../pokeSprite/gen6/0701_hawlucha.gif",
-        "backSprite": "../pokeSprite/gen6/back/0701_hawlucha_back.gif",
+        "sprite": "../pokeSprite/gen6/0701_hawlucha/normal/front.gif",
+        "backSprite": "../pokeSprite/gen6/0701_hawlucha/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

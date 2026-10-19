@@ -11,8 +11,8 @@
   "category": "gen8",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen8/0886_drakloak.gif",
-  "backSprite": "../pokeSprite/gen8/back/0886_drakloak_back.gif",
+  "sprite": "../pokeSprite/gen8/0886_drakloak/normal/front.gif",
+  "backSprite": "../pokeSprite/gen8/0886_drakloak/normal/back.gif",
   "abilities": [
     {
       "id": 29,
@@ -322,8 +322,8 @@
           "dragon",
           "ghost"
         ],
-        "sprite": "../pokeSprite/gen8/0885_dreepy.gif",
-        "backSprite": "../pokeSprite/gen8/back/0885_dreepy_back.gif",
+        "sprite": "../pokeSprite/gen8/0885_dreepy/normal/front.gif",
+        "backSprite": "../pokeSprite/gen8/0885_dreepy/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -338,8 +338,8 @@
               "dragon",
               "ghost"
             ],
-            "sprite": "../pokeSprite/gen8/0886_drakloak.gif",
-            "backSprite": "../pokeSprite/gen8/back/0886_drakloak_back.gif",
+            "sprite": "../pokeSprite/gen8/0886_drakloak/normal/front.gif",
+            "backSprite": "../pokeSprite/gen8/0886_drakloak/normal/back.gif",
             "condition": "Level 50",
             "conditionJa": "Lv.50",
             "details": [
@@ -368,8 +368,8 @@
                   "dragon",
                   "ghost"
                 ],
-                "sprite": "../pokeSprite/gen8/0887_dragapult.gif",
-                "backSprite": "../pokeSprite/gen8/back/0887_dragapult_back.gif",
+                "sprite": "../pokeSprite/gen8/0887_dragapult/normal/front.gif",
+                "backSprite": "../pokeSprite/gen8/0887_dragapult/normal/back.gif",
                 "condition": "Level 60",
                 "conditionJa": "Lv.60",
                 "details": [

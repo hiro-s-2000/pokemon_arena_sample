@@ -11,8 +11,8 @@
   "category": "gen6",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen6/0660_diggersby.gif",
-  "backSprite": "../pokeSprite/gen6/back/0660_diggersby_back.gif",
+  "sprite": "../pokeSprite/gen6/0660_diggersby/normal/front.gif",
+  "backSprite": "../pokeSprite/gen6/0660_diggersby/normal/back.gif",
   "abilities": [
     {
       "id": 53,
@@ -294,8 +294,8 @@
         "types": [
           "normal"
         ],
-        "sprite": "../pokeSprite/gen6/0659_bunnelby.gif",
-        "backSprite": "../pokeSprite/gen6/back/0659_bunnelby_back.gif",
+        "sprite": "../pokeSprite/gen6/0659_bunnelby/normal/front.gif",
+        "backSprite": "../pokeSprite/gen6/0659_bunnelby/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -310,8 +310,8 @@
               "normal",
               "ground"
             ],
-            "sprite": "../pokeSprite/gen6/0660_diggersby.gif",
-            "backSprite": "../pokeSprite/gen6/back/0660_diggersby_back.gif",
+            "sprite": "../pokeSprite/gen6/0660_diggersby/normal/front.gif",
+            "backSprite": "../pokeSprite/gen6/0660_diggersby/normal/back.gif",
             "condition": "Level 20",
             "conditionJa": "Lv.20",
             "details": [

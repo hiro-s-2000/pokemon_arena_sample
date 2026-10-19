@@ -11,8 +11,8 @@
   "category": "gen8",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen8/0848_toxel.gif",
-  "backSprite": "../pokeSprite/gen8/back/0848_toxel_back.gif",
+  "sprite": "../pokeSprite/gen8/0848_toxel/normal/front.gif",
+  "backSprite": "../pokeSprite/gen8/0848_toxel/normal/back.gif",
   "abilities": [
     {
       "id": 155,
@@ -309,8 +309,8 @@
           "electric",
           "poison"
         ],
-        "sprite": "../pokeSprite/gen8/0848_toxel.gif",
-        "backSprite": "../pokeSprite/gen8/back/0848_toxel_back.gif",
+        "sprite": "../pokeSprite/gen8/0848_toxel/normal/front.gif",
+        "backSprite": "../pokeSprite/gen8/0848_toxel/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -325,8 +325,8 @@
               "electric",
               "poison"
             ],
-            "sprite": "../pokeSprite/gen8/0849_toxtricity-amped.gif",
-            "backSprite": "../pokeSprite/gen8/back/0849_toxtricity-amped_back.gif",
+            "sprite": "../pokeSprite/gen8/0849_toxtricity-amped/normal/front.gif",
+            "backSprite": "../pokeSprite/gen8/0849_toxtricity-amped/normal/back.gif",
             "condition": "Level 30",
             "conditionJa": "Lv.30",
             "details": [

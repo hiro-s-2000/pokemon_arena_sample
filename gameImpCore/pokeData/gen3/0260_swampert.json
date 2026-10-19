@@ -11,8 +11,8 @@
   "category": "gen3",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen3/0260_swampert.gif",
-  "backSprite": "../pokeSprite/gen3/back/0260_swampert_back.gif",
+  "sprite": "../pokeSprite/gen3/0260_swampert/normal/front.gif",
+  "backSprite": "../pokeSprite/gen3/0260_swampert/normal/back.gif",
   "abilities": [
     {
       "id": 67,
@@ -291,8 +291,8 @@
         "types": [
           "water"
         ],
-        "sprite": "../pokeSprite/gen3/0258_mudkip.gif",
-        "backSprite": "../pokeSprite/gen3/back/0258_mudkip_back.gif",
+        "sprite": "../pokeSprite/gen3/0258_mudkip/normal/front.gif",
+        "backSprite": "../pokeSprite/gen3/0258_mudkip/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -307,8 +307,8 @@
               "water",
               "ground"
             ],
-            "sprite": "../pokeSprite/gen3/0259_marshtomp.gif",
-            "backSprite": "../pokeSprite/gen3/back/0259_marshtomp_back.gif",
+            "sprite": "../pokeSprite/gen3/0259_marshtomp/normal/front.gif",
+            "backSprite": "../pokeSprite/gen3/0259_marshtomp/normal/back.gif",
             "condition": "Level 16",
             "conditionJa": "Lv.16",
             "details": [
@@ -337,8 +337,8 @@
                   "water",
                   "ground"
                 ],
-                "sprite": "../pokeSprite/gen3/0260_swampert.gif",
-                "backSprite": "../pokeSprite/gen3/back/0260_swampert_back.gif",
+                "sprite": "../pokeSprite/gen3/0260_swampert/normal/front.gif",
+                "backSprite": "../pokeSprite/gen3/0260_swampert/normal/back.gif",
                 "condition": "Level 36",
                 "conditionJa": "Lv.36",
                 "details": [

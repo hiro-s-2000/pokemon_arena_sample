@@ -1,0 +1,213 @@
+(function registerAttackEffectManifest(root) {
+  "use strict";
+
+  root.ATTACK_EFFECT_MANIFEST = Object.freeze({
+    version: 1,
+    generatedAt: "2026-10-19",
+    assets: {
+      claw: {
+        src: "assets/attack-effects/gif/claw-strike.gif",
+        durationMs: 240,
+        displaySize: 155,
+        pivot: [0.5, 0.5],
+        loop: false
+      },
+      fang: {
+        src: "assets/attack-effects/gif/fang-strike.gif",
+        durationMs: 240,
+        displaySize: 160,
+        pivot: [0.5, 0.5],
+        loop: false
+      },
+      hand: {
+        src: "assets/attack-effects/gif/hand-cast.gif",
+        durationMs: 200,
+        displaySize: 150,
+        pivot: [0.5, 0.5],
+        loop: false
+      },
+      mouth: {
+        src: "assets/attack-effects/gif/mouth-cast.gif",
+        durationMs: 200,
+        displaySize: 155,
+        pivot: [0.28, 0.5],
+        loop: false
+      },
+      cannon: {
+        src: "assets/attack-effects/gif/cannon-cast.gif",
+        durationMs: 200,
+        displaySize: 165,
+        pivot: [0.22, 0.5],
+        loop: false
+      },
+      body: {
+        src: "assets/attack-effects/gif/body-cast.gif",
+        durationMs: 200,
+        displaySize: 155,
+        pivot: [0.5, 0.5],
+        loop: false
+      },
+      impact: {
+        src: "assets/attack-effects/gif/hit-impact.gif",
+        durationMs: 240,
+        displaySize: 155,
+        pivot: [0.5, 0.5],
+        loop: false
+      },
+      element_water: {
+        src: "assets/attack-effects/gif/element-water.gif",
+        durationMs: 240,
+        displaySize: 145,
+        pivot: [0.5, 0.5],
+        loop: false
+      },
+      element_electric: {
+        src: "assets/attack-effects/gif/element-electric.gif",
+        durationMs: 240,
+        displaySize: 145,
+        pivot: [0.5, 0.5],
+        loop: false
+      },
+      element_grass: {
+        src: "assets/attack-effects/gif/element-grass.gif",
+        durationMs: 240,
+        displaySize: 145,
+        pivot: [0.5, 0.5],
+        loop: false
+      },
+      element_ice: {
+        src: "assets/attack-effects/gif/element-ice.gif",
+        durationMs: 240,
+        displaySize: 145,
+        pivot: [0.5, 0.5],
+        loop: false
+      },
+      element_fighting: {
+        src: "assets/attack-effects/gif/element-fighting.gif",
+        durationMs: 240,
+        displaySize: 150,
+        pivot: [0.5, 0.5],
+        loop: false
+      },
+      element_poison: {
+        src: "assets/attack-effects/gif/element-poison.gif",
+        durationMs: 240,
+        displaySize: 145,
+        pivot: [0.5, 0.5],
+        loop: false
+      },
+      element_ground: {
+        src: "assets/attack-effects/gif/element-ground.gif",
+        durationMs: 240,
+        displaySize: 150,
+        pivot: [0.5, 0.5],
+        loop: false
+      },
+      element_flying: {
+        src: "assets/attack-effects/gif/element-flying.gif",
+        durationMs: 240,
+        displaySize: 145,
+        pivot: [0.5, 0.5],
+        loop: false
+      },
+      element_psychic: {
+        src: "assets/attack-effects/gif/element-psychic.gif",
+        durationMs: 240,
+        displaySize: 145,
+        pivot: [0.5, 0.5],
+        loop: false
+      },
+      element_bug: {
+        src: "assets/attack-effects/gif/element-bug.gif",
+        durationMs: 240,
+        displaySize: 145,
+        pivot: [0.5, 0.5],
+        loop: false
+      },
+      element_rock: {
+        src: "assets/attack-effects/gif/element-rock.gif",
+        durationMs: 240,
+        displaySize: 150,
+        pivot: [0.5, 0.5],
+        loop: false
+      },
+      element_ghost: {
+        src: "assets/attack-effects/gif/element-ghost.gif",
+        durationMs: 240,
+        displaySize: 145,
+        pivot: [0.5, 0.5],
+        loop: false
+      },
+      element_dragon: {
+        src: "assets/attack-effects/gif/element-dragon.gif",
+        durationMs: 240,
+        displaySize: 145,
+        pivot: [0.5, 0.5],
+        loop: false
+      },
+      element_dark: {
+        src: "assets/attack-effects/gif/element-dark.gif",
+        durationMs: 240,
+        displaySize: 145,
+        pivot: [0.5, 0.5],
+        loop: false
+      },
+      element_steel: {
+        src: "assets/attack-effects/gif/element-steel.gif",
+        durationMs: 240,
+        displaySize: 145,
+        pivot: [0.5, 0.5],
+        loop: false
+      },
+      element_fairy: {
+        src: "assets/attack-effects/gif/element-fairy.gif",
+        durationMs: 240,
+        displaySize: 145,
+        pivot: [0.5, 0.5],
+        loop: false
+      }
+    },
+    visualTypes: {
+      ember:            { family: "projectile", emitter: "mouth",   asset: "mouth" },
+      flamethrower:     { family: "beam",       emitter: "mouth",   asset: null, nativeOnly: true },
+      fireblast:        { family: "projectile", emitter: "mouth",   asset: "mouth" },
+      firespin:         { family: "area",       emitter: "body",    asset: "body" },
+      watergun:         { family: "projectile", emitter: "mouth",   asset: "mouth" },
+      muddywater:       { family: "projectile", emitter: "mouth",   asset: "mouth" },
+      surf:             { family: "area",       emitter: "body",    asset: null, nativeOnly: true },
+      whirlpool:        { family: "area",       emitter: "body",    asset: "body" },
+      icebeam:          { family: "beam",       emitter: "mouth",   asset: "mouth" },
+      hyperbeam:        { family: "beam",       emitter: "hand",    asset: "hand" },
+      hydropump:        { family: "beam",       emitter: "mouth",   asset: null, nativeOnly: true },
+      electricshock:    { family: "beam",       emitter: "body",    asset: null, nativeOnly: true },
+      thunderbolt:      { family: "beam",       emitter: "body",    asset: null, nativeOnly: true },
+      thunder:          { family: "area",       emitter: "body",    asset: null, nativeOnly: true },
+      spark:            { family: "beam",       emitter: "body",    asset: null, nativeOnly: true },
+      electroball:      { family: "projectile", emitter: "hand",    asset: "hand" },
+      hypnosis:         { family: "projectile", emitter: "hand",    asset: "hand" },
+      shadowball:       { family: "projectile", emitter: "hand",    asset: "hand" },
+      shadowball_mini:  { family: "projectile", emitter: "hand",    asset: "hand" },
+      dreameater:       { family: "projectile", emitter: "hand",    asset: "hand" },
+      swift:            { family: "projectile", emitter: "hand",    asset: "hand" },
+      razorleaf:        { family: "projectile", emitter: "body",    asset: "body" },
+      petalstorm:       { family: "area",       emitter: "body",    asset: "body" },
+      hornattack:       { family: "contact",    emitter: "contact", asset: "impact" },
+      megahorn:         { family: "contact",    emitter: "contact", asset: "impact" },
+      visegrip:         { family: "contact",    emitter: "contact", asset: "fang" },
+      crabhammer:       { family: "contact",    emitter: "contact", asset: "impact" },
+      bodyslam:         { family: "contact",    emitter: "contact", asset: "impact" },
+      leafblade:        { family: "contact",    emitter: "contact", asset: "claw" },
+      slash:            { family: "contact",    emitter: "contact", asset: "claw" },
+      waterfall:        { family: "contact",    emitter: "contact", asset: "impact" },
+      stomp:            { family: "contact",    emitter: "contact", asset: "impact" },
+      rapidspin:        { family: "contact",    emitter: "contact", asset: "impact" },
+      doubleteam:       { family: "movement",   emitter: "self",    asset: null, nativeOnly: true },
+      groundsmash:      { family: "area",       emitter: "body",    asset: null, nativeOnly: true },
+      earthpower:       { family: "area",       emitter: "body",    asset: null, nativeOnly: true },
+      rest:             { family: "status",     emitter: "self",    asset: null },
+      dodge:            { family: "movement",   emitter: "self",    asset: null },
+      dash_fly:         { family: "movement",   emitter: "self",    asset: null },
+      dive_jump:        { family: "movement",   emitter: "self",    asset: null }
+    }
+  });
+})(typeof window !== "undefined" ? window : globalThis);

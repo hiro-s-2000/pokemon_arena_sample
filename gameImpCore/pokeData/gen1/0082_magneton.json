@@ -11,8 +11,8 @@
   "category": "gen1",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen1/0082_magneton.gif",
-  "backSprite": "../pokeSprite/gen1/back/0082_magneton_back.gif",
+  "sprite": "../pokeSprite/gen1/0082_magneton/normal/front.gif",
+  "backSprite": "../pokeSprite/gen1/0082_magneton/normal/back.gif",
   "abilities": [
     {
       "id": 42,
@@ -398,8 +398,8 @@
           "electric",
           "steel"
         ],
-        "sprite": "../pokeSprite/gen1/0081_magnemite.gif",
-        "backSprite": "../pokeSprite/gen1/back/0081_magnemite_back.gif",
+        "sprite": "../pokeSprite/gen1/0081_magnemite/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0081_magnemite/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -414,8 +414,8 @@
               "electric",
               "steel"
             ],
-            "sprite": "../pokeSprite/gen1/0082_magneton.gif",
-            "backSprite": "../pokeSprite/gen1/back/0082_magneton_back.gif",
+            "sprite": "../pokeSprite/gen1/0082_magneton/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0082_magneton/normal/back.gif",
             "condition": "Level 30",
             "conditionJa": "Lv.30",
             "details": [
@@ -444,8 +444,8 @@
                   "electric",
                   "steel"
                 ],
-                "sprite": "../pokeSprite/gen4/0462_magnezone.gif",
-                "backSprite": "../pokeSprite/gen4/back/0462_magnezone_back.gif",
+                "sprite": "../pokeSprite/gen4/0462_magnezone/normal/front.gif",
+                "backSprite": "../pokeSprite/gen4/0462_magnezone/normal/back.gif",
                 "condition": "Level up / Use Thunder Stone",
                 "conditionJa": "レベルアップ / 「かみなりのいし」を使用",
                 "details": [

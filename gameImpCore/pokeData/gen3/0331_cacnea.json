@@ -11,8 +11,8 @@
   "category": "gen3",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen3/0331_cacnea.gif",
-  "backSprite": "../pokeSprite/gen3/back/0331_cacnea_back.gif",
+  "sprite": "../pokeSprite/gen3/0331_cacnea/normal/front.gif",
+  "backSprite": "../pokeSprite/gen3/0331_cacnea/normal/back.gif",
   "abilities": [
     {
       "id": 8,
@@ -281,8 +281,8 @@
         "types": [
           "grass"
         ],
-        "sprite": "../pokeSprite/gen3/0331_cacnea.gif",
-        "backSprite": "../pokeSprite/gen3/back/0331_cacnea_back.gif",
+        "sprite": "../pokeSprite/gen3/0331_cacnea/normal/front.gif",
+        "backSprite": "../pokeSprite/gen3/0331_cacnea/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -297,8 +297,8 @@
               "grass",
               "dark"
             ],
-            "sprite": "../pokeSprite/gen3/0332_cacturne.gif",
-            "backSprite": "../pokeSprite/gen3/back/0332_cacturne_back.gif",
+            "sprite": "../pokeSprite/gen3/0332_cacturne/normal/front.gif",
+            "backSprite": "../pokeSprite/gen3/0332_cacturne/normal/back.gif",
             "condition": "Level 32",
             "conditionJa": "Lv.32",
             "details": [

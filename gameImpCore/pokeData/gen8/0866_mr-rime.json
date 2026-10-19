@@ -11,8 +11,8 @@
   "category": "gen8",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen8/0866_mr-rime.gif",
-  "backSprite": "../pokeSprite/gen8/back/0866_mr-rime_back.gif",
+  "sprite": "../pokeSprite/gen8/0866_mr-rime/normal/front.gif",
+  "backSprite": "../pokeSprite/gen8/0866_mr-rime/normal/back.gif",
   "abilities": [
     {
       "id": 77,
@@ -295,8 +295,8 @@
           "psychic",
           "fairy"
         ],
-        "sprite": "../pokeSprite/gen4/0439_mime-jr.gif",
-        "backSprite": "../pokeSprite/gen4/back/0439_mime-jr_back.gif",
+        "sprite": "../pokeSprite/gen4/0439_mime-jr/normal/front.gif",
+        "backSprite": "../pokeSprite/gen4/0439_mime-jr/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -311,8 +311,8 @@
               "psychic",
               "fairy"
             ],
-            "sprite": "../pokeSprite/gen1/0122_mr-mime.gif",
-            "backSprite": "../pokeSprite/gen1/back/0122_mr-mime_back.gif",
+            "sprite": "../pokeSprite/gen1/0122_mr-mime/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0122_mr-mime/normal/back.gif",
             "condition": "Level up knowing Mimic",
             "conditionJa": "レベルアップ（「ものまね」を習得）",
             "details": [
@@ -354,8 +354,8 @@
                   "ice",
                   "psychic"
                 ],
-                "sprite": "../pokeSprite/gen8/0866_mr-rime.gif",
-                "backSprite": "../pokeSprite/gen8/back/0866_mr-rime_back.gif",
+                "sprite": "../pokeSprite/gen8/0866_mr-rime/normal/front.gif",
+                "backSprite": "../pokeSprite/gen8/0866_mr-rime/normal/back.gif",
                 "condition": "Level 42",
                 "conditionJa": "Lv.42",
                 "details": [

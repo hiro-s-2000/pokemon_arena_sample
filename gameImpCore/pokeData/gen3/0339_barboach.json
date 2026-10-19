@@ -11,8 +11,8 @@
   "category": "gen3",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen3/0339_barboach.gif",
-  "backSprite": "../pokeSprite/gen3/back/0339_barboach_back.gif",
+  "sprite": "../pokeSprite/gen3/0339_barboach/normal/front.gif",
+  "backSprite": "../pokeSprite/gen3/0339_barboach/normal/back.gif",
   "abilities": [
     {
       "id": 12,
@@ -298,8 +298,8 @@
           "water",
           "ground"
         ],
-        "sprite": "../pokeSprite/gen3/0339_barboach.gif",
-        "backSprite": "../pokeSprite/gen3/back/0339_barboach_back.gif",
+        "sprite": "../pokeSprite/gen3/0339_barboach/normal/front.gif",
+        "backSprite": "../pokeSprite/gen3/0339_barboach/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -314,8 +314,8 @@
               "water",
               "ground"
             ],
-            "sprite": "../pokeSprite/gen3/0340_whiscash.gif",
-            "backSprite": "../pokeSprite/gen3/back/0340_whiscash_back.gif",
+            "sprite": "../pokeSprite/gen3/0340_whiscash/normal/front.gif",
+            "backSprite": "../pokeSprite/gen3/0340_whiscash/normal/back.gif",
             "condition": "Level 30",
             "conditionJa": "Lv.30",
             "details": [

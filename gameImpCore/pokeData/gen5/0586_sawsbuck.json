@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0586_sawsbuck.gif",
-  "backSprite": "../pokeSprite/gen5/back/0586_sawsbuck_back.gif",
+  "sprite": "../pokeSprite/gen5/0586_sawsbuck/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0586_sawsbuck/normal/back.gif",
   "abilities": [
     {
       "id": 34,
@@ -332,8 +332,8 @@
           "normal",
           "grass"
         ],
-        "sprite": "../pokeSprite/gen5/0585_deerling.gif",
-        "backSprite": "../pokeSprite/gen5/back/0585_deerling_back.gif",
+        "sprite": "../pokeSprite/gen5/0585_deerling/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0585_deerling/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -348,8 +348,8 @@
               "normal",
               "grass"
             ],
-            "sprite": "../pokeSprite/gen5/0586_sawsbuck.gif",
-            "backSprite": "../pokeSprite/gen5/back/0586_sawsbuck_back.gif",
+            "sprite": "../pokeSprite/gen5/0586_sawsbuck/normal/front.gif",
+            "backSprite": "../pokeSprite/gen5/0586_sawsbuck/normal/back.gif",
             "condition": "Level 34",
             "conditionJa": "Lv.34",
             "details": [

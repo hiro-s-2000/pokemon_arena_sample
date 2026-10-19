@@ -11,8 +11,8 @@
   "category": "gen3",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen3/0255_torchic.gif",
-  "backSprite": "../pokeSprite/gen3/back/0255_torchic_back.gif",
+  "sprite": "../pokeSprite/gen3/0255_torchic/normal/front.gif",
+  "backSprite": "../pokeSprite/gen3/0255_torchic/normal/back.gif",
   "abilities": [
     {
       "id": 66,
@@ -276,8 +276,8 @@
         "types": [
           "fire"
         ],
-        "sprite": "../pokeSprite/gen3/0255_torchic.gif",
-        "backSprite": "../pokeSprite/gen3/back/0255_torchic_back.gif",
+        "sprite": "../pokeSprite/gen3/0255_torchic/normal/front.gif",
+        "backSprite": "../pokeSprite/gen3/0255_torchic/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -292,8 +292,8 @@
               "fire",
               "fighting"
             ],
-            "sprite": "../pokeSprite/gen3/0256_combusken.gif",
-            "backSprite": "../pokeSprite/gen3/back/0256_combusken_back.gif",
+            "sprite": "../pokeSprite/gen3/0256_combusken/normal/front.gif",
+            "backSprite": "../pokeSprite/gen3/0256_combusken/normal/back.gif",
             "condition": "Level 16",
             "conditionJa": "Lv.16",
             "details": [
@@ -322,8 +322,8 @@
                   "fire",
                   "fighting"
                 ],
-                "sprite": "../pokeSprite/gen3/0257_blaziken.gif",
-                "backSprite": "../pokeSprite/gen3/back/0257_blaziken_back.gif",
+                "sprite": "../pokeSprite/gen3/0257_blaziken/normal/front.gif",
+                "backSprite": "../pokeSprite/gen3/0257_blaziken/normal/back.gif",
                 "condition": "Level 36",
                 "conditionJa": "Lv.36",
                 "details": [

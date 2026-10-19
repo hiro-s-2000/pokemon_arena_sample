@@ -11,8 +11,8 @@
   "category": "gen8",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen8/0869_alcremie.gif",
-  "backSprite": "../pokeSprite/gen8/back/0869_alcremie_back.gif",
+  "sprite": "../pokeSprite/gen8/0869_alcremie/normal/front.gif",
+  "backSprite": "../pokeSprite/gen8/0869_alcremie/normal/back.gif",
   "abilities": [
     {
       "id": 175,
@@ -1086,8 +1086,8 @@
         "types": [
           "fairy"
         ],
-        "sprite": "../pokeSprite/gen8/0868_milcery.gif",
-        "backSprite": "../pokeSprite/gen8/back/0868_milcery_back.gif",
+        "sprite": "../pokeSprite/gen8/0868_milcery/normal/front.gif",
+        "backSprite": "../pokeSprite/gen8/0868_milcery/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -1101,8 +1101,8 @@
             "types": [
               "fairy"
             ],
-            "sprite": "../pokeSprite/gen8/0869_alcremie.gif",
-            "backSprite": "../pokeSprite/gen8/back/0869_alcremie_back.gif",
+            "sprite": "../pokeSprite/gen8/0869_alcremie/normal/front.gif",
+            "backSprite": "../pokeSprite/gen8/0869_alcremie/normal/back.gif",
             "condition": "Spin holding Strawberry Sweet at day / Spin holding Strawberry Sweet at night / Spin holding Strawberry Sweet at dusk / Spin holding Berry Sweet at day / Spin holding Berry Sweet at night / Spin holding Berry Sweet at dusk / Spin holding Love Sweet at day / Spin holding Love Sweet at night / Spin holding Love Sweet at dusk / Spin holding Star Sweet at day / Spin holding Star Sweet at night / Spin holding Star Sweet at dusk / Spin holding Clover Sweet at day / Spin holding Clover Sweet at night / Spin holding Clover Sweet at dusk / Spin holding Flower Sweet at day / Spin holding Flower Sweet at night / Spin holding Flower Sweet at dusk / Spin holding Ribbon Sweet at day / Spin holding Ribbon Sweet at night / Spin holding Ribbon Sweet at dusk",
             "conditionJa": "Spin（いちごアメざいくを持たせる）（day） / Spin（いちごアメざいくを持たせる）（night） / Spin（いちごアメざいくを持たせる）（dusk） / Spin（ベリーアメざいくを持たせる）（day） / Spin（ベリーアメざいくを持たせる）（night） / Spin（ベリーアメざいくを持たせる）（dusk） / Spin（ハートアメざいくを持たせる）（day） / Spin（ハートアメざいくを持たせる）（night） / Spin（ハートアメざいくを持たせる）（dusk） / Spin（スターアメざいくを持たせる）（day） / Spin（スターアメざいくを持たせる）（night） / Spin（スターアメざいくを持たせる）（dusk） / Spin（よつばアメざいくを持たせる）（day） / Spin（よつばアメざいくを持たせる）（night） / Spin（よつばアメざいくを持たせる）（dusk） / Spin（おはなアメざいくを持たせる）（day） / Spin（おはなアメざいくを持たせる）（night） / Spin（おはなアメざいくを持たせる）（dusk） / Spin（リボンアメざいくを持たせる）（day） / Spin（リボンアメざいくを持たせる）（night） / Spin（リボンアメざいくを持たせる）（dusk）",
             "details": [

@@ -11,8 +11,8 @@
   "category": "mega",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/mega/0154_meganium-mega.gif",
-  "backSprite": "../pokeSprite/mega/back/0154_meganium-mega_back.gif",
+  "sprite": "../pokeSprite/gen2/0154_meganium/mega/meganium-mega/front.gif",
+  "backSprite": "../pokeSprite/gen2/0154_meganium/mega/meganium-mega/back.gif",
   "abilities": [
     {
       "id": 310,
@@ -288,8 +288,8 @@
         "types": [
           "grass"
         ],
-        "sprite": "../pokeSprite/gen2/0152_chikorita.gif",
-        "backSprite": "../pokeSprite/gen2/back/0152_chikorita_back.gif",
+        "sprite": "../pokeSprite/gen2/0152_chikorita/normal/front.gif",
+        "backSprite": "../pokeSprite/gen2/0152_chikorita/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -303,8 +303,8 @@
             "types": [
               "grass"
             ],
-            "sprite": "../pokeSprite/gen2/0153_bayleef.gif",
-            "backSprite": "../pokeSprite/gen2/back/0153_bayleef_back.gif",
+            "sprite": "../pokeSprite/gen2/0153_bayleef/normal/front.gif",
+            "backSprite": "../pokeSprite/gen2/0153_bayleef/normal/back.gif",
             "condition": "Level 16",
             "conditionJa": "Lv.16",
             "details": [
@@ -332,8 +332,8 @@
                 "types": [
                   "grass"
                 ],
-                "sprite": "../pokeSprite/gen2/0154_meganium.gif",
-                "backSprite": "../pokeSprite/gen2/back/0154_meganium_back.gif",
+                "sprite": "../pokeSprite/gen2/0154_meganium/normal/front.gif",
+                "backSprite": "../pokeSprite/gen2/0154_meganium/normal/back.gif",
                 "condition": "Level 32",
                 "conditionJa": "Lv.32",
                 "details": [

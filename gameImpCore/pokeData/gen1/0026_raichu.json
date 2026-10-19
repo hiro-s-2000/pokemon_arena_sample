@@ -11,8 +11,8 @@
   "category": "gen1",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen1/0026_raichu.gif",
-  "backSprite": "../pokeSprite/gen1/back/0026_raichu_back.gif",
+  "sprite": "../pokeSprite/gen1/0026_raichu/normal/front.gif",
+  "backSprite": "../pokeSprite/gen1/0026_raichu/normal/back.gif",
   "abilities": [
     {
       "id": 9,
@@ -291,8 +291,8 @@
         "types": [
           "electric"
         ],
-        "sprite": "../pokeSprite/gen2/0172_pichu.gif",
-        "backSprite": "../pokeSprite/gen2/back/0172_pichu_back.gif",
+        "sprite": "../pokeSprite/gen2/0172_pichu/normal/front.gif",
+        "backSprite": "../pokeSprite/gen2/0172_pichu/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -306,8 +306,8 @@
             "types": [
               "electric"
             ],
-            "sprite": "../pokeSprite/gen1/0025_pikachu.gif",
-            "backSprite": "../pokeSprite/gen1/back/0025_pikachu_back.gif",
+            "sprite": "../pokeSprite/gen1/0025_pikachu/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0025_pikachu/normal/back.gif",
             "condition": "Level up high Friendship (220+)",
             "conditionJa": "レベルアップ（なつき度220以上）",
             "details": [
@@ -335,8 +335,8 @@
                 "types": [
                   "electric"
                 ],
-                "sprite": "../pokeSprite/gen1/0026_raichu.gif",
-                "backSprite": "../pokeSprite/gen1/back/0026_raichu_back.gif",
+                "sprite": "../pokeSprite/gen1/0026_raichu/normal/front.gif",
+                "backSprite": "../pokeSprite/gen1/0026_raichu/normal/back.gif",
                 "condition": "Use Thunder Stone",
                 "conditionJa": "「かみなりのいし」を使用",
                 "details": [

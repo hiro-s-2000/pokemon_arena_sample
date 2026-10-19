@@ -11,8 +11,8 @@
   "category": "gen8",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen8/0878_cufant.gif",
-  "backSprite": "../pokeSprite/gen8/back/0878_cufant_back.gif",
+  "sprite": "../pokeSprite/gen8/0878_cufant/normal/front.gif",
+  "backSprite": "../pokeSprite/gen8/0878_cufant/normal/back.gif",
   "abilities": [
     {
       "id": 125,
@@ -282,8 +282,8 @@
         "types": [
           "steel"
         ],
-        "sprite": "../pokeSprite/gen8/0878_cufant.gif",
-        "backSprite": "../pokeSprite/gen8/back/0878_cufant_back.gif",
+        "sprite": "../pokeSprite/gen8/0878_cufant/normal/front.gif",
+        "backSprite": "../pokeSprite/gen8/0878_cufant/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -297,8 +297,8 @@
             "types": [
               "steel"
             ],
-            "sprite": "../pokeSprite/gen8/0879_copperajah.gif",
-            "backSprite": "../pokeSprite/gen8/back/0879_copperajah_back.gif",
+            "sprite": "../pokeSprite/gen8/0879_copperajah/normal/front.gif",
+            "backSprite": "../pokeSprite/gen8/0879_copperajah/normal/back.gif",
             "condition": "Level 34",
             "conditionJa": "Lv.34",
             "details": [

@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0499_pignite.gif",
-  "backSprite": "../pokeSprite/gen5/back/0499_pignite_back.gif",
+  "sprite": "../pokeSprite/gen5/0499_pignite/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0499_pignite/normal/back.gif",
   "abilities": [
     {
       "id": 66,
@@ -309,8 +309,8 @@
         "types": [
           "fire"
         ],
-        "sprite": "../pokeSprite/gen5/0498_tepig.gif",
-        "backSprite": "../pokeSprite/gen5/back/0498_tepig_back.gif",
+        "sprite": "../pokeSprite/gen5/0498_tepig/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0498_tepig/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -325,8 +325,8 @@
               "fire",
               "fighting"
             ],
-            "sprite": "../pokeSprite/gen5/0499_pignite.gif",
-            "backSprite": "../pokeSprite/gen5/back/0499_pignite_back.gif",
+            "sprite": "../pokeSprite/gen5/0499_pignite/normal/front.gif",
+            "backSprite": "../pokeSprite/gen5/0499_pignite/normal/back.gif",
             "condition": "Level 17",
             "conditionJa": "Lv.17",
             "details": [
@@ -355,8 +355,8 @@
                   "fire",
                   "fighting"
                 ],
-                "sprite": "../pokeSprite/gen5/0500_emboar.gif",
-                "backSprite": "../pokeSprite/gen5/back/0500_emboar_back.gif",
+                "sprite": "../pokeSprite/gen5/0500_emboar/normal/front.gif",
+                "backSprite": "../pokeSprite/gen5/0500_emboar/normal/back.gif",
                 "condition": "Level 36",
                 "conditionJa": "Lv.36",
                 "details": [

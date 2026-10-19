@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0550_basculin-red-striped.gif",
-  "backSprite": "../pokeSprite/gen5/back/0550_basculin-red-striped_back.gif",
+  "sprite": "../pokeSprite/gen5/0550_basculin-red-striped/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0550_basculin-red-striped/normal/back.gif",
   "abilities": [
     {
       "id": 120,
@@ -298,8 +298,8 @@
         "types": [
           "water"
         ],
-        "sprite": "../pokeSprite/gen5/0550_basculin-red-striped.gif",
-        "backSprite": "../pokeSprite/gen5/back/0550_basculin-red-striped_back.gif",
+        "sprite": "../pokeSprite/gen5/0550_basculin-red-striped/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0550_basculin-red-striped/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -314,8 +314,8 @@
               "water",
               "ghost"
             ],
-            "sprite": "../pokeSprite/gen8/0902_basculegion-male.gif",
-            "backSprite": "../pokeSprite/gen8/back/0902_basculegion-male_back.gif",
+            "sprite": "../pokeSprite/gen8/0902_basculegion-male/normal/front.gif",
+            "backSprite": "../pokeSprite/gen8/0902_basculegion-male/normal/back.gif",
             "condition": "Take recoil damage",
             "conditionJa": "Take recoil damage",
             "details": [

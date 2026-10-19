@@ -11,8 +11,8 @@
   "category": "gen7",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen7/0729_brionne.gif",
-  "backSprite": "../pokeSprite/gen7/back/0729_brionne_back.gif",
+  "sprite": "../pokeSprite/gen7/0729_brionne/normal/front.gif",
+  "backSprite": "../pokeSprite/gen7/0729_brionne/normal/back.gif",
   "abilities": [
     {
       "id": 67,
@@ -302,8 +302,8 @@
         "types": [
           "water"
         ],
-        "sprite": "../pokeSprite/gen7/0728_popplio.gif",
-        "backSprite": "../pokeSprite/gen7/back/0728_popplio_back.gif",
+        "sprite": "../pokeSprite/gen7/0728_popplio/normal/front.gif",
+        "backSprite": "../pokeSprite/gen7/0728_popplio/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -317,8 +317,8 @@
             "types": [
               "water"
             ],
-            "sprite": "../pokeSprite/gen7/0729_brionne.gif",
-            "backSprite": "../pokeSprite/gen7/back/0729_brionne_back.gif",
+            "sprite": "../pokeSprite/gen7/0729_brionne/normal/front.gif",
+            "backSprite": "../pokeSprite/gen7/0729_brionne/normal/back.gif",
             "condition": "Level 17",
             "conditionJa": "Lv.17",
             "details": [
@@ -347,8 +347,8 @@
                   "water",
                   "fairy"
                 ],
-                "sprite": "../pokeSprite/gen7/0730_primarina.gif",
-                "backSprite": "../pokeSprite/gen7/back/0730_primarina_back.gif",
+                "sprite": "../pokeSprite/gen7/0730_primarina/normal/front.gif",
+                "backSprite": "../pokeSprite/gen7/0730_primarina/normal/back.gif",
                 "condition": "Level 34",
                 "conditionJa": "Lv.34",
                 "details": [

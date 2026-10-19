@@ -11,8 +11,8 @@
   "category": "gen2",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen2/0237_hitmontop.gif",
-  "backSprite": "../pokeSprite/gen2/back/0237_hitmontop_back.gif",
+  "sprite": "../pokeSprite/gen2/0237_hitmontop/normal/front.gif",
+  "backSprite": "../pokeSprite/gen2/0237_hitmontop/normal/back.gif",
   "abilities": [
     {
       "id": 22,
@@ -285,8 +285,8 @@
         "types": [
           "fighting"
         ],
-        "sprite": "../pokeSprite/gen2/0236_tyrogue.gif",
-        "backSprite": "../pokeSprite/gen2/back/0236_tyrogue_back.gif",
+        "sprite": "../pokeSprite/gen2/0236_tyrogue/normal/front.gif",
+        "backSprite": "../pokeSprite/gen2/0236_tyrogue/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -300,8 +300,8 @@
             "types": [
               "fighting"
             ],
-            "sprite": "../pokeSprite/gen1/0106_hitmonlee.gif",
-            "backSprite": "../pokeSprite/gen1/back/0106_hitmonlee_back.gif",
+            "sprite": "../pokeSprite/gen1/0106_hitmonlee/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0106_hitmonlee/normal/back.gif",
             "condition": "Level 20",
             "conditionJa": "Lv.20",
             "details": [
@@ -330,8 +330,8 @@
             "types": [
               "fighting"
             ],
-            "sprite": "../pokeSprite/gen1/0107_hitmonchan.gif",
-            "backSprite": "../pokeSprite/gen1/back/0107_hitmonchan_back.gif",
+            "sprite": "../pokeSprite/gen1/0107_hitmonchan/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0107_hitmonchan/normal/back.gif",
             "condition": "Level 20",
             "conditionJa": "Lv.20",
             "details": [
@@ -360,8 +360,8 @@
             "types": [
               "fighting"
             ],
-            "sprite": "../pokeSprite/gen2/0237_hitmontop.gif",
-            "backSprite": "../pokeSprite/gen2/back/0237_hitmontop_back.gif",
+            "sprite": "../pokeSprite/gen2/0237_hitmontop/normal/front.gif",
+            "backSprite": "../pokeSprite/gen2/0237_hitmontop/normal/back.gif",
             "condition": "Level 20",
             "conditionJa": "Lv.20",
             "details": [

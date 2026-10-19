@@ -11,8 +11,8 @@
   "category": "gen9",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen9/0950_klawf.gif",
-  "backSprite": "../pokeSprite/gen9/back/0950_klawf_back.gif",
+  "sprite": "../pokeSprite/gen9/0950_klawf/normal/front.gif",
+  "backSprite": "../pokeSprite/gen9/0950_klawf/normal/back.gif",
   "abilities": [
     {
       "id": 271,
@@ -263,8 +263,8 @@
         "types": [
           "rock"
         ],
-        "sprite": "../pokeSprite/gen9/0950_klawf.gif",
-        "backSprite": "../pokeSprite/gen9/back/0950_klawf_back.gif",
+        "sprite": "../pokeSprite/gen9/0950_klawf/normal/front.gif",
+        "backSprite": "../pokeSprite/gen9/0950_klawf/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

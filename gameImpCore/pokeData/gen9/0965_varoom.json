@@ -11,8 +11,8 @@
   "category": "gen9",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen9/0965_varoom.gif",
-  "backSprite": "../pokeSprite/gen9/back/0965_varoom_back.gif",
+  "sprite": "../pokeSprite/gen9/0965_varoom/normal/front.gif",
+  "backSprite": "../pokeSprite/gen9/0965_varoom/normal/back.gif",
   "abilities": [
     {
       "id": 142,
@@ -288,8 +288,8 @@
           "steel",
           "poison"
         ],
-        "sprite": "../pokeSprite/gen9/0965_varoom.gif",
-        "backSprite": "../pokeSprite/gen9/back/0965_varoom_back.gif",
+        "sprite": "../pokeSprite/gen9/0965_varoom/normal/front.gif",
+        "backSprite": "../pokeSprite/gen9/0965_varoom/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -304,8 +304,8 @@
               "steel",
               "poison"
             ],
-            "sprite": "../pokeSprite/gen9/0966_revavroom.gif",
-            "backSprite": "../pokeSprite/gen9/back/0966_revavroom_back.gif",
+            "sprite": "../pokeSprite/gen9/0966_revavroom/normal/front.gif",
+            "backSprite": "../pokeSprite/gen9/0966_revavroom/normal/back.gif",
             "condition": "Level 40",
             "conditionJa": "Lv.40",
             "details": [

@@ -11,8 +11,8 @@
   "category": "regional",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/regional/0027_sandshrew-alola.gif",
-  "backSprite": "../pokeSprite/regional/back/0027_sandshrew-alola_back.gif",
+  "sprite": "../pokeSprite/gen1/0027_sandshrew/regional/sandshrew-alola/front.gif",
+  "backSprite": "../pokeSprite/gen1/0027_sandshrew/regional/sandshrew-alola/back.gif",
   "abilities": [
     {
       "id": 81,
@@ -303,8 +303,8 @@
         "types": [
           "ground"
         ],
-        "sprite": "../pokeSprite/gen1/0027_sandshrew.gif",
-        "backSprite": "../pokeSprite/gen1/back/0027_sandshrew_back.gif",
+        "sprite": "../pokeSprite/gen1/0027_sandshrew/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0027_sandshrew/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -318,8 +318,8 @@
             "types": [
               "ground"
             ],
-            "sprite": "../pokeSprite/gen1/0028_sandslash.gif",
-            "backSprite": "../pokeSprite/gen1/back/0028_sandslash_back.gif",
+            "sprite": "../pokeSprite/gen1/0028_sandslash/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0028_sandslash/normal/back.gif",
             "condition": "Level 22 / Use Ice Stone",
             "conditionJa": "Lv.22 / 「こおりのいし」を使用",
             "details": [

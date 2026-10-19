@@ -11,8 +11,8 @@
   "category": "gen3",
   "isLegendary": false,
   "isMythical": true,
-  "sprite": "../pokeSprite/gen3/0386_deoxys-normal.gif",
-  "backSprite": "../pokeSprite/gen3/back/0386_deoxys-normal_back.gif",
+  "sprite": "../pokeSprite/gen3/0386_deoxys-normal/normal/front.gif",
+  "backSprite": "../pokeSprite/gen3/0386_deoxys-normal/normal/back.gif",
   "abilities": [
     {
       "id": 46,
@@ -253,8 +253,8 @@
         "types": [
           "psychic"
         ],
-        "sprite": "../pokeSprite/gen3/0386_deoxys-normal.gif",
-        "backSprite": "../pokeSprite/gen3/back/0386_deoxys-normal_back.gif",
+        "sprite": "../pokeSprite/gen3/0386_deoxys-normal/normal/front.gif",
+        "backSprite": "../pokeSprite/gen3/0386_deoxys-normal/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

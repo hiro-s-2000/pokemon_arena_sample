@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0617_accelgor.gif",
-  "backSprite": "../pokeSprite/gen5/back/0617_accelgor_back.gif",
+  "sprite": "../pokeSprite/gen5/0617_accelgor/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0617_accelgor/normal/back.gif",
   "abilities": [
     {
       "id": 93,
@@ -283,8 +283,8 @@
         "types": [
           "bug"
         ],
-        "sprite": "../pokeSprite/gen5/0616_shelmet.gif",
-        "backSprite": "../pokeSprite/gen5/back/0616_shelmet_back.gif",
+        "sprite": "../pokeSprite/gen5/0616_shelmet/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0616_shelmet/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -298,8 +298,8 @@
             "types": [
               "bug"
             ],
-            "sprite": "../pokeSprite/gen5/0617_accelgor.gif",
-            "backSprite": "../pokeSprite/gen5/back/0617_accelgor_back.gif",
+            "sprite": "../pokeSprite/gen5/0617_accelgor/normal/front.gif",
+            "backSprite": "../pokeSprite/gen5/0617_accelgor/normal/back.gif",
             "condition": "Trade",
             "conditionJa": "通信交換",
             "details": [

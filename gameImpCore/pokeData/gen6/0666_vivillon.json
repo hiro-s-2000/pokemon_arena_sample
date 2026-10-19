@@ -11,8 +11,8 @@
   "category": "gen6",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen6/0666_vivillon.gif",
-  "backSprite": "../pokeSprite/gen6/back/0666_vivillon_back.gif",
+  "sprite": "../pokeSprite/gen6/0666_vivillon/normal/front.gif",
+  "backSprite": "../pokeSprite/gen6/0666_vivillon/normal/back.gif",
   "abilities": [
     {
       "id": 19,
@@ -555,8 +555,8 @@
         "types": [
           "bug"
         ],
-        "sprite": "../pokeSprite/gen6/0664_scatterbug.gif",
-        "backSprite": "../pokeSprite/gen6/back/0664_scatterbug_back.gif",
+        "sprite": "../pokeSprite/gen6/0664_scatterbug/normal/front.gif",
+        "backSprite": "../pokeSprite/gen6/0664_scatterbug/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -570,8 +570,8 @@
             "types": [
               "bug"
             ],
-            "sprite": "../pokeSprite/gen6/0665_spewpa.gif",
-            "backSprite": "../pokeSprite/gen6/back/0665_spewpa_back.gif",
+            "sprite": "../pokeSprite/gen6/0665_spewpa/normal/front.gif",
+            "backSprite": "../pokeSprite/gen6/0665_spewpa/normal/back.gif",
             "condition": "Level 9",
             "conditionJa": "Lv.9",
             "details": [
@@ -847,8 +847,8 @@
                   "bug",
                   "flying"
                 ],
-                "sprite": "../pokeSprite/gen6/0666_vivillon.gif",
-                "backSprite": "../pokeSprite/gen6/back/0666_vivillon_back.gif",
+                "sprite": "../pokeSprite/gen6/0666_vivillon/normal/front.gif",
+                "backSprite": "../pokeSprite/gen6/0666_vivillon/normal/back.gif",
                 "condition": "Level 12",
                 "conditionJa": "Lv.12",
                 "details": [

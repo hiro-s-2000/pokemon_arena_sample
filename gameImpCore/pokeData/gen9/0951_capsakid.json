@@ -11,8 +11,8 @@
   "category": "gen9",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen9/0951_capsakid.gif",
-  "backSprite": "../pokeSprite/gen9/back/0951_capsakid_back.gif",
+  "sprite": "../pokeSprite/gen9/0951_capsakid/normal/front.gif",
+  "backSprite": "../pokeSprite/gen9/0951_capsakid/normal/back.gif",
   "abilities": [
     {
       "id": 34,
@@ -285,8 +285,8 @@
         "types": [
           "grass"
         ],
-        "sprite": "../pokeSprite/gen9/0951_capsakid.gif",
-        "backSprite": "../pokeSprite/gen9/back/0951_capsakid_back.gif",
+        "sprite": "../pokeSprite/gen9/0951_capsakid/normal/front.gif",
+        "backSprite": "../pokeSprite/gen9/0951_capsakid/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -301,8 +301,8 @@
               "grass",
               "fire"
             ],
-            "sprite": "../pokeSprite/gen9/0952_scovillain.gif",
-            "backSprite": "../pokeSprite/gen9/back/0952_scovillain_back.gif",
+            "sprite": "../pokeSprite/gen9/0952_scovillain/normal/front.gif",
+            "backSprite": "../pokeSprite/gen9/0952_scovillain/normal/back.gif",
             "condition": "Use Fire Stone",
             "conditionJa": "「ほのおのいし」を使用",
             "details": [

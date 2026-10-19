@@ -11,8 +11,8 @@
   "category": "mega",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/mega/0127_pinsir-mega.gif",
-  "backSprite": "../pokeSprite/mega/back/0127_pinsir-mega_back.gif",
+  "sprite": "../pokeSprite/gen1/0127_pinsir/mega/pinsir-mega/front.gif",
+  "backSprite": "../pokeSprite/gen1/0127_pinsir/mega/pinsir-mega/back.gif",
   "abilities": [
     {
       "id": 184,
@@ -255,8 +255,8 @@
         "types": [
           "bug"
         ],
-        "sprite": "../pokeSprite/gen1/0127_pinsir.gif",
-        "backSprite": "../pokeSprite/gen1/back/0127_pinsir_back.gif",
+        "sprite": "../pokeSprite/gen1/0127_pinsir/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0127_pinsir/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

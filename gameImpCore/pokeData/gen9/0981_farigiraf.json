@@ -11,8 +11,8 @@
   "category": "gen9",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen9/0981_farigiraf.gif",
-  "backSprite": "../pokeSprite/gen9/back/0981_farigiraf_back.gif",
+  "sprite": "../pokeSprite/gen9/0981_farigiraf/normal/front.gif",
+  "backSprite": "../pokeSprite/gen9/0981_farigiraf/normal/back.gif",
   "abilities": [
     {
       "id": 291,
@@ -292,8 +292,8 @@
           "normal",
           "psychic"
         ],
-        "sprite": "../pokeSprite/gen2/0203_girafarig.gif",
-        "backSprite": "../pokeSprite/gen2/back/0203_girafarig_back.gif",
+        "sprite": "../pokeSprite/gen2/0203_girafarig/normal/front.gif",
+        "backSprite": "../pokeSprite/gen2/0203_girafarig/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -308,8 +308,8 @@
               "normal",
               "psychic"
             ],
-            "sprite": "../pokeSprite/gen9/0981_farigiraf.gif",
-            "backSprite": "../pokeSprite/gen9/back/0981_farigiraf_back.gif",
+            "sprite": "../pokeSprite/gen9/0981_farigiraf/normal/front.gif",
+            "backSprite": "../pokeSprite/gen9/0981_farigiraf/normal/back.gif",
             "condition": "Level up knowing Twin Beam",
             "conditionJa": "レベルアップ（「ツインビーム」を習得）",
             "details": [

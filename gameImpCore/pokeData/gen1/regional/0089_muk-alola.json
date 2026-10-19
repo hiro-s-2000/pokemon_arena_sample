@@ -11,8 +11,8 @@
   "category": "regional",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/regional/0089_muk-alola.gif",
-  "backSprite": "../pokeSprite/regional/back/0089_muk-alola_back.gif",
+  "sprite": "../pokeSprite/gen1/0089_muk/regional/muk-alola/front.gif",
+  "backSprite": "../pokeSprite/gen1/0089_muk/regional/muk-alola/back.gif",
   "abilities": [
     {
       "id": 143,
@@ -312,8 +312,8 @@
         "types": [
           "poison"
         ],
-        "sprite": "../pokeSprite/gen1/0088_grimer.gif",
-        "backSprite": "../pokeSprite/gen1/back/0088_grimer_back.gif",
+        "sprite": "../pokeSprite/gen1/0088_grimer/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0088_grimer/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -327,8 +327,8 @@
             "types": [
               "poison"
             ],
-            "sprite": "../pokeSprite/gen1/0089_muk.gif",
-            "backSprite": "../pokeSprite/gen1/back/0089_muk_back.gif",
+            "sprite": "../pokeSprite/gen1/0089_muk/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0089_muk/normal/back.gif",
             "condition": "Level 38",
             "conditionJa": "Lv.38",
             "details": [

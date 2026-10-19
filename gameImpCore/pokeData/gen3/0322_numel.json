@@ -11,8 +11,8 @@
   "category": "gen3",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen3/0322_numel.gif",
-  "backSprite": "../pokeSprite/gen3/back/0322_numel_back.gif",
+  "sprite": "../pokeSprite/gen3/0322_numel/normal/front.gif",
+  "backSprite": "../pokeSprite/gen3/0322_numel/normal/back.gif",
   "abilities": [
     {
       "id": 12,
@@ -301,8 +301,8 @@
           "fire",
           "ground"
         ],
-        "sprite": "../pokeSprite/gen3/0322_numel.gif",
-        "backSprite": "../pokeSprite/gen3/back/0322_numel_back.gif",
+        "sprite": "../pokeSprite/gen3/0322_numel/normal/front.gif",
+        "backSprite": "../pokeSprite/gen3/0322_numel/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -317,8 +317,8 @@
               "fire",
               "ground"
             ],
-            "sprite": "../pokeSprite/gen3/0323_camerupt.gif",
-            "backSprite": "../pokeSprite/gen3/back/0323_camerupt_back.gif",
+            "sprite": "../pokeSprite/gen3/0323_camerupt/normal/front.gif",
+            "backSprite": "../pokeSprite/gen3/0323_camerupt/normal/back.gif",
             "condition": "Level 33",
             "conditionJa": "Lv.33",
             "details": [

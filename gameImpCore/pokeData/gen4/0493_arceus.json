@@ -11,8 +11,8 @@
   "category": "gen4",
   "isLegendary": false,
   "isMythical": true,
-  "sprite": "../pokeSprite/gen4/0493_arceus.gif",
-  "backSprite": "../pokeSprite/gen4/back/0493_arceus_back.gif",
+  "sprite": "../pokeSprite/gen4/0493_arceus/normal/front.gif",
+  "backSprite": "../pokeSprite/gen4/0493_arceus/normal/back.gif",
   "abilities": [
     {
       "id": 121,
@@ -238,8 +238,8 @@
         "types": [
           "normal"
         ],
-        "sprite": "../pokeSprite/gen4/0493_arceus.gif",
-        "backSprite": "../pokeSprite/gen4/back/0493_arceus_back.gif",
+        "sprite": "../pokeSprite/gen4/0493_arceus/normal/front.gif",
+        "backSprite": "../pokeSprite/gen4/0493_arceus/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

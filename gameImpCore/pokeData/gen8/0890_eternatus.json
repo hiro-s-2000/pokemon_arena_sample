@@ -11,8 +11,8 @@
   "category": "gen8",
   "isLegendary": true,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen8/0890_eternatus.gif",
-  "backSprite": "../pokeSprite/gen8/back/0890_eternatus_back.gif",
+  "sprite": "../pokeSprite/gen8/0890_eternatus/normal/front.gif",
+  "backSprite": "../pokeSprite/gen8/0890_eternatus/normal/back.gif",
   "abilities": [
     {
       "id": 46,
@@ -252,8 +252,8 @@
           "poison",
           "dragon"
         ],
-        "sprite": "../pokeSprite/gen8/0890_eternatus.gif",
-        "backSprite": "../pokeSprite/gen8/back/0890_eternatus_back.gif",
+        "sprite": "../pokeSprite/gen8/0890_eternatus/normal/front.gif",
+        "backSprite": "../pokeSprite/gen8/0890_eternatus/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

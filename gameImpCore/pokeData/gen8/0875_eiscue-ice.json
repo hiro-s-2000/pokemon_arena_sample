@@ -11,8 +11,8 @@
   "category": "gen8",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen8/0875_eiscue-ice.gif",
-  "backSprite": "../pokeSprite/gen8/back/0875_eiscue-ice_back.gif",
+  "sprite": "../pokeSprite/gen8/0875_eiscue-ice/normal/front.gif",
+  "backSprite": "../pokeSprite/gen8/0875_eiscue-ice/normal/back.gif",
   "abilities": [
     {
       "id": 248,
@@ -249,8 +249,8 @@
         "types": [
           "ice"
         ],
-        "sprite": "../pokeSprite/gen8/0875_eiscue-ice.gif",
-        "backSprite": "../pokeSprite/gen8/back/0875_eiscue-ice_back.gif",
+        "sprite": "../pokeSprite/gen8/0875_eiscue-ice/normal/front.gif",
+        "backSprite": "../pokeSprite/gen8/0875_eiscue-ice/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

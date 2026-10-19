@@ -11,8 +11,8 @@
   "category": "gen2",
   "isLegendary": true,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen2/0249_lugia.gif",
-  "backSprite": "../pokeSprite/gen2/back/0249_lugia_back.gif",
+  "sprite": "../pokeSprite/gen2/0249_lugia/normal/front.gif",
+  "backSprite": "../pokeSprite/gen2/0249_lugia/normal/back.gif",
   "abilities": [
     {
       "id": 46,
@@ -264,8 +264,8 @@
           "psychic",
           "flying"
         ],
-        "sprite": "../pokeSprite/gen2/0249_lugia.gif",
-        "backSprite": "../pokeSprite/gen2/back/0249_lugia_back.gif",
+        "sprite": "../pokeSprite/gen2/0249_lugia/normal/front.gif",
+        "backSprite": "../pokeSprite/gen2/0249_lugia/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

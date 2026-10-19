@@ -11,8 +11,8 @@
   "category": "gen3",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen3/0336_seviper.gif",
-  "backSprite": "../pokeSprite/gen3/back/0336_seviper_back.gif",
+  "sprite": "../pokeSprite/gen3/0336_seviper/normal/front.gif",
+  "backSprite": "../pokeSprite/gen3/0336_seviper/normal/back.gif",
   "abilities": [
     {
       "id": 61,
@@ -263,8 +263,8 @@
         "types": [
           "poison"
         ],
-        "sprite": "../pokeSprite/gen3/0336_seviper.gif",
-        "backSprite": "../pokeSprite/gen3/back/0336_seviper_back.gif",
+        "sprite": "../pokeSprite/gen3/0336_seviper/normal/front.gif",
+        "backSprite": "../pokeSprite/gen3/0336_seviper/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

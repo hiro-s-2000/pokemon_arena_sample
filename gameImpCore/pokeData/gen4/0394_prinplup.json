@@ -11,8 +11,8 @@
   "category": "gen4",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen4/0394_prinplup.gif",
-  "backSprite": "../pokeSprite/gen4/back/0394_prinplup_back.gif",
+  "sprite": "../pokeSprite/gen4/0394_prinplup/normal/front.gif",
+  "backSprite": "../pokeSprite/gen4/0394_prinplup/normal/back.gif",
   "abilities": [
     {
       "id": 67,
@@ -302,8 +302,8 @@
         "types": [
           "water"
         ],
-        "sprite": "../pokeSprite/gen4/0393_piplup.gif",
-        "backSprite": "../pokeSprite/gen4/back/0393_piplup_back.gif",
+        "sprite": "../pokeSprite/gen4/0393_piplup/normal/front.gif",
+        "backSprite": "../pokeSprite/gen4/0393_piplup/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -317,8 +317,8 @@
             "types": [
               "water"
             ],
-            "sprite": "../pokeSprite/gen4/0394_prinplup.gif",
-            "backSprite": "../pokeSprite/gen4/back/0394_prinplup_back.gif",
+            "sprite": "../pokeSprite/gen4/0394_prinplup/normal/front.gif",
+            "backSprite": "../pokeSprite/gen4/0394_prinplup/normal/back.gif",
             "condition": "Level 16",
             "conditionJa": "Lv.16",
             "details": [
@@ -347,8 +347,8 @@
                   "water",
                   "steel"
                 ],
-                "sprite": "../pokeSprite/gen4/0395_empoleon.gif",
-                "backSprite": "../pokeSprite/gen4/back/0395_empoleon_back.gif",
+                "sprite": "../pokeSprite/gen4/0395_empoleon/normal/front.gif",
+                "backSprite": "../pokeSprite/gen4/0395_empoleon/normal/back.gif",
                 "condition": "Level 36",
                 "conditionJa": "Lv.36",
                 "details": [

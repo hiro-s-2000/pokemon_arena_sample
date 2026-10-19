@@ -11,8 +11,8 @@
   "category": "gen9",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen9/1013_sinistcha.gif",
-  "backSprite": "../pokeSprite/gen9/back/1013_sinistcha_back.gif",
+  "sprite": "../pokeSprite/gen9/1013_sinistcha/normal/front.gif",
+  "backSprite": "../pokeSprite/gen9/1013_sinistcha/normal/back.gif",
   "abilities": [
     {
       "id": 301,
@@ -304,8 +304,8 @@
           "grass",
           "ghost"
         ],
-        "sprite": "../pokeSprite/gen9/1012_poltchageist.gif",
-        "backSprite": "../pokeSprite/gen9/back/1012_poltchageist_back.gif",
+        "sprite": "../pokeSprite/gen9/1012_poltchageist/normal/front.gif",
+        "backSprite": "../pokeSprite/gen9/1012_poltchageist/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -320,8 +320,8 @@
               "grass",
               "ghost"
             ],
-            "sprite": "../pokeSprite/gen9/1013_sinistcha.gif",
-            "backSprite": "../pokeSprite/gen9/back/1013_sinistcha_back.gif",
+            "sprite": "../pokeSprite/gen9/1013_sinistcha/normal/front.gif",
+            "backSprite": "../pokeSprite/gen9/1013_sinistcha/normal/back.gif",
             "condition": "Use Unremarkable Teacup / Use Masterpiece Teacup",
             "conditionJa": "「ボンサクのちゃわん」を使用",
             "details": [

@@ -11,8 +11,8 @@
   "category": "gen3",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen3/0364_sealeo.gif",
-  "backSprite": "../pokeSprite/gen3/back/0364_sealeo_back.gif",
+  "sprite": "../pokeSprite/gen3/0364_sealeo/normal/front.gif",
+  "backSprite": "../pokeSprite/gen3/0364_sealeo/normal/back.gif",
   "abilities": [
     {
       "id": 47,
@@ -325,8 +325,8 @@
           "ice",
           "water"
         ],
-        "sprite": "../pokeSprite/gen3/0363_spheal.gif",
-        "backSprite": "../pokeSprite/gen3/back/0363_spheal_back.gif",
+        "sprite": "../pokeSprite/gen3/0363_spheal/normal/front.gif",
+        "backSprite": "../pokeSprite/gen3/0363_spheal/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -341,8 +341,8 @@
               "ice",
               "water"
             ],
-            "sprite": "../pokeSprite/gen3/0364_sealeo.gif",
-            "backSprite": "../pokeSprite/gen3/back/0364_sealeo_back.gif",
+            "sprite": "../pokeSprite/gen3/0364_sealeo/normal/front.gif",
+            "backSprite": "../pokeSprite/gen3/0364_sealeo/normal/back.gif",
             "condition": "Level 32",
             "conditionJa": "Lv.32",
             "details": [
@@ -371,8 +371,8 @@
                   "ice",
                   "water"
                 ],
-                "sprite": "../pokeSprite/gen3/0365_walrein.gif",
-                "backSprite": "../pokeSprite/gen3/back/0365_walrein_back.gif",
+                "sprite": "../pokeSprite/gen3/0365_walrein/normal/front.gif",
+                "backSprite": "../pokeSprite/gen3/0365_walrein/normal/back.gif",
                 "condition": "Level 44",
                 "conditionJa": "Lv.44",
                 "details": [

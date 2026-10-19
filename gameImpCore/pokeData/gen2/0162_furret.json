@@ -11,8 +11,8 @@
   "category": "gen2",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen2/0162_furret.gif",
-  "backSprite": "../pokeSprite/gen2/back/0162_furret_back.gif",
+  "sprite": "../pokeSprite/gen2/0162_furret/normal/front.gif",
+  "backSprite": "../pokeSprite/gen2/0162_furret/normal/back.gif",
   "abilities": [
     {
       "id": 50,
@@ -279,8 +279,8 @@
         "types": [
           "normal"
         ],
-        "sprite": "../pokeSprite/gen2/0161_sentret.gif",
-        "backSprite": "../pokeSprite/gen2/back/0161_sentret_back.gif",
+        "sprite": "../pokeSprite/gen2/0161_sentret/normal/front.gif",
+        "backSprite": "../pokeSprite/gen2/0161_sentret/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -294,8 +294,8 @@
             "types": [
               "normal"
             ],
-            "sprite": "../pokeSprite/gen2/0162_furret.gif",
-            "backSprite": "../pokeSprite/gen2/back/0162_furret_back.gif",
+            "sprite": "../pokeSprite/gen2/0162_furret/normal/front.gif",
+            "backSprite": "../pokeSprite/gen2/0162_furret/normal/back.gif",
             "condition": "Level 15",
             "conditionJa": "Lv.15",
             "details": [

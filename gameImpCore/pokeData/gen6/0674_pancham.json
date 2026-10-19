@@ -11,8 +11,8 @@
   "category": "gen6",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen6/0674_pancham.gif",
-  "backSprite": "../pokeSprite/gen6/back/0674_pancham_back.gif",
+  "sprite": "../pokeSprite/gen6/0674_pancham/normal/front.gif",
+  "backSprite": "../pokeSprite/gen6/0674_pancham/normal/back.gif",
   "abilities": [
     {
       "id": 89,
@@ -293,8 +293,8 @@
         "types": [
           "fighting"
         ],
-        "sprite": "../pokeSprite/gen6/0674_pancham.gif",
-        "backSprite": "../pokeSprite/gen6/back/0674_pancham_back.gif",
+        "sprite": "../pokeSprite/gen6/0674_pancham/normal/front.gif",
+        "backSprite": "../pokeSprite/gen6/0674_pancham/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -309,8 +309,8 @@
               "fighting",
               "dark"
             ],
-            "sprite": "../pokeSprite/gen6/0675_pangoro.gif",
-            "backSprite": "../pokeSprite/gen6/back/0675_pangoro_back.gif",
+            "sprite": "../pokeSprite/gen6/0675_pangoro/normal/front.gif",
+            "backSprite": "../pokeSprite/gen6/0675_pangoro/normal/back.gif",
             "condition": "Level 32",
             "conditionJa": "Lv.32",
             "details": [

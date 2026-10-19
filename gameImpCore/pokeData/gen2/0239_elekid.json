@@ -11,8 +11,8 @@
   "category": "gen2",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen2/0239_elekid.gif",
-  "backSprite": "../pokeSprite/gen2/back/0239_elekid_back.gif",
+  "sprite": "../pokeSprite/gen2/0239_elekid/normal/front.gif",
+  "backSprite": "../pokeSprite/gen2/0239_elekid/normal/back.gif",
   "abilities": [
     {
       "id": 9,
@@ -274,8 +274,8 @@
         "types": [
           "electric"
         ],
-        "sprite": "../pokeSprite/gen2/0239_elekid.gif",
-        "backSprite": "../pokeSprite/gen2/back/0239_elekid_back.gif",
+        "sprite": "../pokeSprite/gen2/0239_elekid/normal/front.gif",
+        "backSprite": "../pokeSprite/gen2/0239_elekid/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -289,8 +289,8 @@
             "types": [
               "electric"
             ],
-            "sprite": "../pokeSprite/gen1/0125_electabuzz.gif",
-            "backSprite": "../pokeSprite/gen1/back/0125_electabuzz_back.gif",
+            "sprite": "../pokeSprite/gen1/0125_electabuzz/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0125_electabuzz/normal/back.gif",
             "condition": "Level 30",
             "conditionJa": "Lv.30",
             "details": [
@@ -318,8 +318,8 @@
                 "types": [
                   "electric"
                 ],
-                "sprite": "../pokeSprite/gen4/0466_electivire.gif",
-                "backSprite": "../pokeSprite/gen4/back/0466_electivire_back.gif",
+                "sprite": "../pokeSprite/gen4/0466_electivire/normal/front.gif",
+                "backSprite": "../pokeSprite/gen4/0466_electivire/normal/back.gif",
                 "condition": "Trade holding Electirizer",
                 "conditionJa": "通信交換（エレキブースターを持たせる）",
                 "details": [

@@ -11,8 +11,8 @@
   "category": "mega",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/mega/0323_camerupt-mega.gif",
-  "backSprite": "../pokeSprite/mega/back/0323_camerupt-mega_back.gif",
+  "sprite": "../pokeSprite/gen3/0323_camerupt/mega/camerupt-mega/front.gif",
+  "backSprite": "../pokeSprite/gen3/0323_camerupt/mega/camerupt-mega/back.gif",
   "abilities": [
     {
       "id": 125,
@@ -285,8 +285,8 @@
           "fire",
           "ground"
         ],
-        "sprite": "../pokeSprite/gen3/0322_numel.gif",
-        "backSprite": "../pokeSprite/gen3/back/0322_numel_back.gif",
+        "sprite": "../pokeSprite/gen3/0322_numel/normal/front.gif",
+        "backSprite": "../pokeSprite/gen3/0322_numel/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -301,8 +301,8 @@
               "fire",
               "ground"
             ],
-            "sprite": "../pokeSprite/gen3/0323_camerupt.gif",
-            "backSprite": "../pokeSprite/gen3/back/0323_camerupt_back.gif",
+            "sprite": "../pokeSprite/gen3/0323_camerupt/normal/front.gif",
+            "backSprite": "../pokeSprite/gen3/0323_camerupt/normal/back.gif",
             "condition": "Level 33",
             "conditionJa": "Lv.33",
             "details": [

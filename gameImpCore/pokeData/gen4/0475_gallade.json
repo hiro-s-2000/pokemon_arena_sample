@@ -11,8 +11,8 @@
   "category": "gen4",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen4/0475_gallade.gif",
-  "backSprite": "../pokeSprite/gen4/back/0475_gallade_back.gif",
+  "sprite": "../pokeSprite/gen4/0475_gallade/normal/front.gif",
+  "backSprite": "../pokeSprite/gen4/0475_gallade/normal/back.gif",
   "abilities": [
     {
       "id": 80,
@@ -302,8 +302,8 @@
           "psychic",
           "fairy"
         ],
-        "sprite": "../pokeSprite/gen3/0280_ralts.gif",
-        "backSprite": "../pokeSprite/gen3/back/0280_ralts_back.gif",
+        "sprite": "../pokeSprite/gen3/0280_ralts/normal/front.gif",
+        "backSprite": "../pokeSprite/gen3/0280_ralts/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -318,8 +318,8 @@
               "psychic",
               "fairy"
             ],
-            "sprite": "../pokeSprite/gen3/0281_kirlia.gif",
-            "backSprite": "../pokeSprite/gen3/back/0281_kirlia_back.gif",
+            "sprite": "../pokeSprite/gen3/0281_kirlia/normal/front.gif",
+            "backSprite": "../pokeSprite/gen3/0281_kirlia/normal/back.gif",
             "condition": "Level 20",
             "conditionJa": "Lv.20",
             "details": [
@@ -348,8 +348,8 @@
                   "psychic",
                   "fairy"
                 ],
-                "sprite": "../pokeSprite/gen3/0282_gardevoir.gif",
-                "backSprite": "../pokeSprite/gen3/back/0282_gardevoir_back.gif",
+                "sprite": "../pokeSprite/gen3/0282_gardevoir/normal/front.gif",
+                "backSprite": "../pokeSprite/gen3/0282_gardevoir/normal/back.gif",
                 "condition": "Level 30",
                 "conditionJa": "Lv.30",
                 "details": [
@@ -379,8 +379,8 @@
                   "psychic",
                   "fighting"
                 ],
-                "sprite": "../pokeSprite/gen4/0475_gallade.gif",
-                "backSprite": "../pokeSprite/gen4/back/0475_gallade_back.gif",
+                "sprite": "../pokeSprite/gen4/0475_gallade/normal/front.gif",
+                "backSprite": "../pokeSprite/gen4/0475_gallade/normal/back.gif",
                 "condition": "Use Dawn Stone",
                 "conditionJa": "「めざめいし」を使用",
                 "details": [

@@ -11,8 +11,8 @@
   "category": "gen6",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen6/0709_trevenant.gif",
-  "backSprite": "../pokeSprite/gen6/back/0709_trevenant_back.gif",
+  "sprite": "../pokeSprite/gen6/0709_trevenant/normal/front.gif",
+  "backSprite": "../pokeSprite/gen6/0709_trevenant/normal/back.gif",
   "abilities": [
     {
       "id": 30,
@@ -301,8 +301,8 @@
           "ghost",
           "grass"
         ],
-        "sprite": "../pokeSprite/gen6/0708_phantump.gif",
-        "backSprite": "../pokeSprite/gen6/back/0708_phantump_back.gif",
+        "sprite": "../pokeSprite/gen6/0708_phantump/normal/front.gif",
+        "backSprite": "../pokeSprite/gen6/0708_phantump/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -317,8 +317,8 @@
               "ghost",
               "grass"
             ],
-            "sprite": "../pokeSprite/gen6/0709_trevenant.gif",
-            "backSprite": "../pokeSprite/gen6/back/0709_trevenant_back.gif",
+            "sprite": "../pokeSprite/gen6/0709_trevenant/normal/front.gif",
+            "backSprite": "../pokeSprite/gen6/0709_trevenant/normal/back.gif",
             "condition": "Trade",
             "conditionJa": "通信交換",
             "details": [

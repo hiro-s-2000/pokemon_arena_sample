@@ -11,8 +11,8 @@
   "category": "regional",
   "isLegendary": true,
   "isMythical": false,
-  "sprite": "../pokeSprite/regional/0145_zapdos-galar.gif",
-  "backSprite": "../pokeSprite/regional/back/0145_zapdos-galar_back.gif",
+  "sprite": "../pokeSprite/gen1/0145_zapdos/regional/zapdos-galar/front.gif",
+  "backSprite": "../pokeSprite/gen1/0145_zapdos/regional/zapdos-galar/back.gif",
   "abilities": [
     {
       "id": 128,
@@ -258,8 +258,8 @@
           "electric",
           "flying"
         ],
-        "sprite": "../pokeSprite/gen1/0145_zapdos.gif",
-        "backSprite": "../pokeSprite/gen1/back/0145_zapdos_back.gif",
+        "sprite": "../pokeSprite/gen1/0145_zapdos/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0145_zapdos/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

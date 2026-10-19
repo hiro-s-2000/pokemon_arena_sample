@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0577_solosis.gif",
-  "backSprite": "../pokeSprite/gen5/back/0577_solosis_back.gif",
+  "sprite": "../pokeSprite/gen5/0577_solosis/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0577_solosis/normal/back.gif",
   "abilities": [
     {
       "id": 142,
@@ -284,8 +284,8 @@
         "types": [
           "psychic"
         ],
-        "sprite": "../pokeSprite/gen5/0577_solosis.gif",
-        "backSprite": "../pokeSprite/gen5/back/0577_solosis_back.gif",
+        "sprite": "../pokeSprite/gen5/0577_solosis/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0577_solosis/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -299,8 +299,8 @@
             "types": [
               "psychic"
             ],
-            "sprite": "../pokeSprite/gen5/0578_duosion.gif",
-            "backSprite": "../pokeSprite/gen5/back/0578_duosion_back.gif",
+            "sprite": "../pokeSprite/gen5/0578_duosion/normal/front.gif",
+            "backSprite": "../pokeSprite/gen5/0578_duosion/normal/back.gif",
             "condition": "Level 32",
             "conditionJa": "Lv.32",
             "details": [
@@ -328,8 +328,8 @@
                 "types": [
                   "psychic"
                 ],
-                "sprite": "../pokeSprite/gen5/0579_reuniclus.gif",
-                "backSprite": "../pokeSprite/gen5/back/0579_reuniclus_back.gif",
+                "sprite": "../pokeSprite/gen5/0579_reuniclus/normal/front.gif",
+                "backSprite": "../pokeSprite/gen5/0579_reuniclus/normal/back.gif",
                 "condition": "Level 41",
                 "conditionJa": "Lv.41",
                 "details": [

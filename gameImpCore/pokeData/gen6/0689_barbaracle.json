@@ -11,8 +11,8 @@
   "category": "gen6",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen6/0689_barbaracle.gif",
-  "backSprite": "../pokeSprite/gen6/back/0689_barbaracle_back.gif",
+  "sprite": "../pokeSprite/gen6/0689_barbaracle/normal/front.gif",
+  "backSprite": "../pokeSprite/gen6/0689_barbaracle/normal/back.gif",
   "abilities": [
     {
       "id": 181,
@@ -297,8 +297,8 @@
           "rock",
           "water"
         ],
-        "sprite": "../pokeSprite/gen6/0688_binacle.gif",
-        "backSprite": "../pokeSprite/gen6/back/0688_binacle_back.gif",
+        "sprite": "../pokeSprite/gen6/0688_binacle/normal/front.gif",
+        "backSprite": "../pokeSprite/gen6/0688_binacle/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -313,8 +313,8 @@
               "rock",
               "water"
             ],
-            "sprite": "../pokeSprite/gen6/0689_barbaracle.gif",
-            "backSprite": "../pokeSprite/gen6/back/0689_barbaracle_back.gif",
+            "sprite": "../pokeSprite/gen6/0689_barbaracle/normal/front.gif",
+            "backSprite": "../pokeSprite/gen6/0689_barbaracle/normal/back.gif",
             "condition": "Level 39",
             "conditionJa": "Lv.39",
             "details": [

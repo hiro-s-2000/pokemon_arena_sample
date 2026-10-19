@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0506_lillipup.gif",
-  "backSprite": "../pokeSprite/gen5/back/0506_lillipup_back.gif",
+  "sprite": "../pokeSprite/gen5/0506_lillipup/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0506_lillipup/normal/back.gif",
   "abilities": [
     {
       "id": 72,
@@ -281,8 +281,8 @@
         "types": [
           "normal"
         ],
-        "sprite": "../pokeSprite/gen5/0506_lillipup.gif",
-        "backSprite": "../pokeSprite/gen5/back/0506_lillipup_back.gif",
+        "sprite": "../pokeSprite/gen5/0506_lillipup/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0506_lillipup/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -296,8 +296,8 @@
             "types": [
               "normal"
             ],
-            "sprite": "../pokeSprite/gen5/0507_herdier.gif",
-            "backSprite": "../pokeSprite/gen5/back/0507_herdier_back.gif",
+            "sprite": "../pokeSprite/gen5/0507_herdier/normal/front.gif",
+            "backSprite": "../pokeSprite/gen5/0507_herdier/normal/back.gif",
             "condition": "Level 16",
             "conditionJa": "Lv.16",
             "details": [
@@ -325,8 +325,8 @@
                 "types": [
                   "normal"
                 ],
-                "sprite": "../pokeSprite/gen5/0508_stoutland.gif",
-                "backSprite": "../pokeSprite/gen5/back/0508_stoutland_back.gif",
+                "sprite": "../pokeSprite/gen5/0508_stoutland/normal/front.gif",
+                "backSprite": "../pokeSprite/gen5/0508_stoutland/normal/back.gif",
                 "condition": "Level 32",
                 "conditionJa": "Lv.32",
                 "details": [

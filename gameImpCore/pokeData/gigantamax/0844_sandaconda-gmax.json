@@ -11,8 +11,8 @@
   "category": "gigantamax",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gigantamax/0844_sandaconda-gmax.gif",
-  "backSprite": "../pokeSprite/gigantamax/back/0844_sandaconda-gmax_back.gif",
+  "sprite": "../pokeSprite/gen8/0844_sandaconda/gigantamax/sandaconda-gmax/front.gif",
+  "backSprite": "../pokeSprite/gen8/0844_sandaconda/gigantamax/sandaconda-gmax/back.gif",
   "abilities": [
     {
       "id": 245,
@@ -292,8 +292,8 @@
         "types": [
           "ground"
         ],
-        "sprite": "../pokeSprite/gen8/0843_silicobra.gif",
-        "backSprite": "../pokeSprite/gen8/back/0843_silicobra_back.gif",
+        "sprite": "../pokeSprite/gen8/0843_silicobra/normal/front.gif",
+        "backSprite": "../pokeSprite/gen8/0843_silicobra/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -307,8 +307,8 @@
             "types": [
               "ground"
             ],
-            "sprite": "../pokeSprite/gen8/0844_sandaconda.gif",
-            "backSprite": "../pokeSprite/gen8/back/0844_sandaconda_back.gif",
+            "sprite": "../pokeSprite/gen8/0844_sandaconda/normal/front.gif",
+            "backSprite": "../pokeSprite/gen8/0844_sandaconda/normal/back.gif",
             "condition": "Level 36",
             "conditionJa": "Lv.36",
             "details": [

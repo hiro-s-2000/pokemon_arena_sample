@@ -11,8 +11,8 @@
   "category": "gen2",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen2/0238_smoochum.gif",
-  "backSprite": "../pokeSprite/gen2/back/0238_smoochum_back.gif",
+  "sprite": "../pokeSprite/gen2/0238_smoochum/normal/front.gif",
+  "backSprite": "../pokeSprite/gen2/0238_smoochum/normal/back.gif",
   "abilities": [
     {
       "id": 12,
@@ -297,8 +297,8 @@
           "ice",
           "psychic"
         ],
-        "sprite": "../pokeSprite/gen2/0238_smoochum.gif",
-        "backSprite": "../pokeSprite/gen2/back/0238_smoochum_back.gif",
+        "sprite": "../pokeSprite/gen2/0238_smoochum/normal/front.gif",
+        "backSprite": "../pokeSprite/gen2/0238_smoochum/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -313,8 +313,8 @@
               "ice",
               "psychic"
             ],
-            "sprite": "../pokeSprite/gen1/0124_jynx.gif",
-            "backSprite": "../pokeSprite/gen1/back/0124_jynx_back.gif",
+            "sprite": "../pokeSprite/gen1/0124_jynx/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0124_jynx/normal/back.gif",
             "condition": "Level 30",
             "conditionJa": "Lv.30",
             "details": [

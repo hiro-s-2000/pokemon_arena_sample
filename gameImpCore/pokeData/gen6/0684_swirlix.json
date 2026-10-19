@@ -11,8 +11,8 @@
   "category": "gen6",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen6/0684_swirlix.gif",
-  "backSprite": "../pokeSprite/gen6/back/0684_swirlix_back.gif",
+  "sprite": "../pokeSprite/gen6/0684_swirlix/normal/front.gif",
+  "backSprite": "../pokeSprite/gen6/0684_swirlix/normal/back.gif",
   "abilities": [
     {
       "id": 175,
@@ -276,8 +276,8 @@
         "types": [
           "fairy"
         ],
-        "sprite": "../pokeSprite/gen6/0684_swirlix.gif",
-        "backSprite": "../pokeSprite/gen6/back/0684_swirlix_back.gif",
+        "sprite": "../pokeSprite/gen6/0684_swirlix/normal/front.gif",
+        "backSprite": "../pokeSprite/gen6/0684_swirlix/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -291,8 +291,8 @@
             "types": [
               "fairy"
             ],
-            "sprite": "../pokeSprite/gen6/0685_slurpuff.gif",
-            "backSprite": "../pokeSprite/gen6/back/0685_slurpuff_back.gif",
+            "sprite": "../pokeSprite/gen6/0685_slurpuff/normal/front.gif",
+            "backSprite": "../pokeSprite/gen6/0685_slurpuff/normal/back.gif",
             "condition": "Trade holding Whipped Dream",
             "conditionJa": "通信交換（ホイップポップを持たせる）",
             "details": [

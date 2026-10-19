@@ -11,8 +11,8 @@
   "category": "gen9",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen9/0927_dachsbun.gif",
-  "backSprite": "../pokeSprite/gen9/back/0927_dachsbun_back.gif",
+  "sprite": "../pokeSprite/gen9/0927_dachsbun/normal/front.gif",
+  "backSprite": "../pokeSprite/gen9/0927_dachsbun/normal/back.gif",
   "abilities": [
     {
       "id": 273,
@@ -280,8 +280,8 @@
         "types": [
           "fairy"
         ],
-        "sprite": "../pokeSprite/gen9/0926_fidough.gif",
-        "backSprite": "../pokeSprite/gen9/back/0926_fidough_back.gif",
+        "sprite": "../pokeSprite/gen9/0926_fidough/normal/front.gif",
+        "backSprite": "../pokeSprite/gen9/0926_fidough/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -295,8 +295,8 @@
             "types": [
               "fairy"
             ],
-            "sprite": "../pokeSprite/gen9/0927_dachsbun.gif",
-            "backSprite": "../pokeSprite/gen9/back/0927_dachsbun_back.gif",
+            "sprite": "../pokeSprite/gen9/0927_dachsbun/normal/front.gif",
+            "backSprite": "../pokeSprite/gen9/0927_dachsbun/normal/back.gif",
             "condition": "Level 26",
             "conditionJa": "Lv.26",
             "details": [

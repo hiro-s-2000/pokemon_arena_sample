@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": true,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0646_kyurem.gif",
-  "backSprite": "../pokeSprite/gen5/back/0646_kyurem_back.gif",
+  "sprite": "../pokeSprite/gen5/0646_kyurem/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0646_kyurem/normal/back.gif",
   "abilities": [
     {
       "id": 46,
@@ -264,8 +264,8 @@
           "dragon",
           "ice"
         ],
-        "sprite": "../pokeSprite/gen5/0646_kyurem.gif",
-        "backSprite": "../pokeSprite/gen5/back/0646_kyurem_back.gif",
+        "sprite": "../pokeSprite/gen5/0646_kyurem/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0646_kyurem/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

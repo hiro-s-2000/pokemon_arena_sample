@@ -11,8 +11,8 @@
   "category": "gen1",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen1/0037_vulpix.gif",
-  "backSprite": "../pokeSprite/gen1/back/0037_vulpix_back.gif",
+  "sprite": "../pokeSprite/gen1/0037_vulpix/normal/front.gif",
+  "backSprite": "../pokeSprite/gen1/0037_vulpix/normal/back.gif",
   "abilities": [
     {
       "id": 18,
@@ -289,8 +289,8 @@
         "types": [
           "fire"
         ],
-        "sprite": "../pokeSprite/gen1/0037_vulpix.gif",
-        "backSprite": "../pokeSprite/gen1/back/0037_vulpix_back.gif",
+        "sprite": "../pokeSprite/gen1/0037_vulpix/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0037_vulpix/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -304,8 +304,8 @@
             "types": [
               "fire"
             ],
-            "sprite": "../pokeSprite/gen1/0038_ninetales.gif",
-            "backSprite": "../pokeSprite/gen1/back/0038_ninetales_back.gif",
+            "sprite": "../pokeSprite/gen1/0038_ninetales/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0038_ninetales/normal/back.gif",
             "condition": "Use Fire Stone / Use Ice Stone",
             "conditionJa": "「ほのおのいし」を使用 / 「こおりのいし」を使用",
             "details": [

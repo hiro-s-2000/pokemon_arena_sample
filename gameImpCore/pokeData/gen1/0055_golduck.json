@@ -11,8 +11,8 @@
   "category": "gen1",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen1/0055_golduck.gif",
-  "backSprite": "../pokeSprite/gen1/back/0055_golduck_back.gif",
+  "sprite": "../pokeSprite/gen1/0055_golduck/normal/front.gif",
+  "backSprite": "../pokeSprite/gen1/0055_golduck/normal/back.gif",
   "abilities": [
     {
       "id": 6,
@@ -289,8 +289,8 @@
         "types": [
           "water"
         ],
-        "sprite": "../pokeSprite/gen1/0054_psyduck.gif",
-        "backSprite": "../pokeSprite/gen1/back/0054_psyduck_back.gif",
+        "sprite": "../pokeSprite/gen1/0054_psyduck/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0054_psyduck/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -304,8 +304,8 @@
             "types": [
               "water"
             ],
-            "sprite": "../pokeSprite/gen1/0055_golduck.gif",
-            "backSprite": "../pokeSprite/gen1/back/0055_golduck_back.gif",
+            "sprite": "../pokeSprite/gen1/0055_golduck/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0055_golduck/normal/back.gif",
             "condition": "Level 33",
             "conditionJa": "Lv.33",
             "details": [

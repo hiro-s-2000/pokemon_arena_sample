@@ -11,8 +11,8 @@
   "category": "gen4",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen4/0400_bibarel.gif",
-  "backSprite": "../pokeSprite/gen4/back/0400_bibarel_back.gif",
+  "sprite": "../pokeSprite/gen4/0400_bibarel/normal/front.gif",
+  "backSprite": "../pokeSprite/gen4/0400_bibarel/normal/back.gif",
   "abilities": [
     {
       "id": 86,
@@ -298,8 +298,8 @@
         "types": [
           "normal"
         ],
-        "sprite": "../pokeSprite/gen4/0399_bidoof.gif",
-        "backSprite": "../pokeSprite/gen4/back/0399_bidoof_back.gif",
+        "sprite": "../pokeSprite/gen4/0399_bidoof/normal/front.gif",
+        "backSprite": "../pokeSprite/gen4/0399_bidoof/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -314,8 +314,8 @@
               "normal",
               "water"
             ],
-            "sprite": "../pokeSprite/gen4/0400_bibarel.gif",
-            "backSprite": "../pokeSprite/gen4/back/0400_bibarel_back.gif",
+            "sprite": "../pokeSprite/gen4/0400_bibarel/normal/front.gif",
+            "backSprite": "../pokeSprite/gen4/0400_bibarel/normal/back.gif",
             "condition": "Level 15",
             "conditionJa": "Lv.15",
             "details": [

@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0609_chandelure.gif",
-  "backSprite": "../pokeSprite/gen5/back/0609_chandelure_back.gif",
+  "sprite": "../pokeSprite/gen5/0609_chandelure/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0609_chandelure/normal/back.gif",
   "abilities": [
     {
       "id": 18,
@@ -297,8 +297,8 @@
           "ghost",
           "fire"
         ],
-        "sprite": "../pokeSprite/gen5/0607_litwick.gif",
-        "backSprite": "../pokeSprite/gen5/back/0607_litwick_back.gif",
+        "sprite": "../pokeSprite/gen5/0607_litwick/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0607_litwick/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -313,8 +313,8 @@
               "ghost",
               "fire"
             ],
-            "sprite": "../pokeSprite/gen5/0608_lampent.gif",
-            "backSprite": "../pokeSprite/gen5/back/0608_lampent_back.gif",
+            "sprite": "../pokeSprite/gen5/0608_lampent/normal/front.gif",
+            "backSprite": "../pokeSprite/gen5/0608_lampent/normal/back.gif",
             "condition": "Level 41",
             "conditionJa": "Lv.41",
             "details": [
@@ -343,8 +343,8 @@
                   "ghost",
                   "fire"
                 ],
-                "sprite": "../pokeSprite/gen5/0609_chandelure.gif",
-                "backSprite": "../pokeSprite/gen5/back/0609_chandelure_back.gif",
+                "sprite": "../pokeSprite/gen5/0609_chandelure/normal/front.gif",
+                "backSprite": "../pokeSprite/gen5/0609_chandelure/normal/back.gif",
                 "condition": "Use Dusk Stone",
                 "conditionJa": "「やみのいし」を使用",
                 "details": [

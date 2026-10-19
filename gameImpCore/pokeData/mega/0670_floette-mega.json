@@ -11,8 +11,8 @@
   "category": "mega",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/mega/0670_floette-mega.gif",
-  "backSprite": "../pokeSprite/mega/back/0670_floette-mega_back.gif",
+  "sprite": "../pokeSprite/gen6/0670_floette/mega/floette-mega/front.gif",
+  "backSprite": "../pokeSprite/gen6/0670_floette/mega/floette-mega/back.gif",
   "abilities": [
     {
       "id": 187,
@@ -391,8 +391,8 @@
         "types": [
           "fairy"
         ],
-        "sprite": "../pokeSprite/gen6/0669_flabebe.gif",
-        "backSprite": "../pokeSprite/gen6/back/0669_flabebe_back.gif",
+        "sprite": "../pokeSprite/gen6/0669_flabebe/normal/front.gif",
+        "backSprite": "../pokeSprite/gen6/0669_flabebe/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -406,8 +406,8 @@
             "types": [
               "fairy"
             ],
-            "sprite": "../pokeSprite/gen6/0670_floette.gif",
-            "backSprite": "../pokeSprite/gen6/back/0670_floette_back.gif",
+            "sprite": "../pokeSprite/gen6/0670_floette/normal/front.gif",
+            "backSprite": "../pokeSprite/gen6/0670_floette/normal/back.gif",
             "condition": "Level 19",
             "conditionJa": "Lv.19",
             "details": [
@@ -487,8 +487,8 @@
                 "types": [
                   "fairy"
                 ],
-                "sprite": "../pokeSprite/gen6/0671_florges.gif",
-                "backSprite": "../pokeSprite/gen6/back/0671_florges_back.gif",
+                "sprite": "../pokeSprite/gen6/0671_florges/normal/front.gif",
+                "backSprite": "../pokeSprite/gen6/0671_florges/normal/back.gif",
                 "condition": "Use Shiny Stone",
                 "conditionJa": "「ひかりのいし」を使用",
                 "details": [

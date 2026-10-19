@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0565_carracosta.gif",
-  "backSprite": "../pokeSprite/gen5/back/0565_carracosta_back.gif",
+  "sprite": "../pokeSprite/gen5/0565_carracosta/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0565_carracosta/normal/back.gif",
   "abilities": [
     {
       "id": 116,
@@ -303,8 +303,8 @@
           "water",
           "rock"
         ],
-        "sprite": "../pokeSprite/gen5/0564_tirtouga.gif",
-        "backSprite": "../pokeSprite/gen5/back/0564_tirtouga_back.gif",
+        "sprite": "../pokeSprite/gen5/0564_tirtouga/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0564_tirtouga/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -319,8 +319,8 @@
               "water",
               "rock"
             ],
-            "sprite": "../pokeSprite/gen5/0565_carracosta.gif",
-            "backSprite": "../pokeSprite/gen5/back/0565_carracosta_back.gif",
+            "sprite": "../pokeSprite/gen5/0565_carracosta/normal/front.gif",
+            "backSprite": "../pokeSprite/gen5/0565_carracosta/normal/back.gif",
             "condition": "Level 37",
             "conditionJa": "Lv.37",
             "details": [

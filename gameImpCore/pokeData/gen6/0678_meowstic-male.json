@@ -11,8 +11,8 @@
   "category": "gen6",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen6/0678_meowstic-male.gif",
-  "backSprite": "../pokeSprite/gen6/back/0678_meowstic-male_back.gif",
+  "sprite": "../pokeSprite/gen6/0678_meowstic-male/normal/front.gif",
+  "backSprite": "../pokeSprite/gen6/0678_meowstic-male/normal/back.gif",
   "abilities": [
     {
       "id": 51,
@@ -295,8 +295,8 @@
         "types": [
           "psychic"
         ],
-        "sprite": "../pokeSprite/gen6/0677_espurr.gif",
-        "backSprite": "../pokeSprite/gen6/back/0677_espurr_back.gif",
+        "sprite": "../pokeSprite/gen6/0677_espurr/normal/front.gif",
+        "backSprite": "../pokeSprite/gen6/0677_espurr/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -310,8 +310,8 @@
             "types": [
               "psychic"
             ],
-            "sprite": "../pokeSprite/gen6/0678_meowstic-male.gif",
-            "backSprite": "../pokeSprite/gen6/back/0678_meowstic-male_back.gif",
+            "sprite": "../pokeSprite/gen6/0678_meowstic-male/normal/front.gif",
+            "backSprite": "../pokeSprite/gen6/0678_meowstic-male/normal/back.gif",
             "condition": "Level 25",
             "conditionJa": "Lv.25",
             "details": [

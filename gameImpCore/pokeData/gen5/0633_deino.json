@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0633_deino.gif",
-  "backSprite": "../pokeSprite/gen5/back/0633_deino_back.gif",
+  "sprite": "../pokeSprite/gen5/0633_deino/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0633_deino/normal/back.gif",
   "abilities": [
     {
       "id": 55,
@@ -276,8 +276,8 @@
           "dark",
           "dragon"
         ],
-        "sprite": "../pokeSprite/gen5/0633_deino.gif",
-        "backSprite": "../pokeSprite/gen5/back/0633_deino_back.gif",
+        "sprite": "../pokeSprite/gen5/0633_deino/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0633_deino/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -292,8 +292,8 @@
               "dark",
               "dragon"
             ],
-            "sprite": "../pokeSprite/gen5/0634_zweilous.gif",
-            "backSprite": "../pokeSprite/gen5/back/0634_zweilous_back.gif",
+            "sprite": "../pokeSprite/gen5/0634_zweilous/normal/front.gif",
+            "backSprite": "../pokeSprite/gen5/0634_zweilous/normal/back.gif",
             "condition": "Level 50",
             "conditionJa": "Lv.50",
             "details": [
@@ -322,8 +322,8 @@
                   "dark",
                   "dragon"
                 ],
-                "sprite": "../pokeSprite/gen5/0635_hydreigon.gif",
-                "backSprite": "../pokeSprite/gen5/back/0635_hydreigon_back.gif",
+                "sprite": "../pokeSprite/gen5/0635_hydreigon/normal/front.gif",
+                "backSprite": "../pokeSprite/gen5/0635_hydreigon/normal/back.gif",
                 "condition": "Level 64",
                 "conditionJa": "Lv.64",
                 "details": [

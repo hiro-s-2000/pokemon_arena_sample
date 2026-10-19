@@ -11,8 +11,8 @@
   "category": "gen9",
   "isLegendary": true,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen9/1008_miraidon.gif",
-  "backSprite": "../pokeSprite/gen9/back/1008_miraidon_back.gif",
+  "sprite": "../pokeSprite/gen9/1008_miraidon/normal/front.gif",
+  "backSprite": "../pokeSprite/gen9/1008_miraidon/normal/back.gif",
   "abilities": [
     {
       "id": 289,
@@ -252,8 +252,8 @@
           "electric",
           "dragon"
         ],
-        "sprite": "../pokeSprite/gen9/1008_miraidon.gif",
-        "backSprite": "../pokeSprite/gen9/back/1008_miraidon_back.gif",
+        "sprite": "../pokeSprite/gen9/1008_miraidon/normal/front.gif",
+        "backSprite": "../pokeSprite/gen9/1008_miraidon/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

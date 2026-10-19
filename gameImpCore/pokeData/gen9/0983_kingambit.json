@@ -11,8 +11,8 @@
   "category": "gen9",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen9/0983_kingambit.gif",
-  "backSprite": "../pokeSprite/gen9/back/0983_kingambit_back.gif",
+  "sprite": "../pokeSprite/gen9/0983_kingambit/normal/front.gif",
+  "backSprite": "../pokeSprite/gen9/0983_kingambit/normal/back.gif",
   "abilities": [
     {
       "id": 128,
@@ -296,8 +296,8 @@
           "dark",
           "steel"
         ],
-        "sprite": "../pokeSprite/gen5/0624_pawniard.gif",
-        "backSprite": "../pokeSprite/gen5/back/0624_pawniard_back.gif",
+        "sprite": "../pokeSprite/gen5/0624_pawniard/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0624_pawniard/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -312,8 +312,8 @@
               "dark",
               "steel"
             ],
-            "sprite": "../pokeSprite/gen5/0625_bisharp.gif",
-            "backSprite": "../pokeSprite/gen5/back/0625_bisharp_back.gif",
+            "sprite": "../pokeSprite/gen5/0625_bisharp/normal/front.gif",
+            "backSprite": "../pokeSprite/gen5/0625_bisharp/normal/back.gif",
             "condition": "Level 52",
             "conditionJa": "Lv.52",
             "details": [
@@ -342,8 +342,8 @@
                   "dark",
                   "steel"
                 ],
-                "sprite": "../pokeSprite/gen9/0983_kingambit.gif",
-                "backSprite": "../pokeSprite/gen9/back/0983_kingambit_back.gif",
+                "sprite": "../pokeSprite/gen9/0983_kingambit/normal/front.gif",
+                "backSprite": "../pokeSprite/gen9/0983_kingambit/normal/back.gif",
                 "condition": "Defeat three Bisharp that hold a Leader's Crest",
                 "conditionJa": "Defeat three Bisharp that hold a Leader's Crest",
                 "details": [

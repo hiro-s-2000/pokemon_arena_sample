@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0566_archen.gif",
-  "backSprite": "../pokeSprite/gen5/back/0566_archen_back.gif",
+  "sprite": "../pokeSprite/gen5/0566_archen/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0566_archen/normal/back.gif",
   "abilities": [
     {
       "id": 129,
@@ -284,8 +284,8 @@
           "rock",
           "flying"
         ],
-        "sprite": "../pokeSprite/gen5/0566_archen.gif",
-        "backSprite": "../pokeSprite/gen5/back/0566_archen_back.gif",
+        "sprite": "../pokeSprite/gen5/0566_archen/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0566_archen/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -300,8 +300,8 @@
               "rock",
               "flying"
             ],
-            "sprite": "../pokeSprite/gen5/0567_archeops.gif",
-            "backSprite": "../pokeSprite/gen5/back/0567_archeops_back.gif",
+            "sprite": "../pokeSprite/gen5/0567_archeops/normal/front.gif",
+            "backSprite": "../pokeSprite/gen5/0567_archeops/normal/back.gif",
             "condition": "Level 37",
             "conditionJa": "Lv.37",
             "details": [

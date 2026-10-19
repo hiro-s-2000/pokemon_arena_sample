@@ -11,8 +11,8 @@
   "category": "mega",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/mega/0115_kangaskhan-mega.gif",
-  "backSprite": "../pokeSprite/mega/back/0115_kangaskhan-mega_back.gif",
+  "sprite": "../pokeSprite/gen1/0115_kangaskhan/mega/kangaskhan-mega/front.gif",
+  "backSprite": "../pokeSprite/gen1/0115_kangaskhan/mega/kangaskhan-mega/back.gif",
   "abilities": [
     {
       "id": 185,
@@ -238,8 +238,8 @@
         "types": [
           "normal"
         ],
-        "sprite": "../pokeSprite/gen1/0115_kangaskhan.gif",
-        "backSprite": "../pokeSprite/gen1/back/0115_kangaskhan_back.gif",
+        "sprite": "../pokeSprite/gen1/0115_kangaskhan/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0115_kangaskhan/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

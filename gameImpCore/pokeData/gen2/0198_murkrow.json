@@ -11,8 +11,8 @@
   "category": "gen2",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen2/0198_murkrow.gif",
-  "backSprite": "../pokeSprite/gen2/back/0198_murkrow_back.gif",
+  "sprite": "../pokeSprite/gen2/0198_murkrow/normal/front.gif",
+  "backSprite": "../pokeSprite/gen2/0198_murkrow/normal/back.gif",
   "abilities": [
     {
       "id": 15,
@@ -297,8 +297,8 @@
           "dark",
           "flying"
         ],
-        "sprite": "../pokeSprite/gen2/0198_murkrow.gif",
-        "backSprite": "../pokeSprite/gen2/back/0198_murkrow_back.gif",
+        "sprite": "../pokeSprite/gen2/0198_murkrow/normal/front.gif",
+        "backSprite": "../pokeSprite/gen2/0198_murkrow/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -313,8 +313,8 @@
               "dark",
               "flying"
             ],
-            "sprite": "../pokeSprite/gen4/0430_honchkrow.gif",
-            "backSprite": "../pokeSprite/gen4/back/0430_honchkrow_back.gif",
+            "sprite": "../pokeSprite/gen4/0430_honchkrow/normal/front.gif",
+            "backSprite": "../pokeSprite/gen4/0430_honchkrow/normal/back.gif",
             "condition": "Use Dusk Stone",
             "conditionJa": "「やみのいし」を使用",
             "details": [

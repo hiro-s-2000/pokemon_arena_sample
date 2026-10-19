@@ -11,8 +11,8 @@
   "category": "mega",
   "isLegendary": false,
   "isMythical": true,
-  "sprite": "../pokeSprite/mega/0807_zeraora-mega.gif",
-  "backSprite": "../pokeSprite/mega/back/0807_zeraora-mega_back.gif",
+  "sprite": "../pokeSprite/gen7/0807_zeraora/mega/zeraora-mega/front.gif",
+  "backSprite": "../pokeSprite/gen7/0807_zeraora/mega/zeraora-mega/back.gif",
   "abilities": [
     {
       "id": 10,
@@ -241,8 +241,8 @@
         "types": [
           "electric"
         ],
-        "sprite": "../pokeSprite/gen7/0807_zeraora.gif",
-        "backSprite": "../pokeSprite/gen7/back/0807_zeraora_back.gif",
+        "sprite": "../pokeSprite/gen7/0807_zeraora/normal/front.gif",
+        "backSprite": "../pokeSprite/gen7/0807_zeraora/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

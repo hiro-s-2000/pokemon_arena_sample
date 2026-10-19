@@ -11,8 +11,8 @@
   "category": "gen4",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen4/0452_drapion.gif",
-  "backSprite": "../pokeSprite/gen4/back/0452_drapion_back.gif",
+  "sprite": "../pokeSprite/gen4/0452_drapion/normal/front.gif",
+  "backSprite": "../pokeSprite/gen4/0452_drapion/normal/back.gif",
   "abilities": [
     {
       "id": 4,
@@ -300,8 +300,8 @@
           "poison",
           "bug"
         ],
-        "sprite": "../pokeSprite/gen4/0451_skorupi.gif",
-        "backSprite": "../pokeSprite/gen4/back/0451_skorupi_back.gif",
+        "sprite": "../pokeSprite/gen4/0451_skorupi/normal/front.gif",
+        "backSprite": "../pokeSprite/gen4/0451_skorupi/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -316,8 +316,8 @@
               "poison",
               "dark"
             ],
-            "sprite": "../pokeSprite/gen4/0452_drapion.gif",
-            "backSprite": "../pokeSprite/gen4/back/0452_drapion_back.gif",
+            "sprite": "../pokeSprite/gen4/0452_drapion/normal/front.gif",
+            "backSprite": "../pokeSprite/gen4/0452_drapion/normal/back.gif",
             "condition": "Level 40",
             "conditionJa": "Lv.40",
             "details": [

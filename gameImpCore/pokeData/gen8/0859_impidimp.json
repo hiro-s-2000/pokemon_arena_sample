@@ -11,8 +11,8 @@
   "category": "gen8",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen8/0859_impidimp.gif",
-  "backSprite": "../pokeSprite/gen8/back/0859_impidimp_back.gif",
+  "sprite": "../pokeSprite/gen8/0859_impidimp/normal/front.gif",
+  "backSprite": "../pokeSprite/gen8/0859_impidimp/normal/back.gif",
   "abilities": [
     {
       "id": 158,
@@ -304,8 +304,8 @@
           "dark",
           "fairy"
         ],
-        "sprite": "../pokeSprite/gen8/0859_impidimp.gif",
-        "backSprite": "../pokeSprite/gen8/back/0859_impidimp_back.gif",
+        "sprite": "../pokeSprite/gen8/0859_impidimp/normal/front.gif",
+        "backSprite": "../pokeSprite/gen8/0859_impidimp/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -320,8 +320,8 @@
               "dark",
               "fairy"
             ],
-            "sprite": "../pokeSprite/gen8/0860_morgrem.gif",
-            "backSprite": "../pokeSprite/gen8/back/0860_morgrem_back.gif",
+            "sprite": "../pokeSprite/gen8/0860_morgrem/normal/front.gif",
+            "backSprite": "../pokeSprite/gen8/0860_morgrem/normal/back.gif",
             "condition": "Level 32",
             "conditionJa": "Lv.32",
             "details": [
@@ -350,8 +350,8 @@
                   "dark",
                   "fairy"
                 ],
-                "sprite": "../pokeSprite/gen8/0861_grimmsnarl.gif",
-                "backSprite": "../pokeSprite/gen8/back/0861_grimmsnarl_back.gif",
+                "sprite": "../pokeSprite/gen8/0861_grimmsnarl/normal/front.gif",
+                "backSprite": "../pokeSprite/gen8/0861_grimmsnarl/normal/back.gif",
                 "condition": "Level 42",
                 "conditionJa": "Lv.42",
                 "details": [

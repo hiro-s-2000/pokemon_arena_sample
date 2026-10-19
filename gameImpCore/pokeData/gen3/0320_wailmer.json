@@ -11,8 +11,8 @@
   "category": "gen3",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen3/0320_wailmer.gif",
-  "backSprite": "../pokeSprite/gen3/back/0320_wailmer_back.gif",
+  "sprite": "../pokeSprite/gen3/0320_wailmer/normal/front.gif",
+  "backSprite": "../pokeSprite/gen3/0320_wailmer/normal/back.gif",
   "abilities": [
     {
       "id": 41,
@@ -291,8 +291,8 @@
         "types": [
           "water"
         ],
-        "sprite": "../pokeSprite/gen3/0320_wailmer.gif",
-        "backSprite": "../pokeSprite/gen3/back/0320_wailmer_back.gif",
+        "sprite": "../pokeSprite/gen3/0320_wailmer/normal/front.gif",
+        "backSprite": "../pokeSprite/gen3/0320_wailmer/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -306,8 +306,8 @@
             "types": [
               "water"
             ],
-            "sprite": "../pokeSprite/gen3/0321_wailord.gif",
-            "backSprite": "../pokeSprite/gen3/back/0321_wailord_back.gif",
+            "sprite": "../pokeSprite/gen3/0321_wailord/normal/front.gif",
+            "backSprite": "../pokeSprite/gen3/0321_wailord/normal/back.gif",
             "condition": "Level 40",
             "conditionJa": "Lv.40",
             "details": [

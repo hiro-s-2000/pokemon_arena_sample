@@ -11,8 +11,8 @@
   "category": "gen9",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen9/0979_annihilape.gif",
-  "backSprite": "../pokeSprite/gen9/back/0979_annihilape_back.gif",
+  "sprite": "../pokeSprite/gen9/0979_annihilape/normal/front.gif",
+  "backSprite": "../pokeSprite/gen9/0979_annihilape/normal/back.gif",
   "abilities": [
     {
       "id": 72,
@@ -297,8 +297,8 @@
         "types": [
           "fighting"
         ],
-        "sprite": "../pokeSprite/gen1/0056_mankey.gif",
-        "backSprite": "../pokeSprite/gen1/back/0056_mankey_back.gif",
+        "sprite": "../pokeSprite/gen1/0056_mankey/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0056_mankey/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -312,8 +312,8 @@
             "types": [
               "fighting"
             ],
-            "sprite": "../pokeSprite/gen1/0057_primeape.gif",
-            "backSprite": "../pokeSprite/gen1/back/0057_primeape_back.gif",
+            "sprite": "../pokeSprite/gen1/0057_primeape/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0057_primeape/normal/back.gif",
             "condition": "Level 28",
             "conditionJa": "Lv.28",
             "details": [
@@ -342,8 +342,8 @@
                   "fighting",
                   "ghost"
                 ],
-                "sprite": "../pokeSprite/gen9/0979_annihilape.gif",
-                "backSprite": "../pokeSprite/gen9/back/0979_annihilape_back.gif",
+                "sprite": "../pokeSprite/gen9/0979_annihilape/normal/front.gif",
+                "backSprite": "../pokeSprite/gen9/0979_annihilape/normal/back.gif",
                 "condition": "Use move",
                 "conditionJa": "Use move",
                 "details": [

@@ -11,8 +11,8 @@
   "category": "gen4",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen4/0428_lopunny.gif",
-  "backSprite": "../pokeSprite/gen4/back/0428_lopunny_back.gif",
+  "sprite": "../pokeSprite/gen4/0428_lopunny/normal/front.gif",
+  "backSprite": "../pokeSprite/gen4/0428_lopunny/normal/back.gif",
   "abilities": [
     {
       "id": 56,
@@ -285,8 +285,8 @@
         "types": [
           "normal"
         ],
-        "sprite": "../pokeSprite/gen4/0427_buneary.gif",
-        "backSprite": "../pokeSprite/gen4/back/0427_buneary_back.gif",
+        "sprite": "../pokeSprite/gen4/0427_buneary/normal/front.gif",
+        "backSprite": "../pokeSprite/gen4/0427_buneary/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -300,8 +300,8 @@
             "types": [
               "normal"
             ],
-            "sprite": "../pokeSprite/gen4/0428_lopunny.gif",
-            "backSprite": "../pokeSprite/gen4/back/0428_lopunny_back.gif",
+            "sprite": "../pokeSprite/gen4/0428_lopunny/normal/front.gif",
+            "backSprite": "../pokeSprite/gen4/0428_lopunny/normal/back.gif",
             "condition": "Level up high Friendship (160+)",
             "conditionJa": "レベルアップ（なつき度160以上）",
             "details": [

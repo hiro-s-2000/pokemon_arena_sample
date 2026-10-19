@@ -11,8 +11,8 @@
   "category": "gen7",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen7/0727_incineroar.gif",
-  "backSprite": "../pokeSprite/gen7/back/0727_incineroar_back.gif",
+  "sprite": "../pokeSprite/gen7/0727_incineroar/normal/front.gif",
+  "backSprite": "../pokeSprite/gen7/0727_incineroar/normal/back.gif",
   "abilities": [
     {
       "id": 66,
@@ -285,8 +285,8 @@
         "types": [
           "fire"
         ],
-        "sprite": "../pokeSprite/gen7/0725_litten.gif",
-        "backSprite": "../pokeSprite/gen7/back/0725_litten_back.gif",
+        "sprite": "../pokeSprite/gen7/0725_litten/normal/front.gif",
+        "backSprite": "../pokeSprite/gen7/0725_litten/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -300,8 +300,8 @@
             "types": [
               "fire"
             ],
-            "sprite": "../pokeSprite/gen7/0726_torracat.gif",
-            "backSprite": "../pokeSprite/gen7/back/0726_torracat_back.gif",
+            "sprite": "../pokeSprite/gen7/0726_torracat/normal/front.gif",
+            "backSprite": "../pokeSprite/gen7/0726_torracat/normal/back.gif",
             "condition": "Level 17",
             "conditionJa": "Lv.17",
             "details": [
@@ -330,8 +330,8 @@
                   "fire",
                   "dark"
                 ],
-                "sprite": "../pokeSprite/gen7/0727_incineroar.gif",
-                "backSprite": "../pokeSprite/gen7/back/0727_incineroar_back.gif",
+                "sprite": "../pokeSprite/gen7/0727_incineroar/normal/front.gif",
+                "backSprite": "../pokeSprite/gen7/0727_incineroar/normal/back.gif",
                 "condition": "Level 34",
                 "conditionJa": "Lv.34",
                 "details": [

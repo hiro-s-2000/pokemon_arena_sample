@@ -11,8 +11,8 @@
   "category": "gen4",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen4/0426_drifblim.gif",
-  "backSprite": "../pokeSprite/gen4/back/0426_drifblim_back.gif",
+  "sprite": "../pokeSprite/gen4/0426_drifblim/normal/front.gif",
+  "backSprite": "../pokeSprite/gen4/0426_drifblim/normal/back.gif",
   "abilities": [
     {
       "id": 106,
@@ -296,8 +296,8 @@
           "ghost",
           "flying"
         ],
-        "sprite": "../pokeSprite/gen4/0425_drifloon.gif",
-        "backSprite": "../pokeSprite/gen4/back/0425_drifloon_back.gif",
+        "sprite": "../pokeSprite/gen4/0425_drifloon/normal/front.gif",
+        "backSprite": "../pokeSprite/gen4/0425_drifloon/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -312,8 +312,8 @@
               "ghost",
               "flying"
             ],
-            "sprite": "../pokeSprite/gen4/0426_drifblim.gif",
-            "backSprite": "../pokeSprite/gen4/back/0426_drifblim_back.gif",
+            "sprite": "../pokeSprite/gen4/0426_drifblim/normal/front.gif",
+            "backSprite": "../pokeSprite/gen4/0426_drifblim/normal/back.gif",
             "condition": "Level 28",
             "conditionJa": "Lv.28",
             "details": [

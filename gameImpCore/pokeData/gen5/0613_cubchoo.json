@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0613_cubchoo.gif",
-  "backSprite": "../pokeSprite/gen5/back/0613_cubchoo_back.gif",
+  "sprite": "../pokeSprite/gen5/0613_cubchoo/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0613_cubchoo/normal/back.gif",
   "abilities": [
     {
       "id": 81,
@@ -286,8 +286,8 @@
         "types": [
           "ice"
         ],
-        "sprite": "../pokeSprite/gen5/0613_cubchoo.gif",
-        "backSprite": "../pokeSprite/gen5/back/0613_cubchoo_back.gif",
+        "sprite": "../pokeSprite/gen5/0613_cubchoo/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0613_cubchoo/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -301,8 +301,8 @@
             "types": [
               "ice"
             ],
-            "sprite": "../pokeSprite/gen5/0614_beartic.gif",
-            "backSprite": "../pokeSprite/gen5/back/0614_beartic_back.gif",
+            "sprite": "../pokeSprite/gen5/0614_beartic/normal/front.gif",
+            "backSprite": "../pokeSprite/gen5/0614_beartic/normal/back.gif",
             "condition": "Level 37",
             "conditionJa": "Lv.37",
             "details": [

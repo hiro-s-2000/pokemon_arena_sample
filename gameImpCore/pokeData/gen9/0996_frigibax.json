@@ -11,8 +11,8 @@
   "category": "gen9",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen9/0996_frigibax.gif",
-  "backSprite": "../pokeSprite/gen9/back/0996_frigibax_back.gif",
+  "sprite": "../pokeSprite/gen9/0996_frigibax/normal/front.gif",
+  "backSprite": "../pokeSprite/gen9/0996_frigibax/normal/back.gif",
   "abilities": [
     {
       "id": 270,
@@ -291,8 +291,8 @@
           "dragon",
           "ice"
         ],
-        "sprite": "../pokeSprite/gen9/0996_frigibax.gif",
-        "backSprite": "../pokeSprite/gen9/back/0996_frigibax_back.gif",
+        "sprite": "../pokeSprite/gen9/0996_frigibax/normal/front.gif",
+        "backSprite": "../pokeSprite/gen9/0996_frigibax/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -307,8 +307,8 @@
               "dragon",
               "ice"
             ],
-            "sprite": "../pokeSprite/gen9/0997_arctibax.gif",
-            "backSprite": "../pokeSprite/gen9/back/0997_arctibax_back.gif",
+            "sprite": "../pokeSprite/gen9/0997_arctibax/normal/front.gif",
+            "backSprite": "../pokeSprite/gen9/0997_arctibax/normal/back.gif",
             "condition": "Level 35",
             "conditionJa": "Lv.35",
             "details": [
@@ -337,8 +337,8 @@
                   "dragon",
                   "ice"
                 ],
-                "sprite": "../pokeSprite/gen9/0998_baxcalibur.gif",
-                "backSprite": "../pokeSprite/gen9/back/0998_baxcalibur_back.gif",
+                "sprite": "../pokeSprite/gen9/0998_baxcalibur/normal/front.gif",
+                "backSprite": "../pokeSprite/gen9/0998_baxcalibur/normal/back.gif",
                 "condition": "Level 54",
                 "conditionJa": "Lv.54",
                 "details": [

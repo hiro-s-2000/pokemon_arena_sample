@@ -11,8 +11,8 @@
   "category": "gen3",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen3/0355_duskull.gif",
-  "backSprite": "../pokeSprite/gen3/back/0355_duskull_back.gif",
+  "sprite": "../pokeSprite/gen3/0355_duskull/normal/front.gif",
+  "backSprite": "../pokeSprite/gen3/0355_duskull/normal/back.gif",
   "abilities": [
     {
       "id": 26,
@@ -275,8 +275,8 @@
         "types": [
           "ghost"
         ],
-        "sprite": "../pokeSprite/gen3/0355_duskull.gif",
-        "backSprite": "../pokeSprite/gen3/back/0355_duskull_back.gif",
+        "sprite": "../pokeSprite/gen3/0355_duskull/normal/front.gif",
+        "backSprite": "../pokeSprite/gen3/0355_duskull/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -290,8 +290,8 @@
             "types": [
               "ghost"
             ],
-            "sprite": "../pokeSprite/gen3/0356_dusclops.gif",
-            "backSprite": "../pokeSprite/gen3/back/0356_dusclops_back.gif",
+            "sprite": "../pokeSprite/gen3/0356_dusclops/normal/front.gif",
+            "backSprite": "../pokeSprite/gen3/0356_dusclops/normal/back.gif",
             "condition": "Level 37",
             "conditionJa": "Lv.37",
             "details": [
@@ -319,8 +319,8 @@
                 "types": [
                   "ghost"
                 ],
-                "sprite": "../pokeSprite/gen4/0477_dusknoir.gif",
-                "backSprite": "../pokeSprite/gen4/back/0477_dusknoir_back.gif",
+                "sprite": "../pokeSprite/gen4/0477_dusknoir/normal/front.gif",
+                "backSprite": "../pokeSprite/gen4/0477_dusknoir/normal/back.gif",
                 "condition": "Trade holding Reaper Cloth",
                 "conditionJa": "通信交換（れいかいのぬのを持たせる）",
                 "details": [

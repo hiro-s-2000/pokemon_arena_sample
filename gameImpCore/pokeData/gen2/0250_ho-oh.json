@@ -11,8 +11,8 @@
   "category": "gen2",
   "isLegendary": true,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen2/0250_ho-oh.gif",
-  "backSprite": "../pokeSprite/gen2/back/0250_ho-oh_back.gif",
+  "sprite": "../pokeSprite/gen2/0250_ho-oh/normal/front.gif",
+  "backSprite": "../pokeSprite/gen2/0250_ho-oh/normal/back.gif",
   "abilities": [
     {
       "id": 46,
@@ -266,8 +266,8 @@
           "fire",
           "flying"
         ],
-        "sprite": "../pokeSprite/gen2/0250_ho-oh.gif",
-        "backSprite": "../pokeSprite/gen2/back/0250_ho-oh_back.gif",
+        "sprite": "../pokeSprite/gen2/0250_ho-oh/normal/front.gif",
+        "backSprite": "../pokeSprite/gen2/0250_ho-oh/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

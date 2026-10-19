@@ -11,8 +11,8 @@
   "category": "gen3",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen3/0284_masquerain.gif",
-  "backSprite": "../pokeSprite/gen3/back/0284_masquerain_back.gif",
+  "sprite": "../pokeSprite/gen3/0284_masquerain/normal/front.gif",
+  "backSprite": "../pokeSprite/gen3/0284_masquerain/normal/back.gif",
   "abilities": [
     {
       "id": 22,
@@ -299,8 +299,8 @@
           "bug",
           "water"
         ],
-        "sprite": "../pokeSprite/gen3/0283_surskit.gif",
-        "backSprite": "../pokeSprite/gen3/back/0283_surskit_back.gif",
+        "sprite": "../pokeSprite/gen3/0283_surskit/normal/front.gif",
+        "backSprite": "../pokeSprite/gen3/0283_surskit/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -315,8 +315,8 @@
               "bug",
               "flying"
             ],
-            "sprite": "../pokeSprite/gen3/0284_masquerain.gif",
-            "backSprite": "../pokeSprite/gen3/back/0284_masquerain_back.gif",
+            "sprite": "../pokeSprite/gen3/0284_masquerain/normal/front.gif",
+            "backSprite": "../pokeSprite/gen3/0284_masquerain/normal/back.gif",
             "condition": "Level 22",
             "conditionJa": "Lv.22",
             "details": [

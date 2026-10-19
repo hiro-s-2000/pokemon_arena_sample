@@ -11,8 +11,8 @@
   "category": "regional",
   "isLegendary": true,
   "isMythical": false,
-  "sprite": "../pokeSprite/regional/0144_articuno-galar.gif",
-  "backSprite": "../pokeSprite/regional/back/0144_articuno-galar_back.gif",
+  "sprite": "../pokeSprite/gen1/0144_articuno/regional/articuno-galar/front.gif",
+  "backSprite": "../pokeSprite/gen1/0144_articuno/regional/articuno-galar/back.gif",
   "abilities": [
     {
       "id": 172,
@@ -254,8 +254,8 @@
           "ice",
           "flying"
         ],
-        "sprite": "../pokeSprite/gen1/0144_articuno.gif",
-        "backSprite": "../pokeSprite/gen1/back/0144_articuno_back.gif",
+        "sprite": "../pokeSprite/gen1/0144_articuno/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0144_articuno/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

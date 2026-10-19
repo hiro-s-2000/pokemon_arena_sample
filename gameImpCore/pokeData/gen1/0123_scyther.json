@@ -11,8 +11,8 @@
   "category": "gen1",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen1/0123_scyther.gif",
-  "backSprite": "../pokeSprite/gen1/back/0123_scyther_back.gif",
+  "sprite": "../pokeSprite/gen1/0123_scyther/normal/front.gif",
+  "backSprite": "../pokeSprite/gen1/0123_scyther/normal/back.gif",
   "abilities": [
     {
       "id": 68,
@@ -321,8 +321,8 @@
           "bug",
           "flying"
         ],
-        "sprite": "../pokeSprite/gen1/0123_scyther.gif",
-        "backSprite": "../pokeSprite/gen1/back/0123_scyther_back.gif",
+        "sprite": "../pokeSprite/gen1/0123_scyther/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0123_scyther/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -337,8 +337,8 @@
               "bug",
               "steel"
             ],
-            "sprite": "../pokeSprite/gen2/0212_scizor.gif",
-            "backSprite": "../pokeSprite/gen2/back/0212_scizor_back.gif",
+            "sprite": "../pokeSprite/gen2/0212_scizor/normal/front.gif",
+            "backSprite": "../pokeSprite/gen2/0212_scizor/normal/back.gif",
             "condition": "Trade holding Metal Coat",
             "conditionJa": "通信交換（メタルコートを持たせる）",
             "details": [
@@ -368,8 +368,8 @@
               "bug",
               "rock"
             ],
-            "sprite": "../pokeSprite/gen8/0900_kleavor.gif",
-            "backSprite": "../pokeSprite/gen8/back/0900_kleavor_back.gif",
+            "sprite": "../pokeSprite/gen8/0900_kleavor/normal/front.gif",
+            "backSprite": "../pokeSprite/gen8/0900_kleavor/normal/back.gif",
             "condition": "Use Black Augurite",
             "conditionJa": "「くろのきせき」を使用",
             "details": [

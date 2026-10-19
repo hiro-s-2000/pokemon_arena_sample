@@ -11,8 +11,8 @@
   "category": "regional",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/regional/0713_avalugg-hisui.gif",
-  "backSprite": "../pokeSprite/regional/back/0713_avalugg-hisui_back.gif",
+  "sprite": "../pokeSprite/gen6/0713_avalugg/regional/avalugg-hisui/front.gif",
+  "backSprite": "../pokeSprite/gen6/0713_avalugg/regional/avalugg-hisui/back.gif",
   "abilities": [
     {
       "id": 173,
@@ -315,8 +315,8 @@
         "types": [
           "ice"
         ],
-        "sprite": "../pokeSprite/gen6/0712_bergmite.gif",
-        "backSprite": "../pokeSprite/gen6/back/0712_bergmite_back.gif",
+        "sprite": "../pokeSprite/gen6/0712_bergmite/normal/front.gif",
+        "backSprite": "../pokeSprite/gen6/0712_bergmite/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -330,8 +330,8 @@
             "types": [
               "ice"
             ],
-            "sprite": "../pokeSprite/gen6/0713_avalugg.gif",
-            "backSprite": "../pokeSprite/gen6/back/0713_avalugg_back.gif",
+            "sprite": "../pokeSprite/gen6/0713_avalugg/normal/front.gif",
+            "backSprite": "../pokeSprite/gen6/0713_avalugg/normal/back.gif",
             "condition": "Level 37",
             "conditionJa": "Lv.37",
             "details": [

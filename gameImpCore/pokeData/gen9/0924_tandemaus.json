@@ -11,8 +11,8 @@
   "category": "gen9",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen9/0924_tandemaus.gif",
-  "backSprite": "../pokeSprite/gen9/back/0924_tandemaus_back.gif",
+  "sprite": "../pokeSprite/gen9/0924_tandemaus/normal/front.gif",
+  "backSprite": "../pokeSprite/gen9/0924_tandemaus/normal/back.gif",
   "abilities": [
     {
       "id": 50,
@@ -300,8 +300,8 @@
         "types": [
           "normal"
         ],
-        "sprite": "../pokeSprite/gen9/0924_tandemaus.gif",
-        "backSprite": "../pokeSprite/gen9/back/0924_tandemaus_back.gif",
+        "sprite": "../pokeSprite/gen9/0924_tandemaus/normal/front.gif",
+        "backSprite": "../pokeSprite/gen9/0924_tandemaus/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -315,8 +315,8 @@
             "types": [
               "normal"
             ],
-            "sprite": "../pokeSprite/gen9/0925_maushold-family-of-four.gif",
-            "backSprite": "../pokeSprite/gen9/back/0925_maushold-family-of-four_back.gif",
+            "sprite": "../pokeSprite/gen9/0925_maushold-family-of-four/normal/front.gif",
+            "backSprite": "../pokeSprite/gen9/0925_maushold-family-of-four/normal/back.gif",
             "condition": "Level up in battle",
             "conditionJa": "Level up in battle",
             "details": [

@@ -11,8 +11,8 @@
   "category": "gen3",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen3/0361_snorunt.gif",
-  "backSprite": "../pokeSprite/gen3/back/0361_snorunt_back.gif",
+  "sprite": "../pokeSprite/gen3/0361_snorunt/normal/front.gif",
+  "backSprite": "../pokeSprite/gen3/0361_snorunt/normal/back.gif",
   "abilities": [
     {
       "id": 39,
@@ -314,8 +314,8 @@
         "types": [
           "ice"
         ],
-        "sprite": "../pokeSprite/gen3/0361_snorunt.gif",
-        "backSprite": "../pokeSprite/gen3/back/0361_snorunt_back.gif",
+        "sprite": "../pokeSprite/gen3/0361_snorunt/normal/front.gif",
+        "backSprite": "../pokeSprite/gen3/0361_snorunt/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -329,8 +329,8 @@
             "types": [
               "ice"
             ],
-            "sprite": "../pokeSprite/gen3/0362_glalie.gif",
-            "backSprite": "../pokeSprite/gen3/back/0362_glalie_back.gif",
+            "sprite": "../pokeSprite/gen3/0362_glalie/normal/front.gif",
+            "backSprite": "../pokeSprite/gen3/0362_glalie/normal/back.gif",
             "condition": "Level 42",
             "conditionJa": "Lv.42",
             "details": [
@@ -360,8 +360,8 @@
               "ice",
               "ghost"
             ],
-            "sprite": "../pokeSprite/gen4/0478_froslass.gif",
-            "backSprite": "../pokeSprite/gen4/back/0478_froslass_back.gif",
+            "sprite": "../pokeSprite/gen4/0478_froslass/normal/front.gif",
+            "backSprite": "../pokeSprite/gen4/0478_froslass/normal/back.gif",
             "condition": "Use Dawn Stone",
             "conditionJa": "「めざめいし」を使用",
             "details": [

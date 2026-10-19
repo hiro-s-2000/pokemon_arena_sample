@@ -11,8 +11,8 @@
   "category": "gen3",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen3/0294_loudred.gif",
-  "backSprite": "../pokeSprite/gen3/back/0294_loudred_back.gif",
+  "sprite": "../pokeSprite/gen3/0294_loudred/normal/front.gif",
+  "backSprite": "../pokeSprite/gen3/0294_loudred/normal/back.gif",
   "abilities": [
     {
       "id": 43,
@@ -298,8 +298,8 @@
         "types": [
           "normal"
         ],
-        "sprite": "../pokeSprite/gen3/0293_whismur.gif",
-        "backSprite": "../pokeSprite/gen3/back/0293_whismur_back.gif",
+        "sprite": "../pokeSprite/gen3/0293_whismur/normal/front.gif",
+        "backSprite": "../pokeSprite/gen3/0293_whismur/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -313,8 +313,8 @@
             "types": [
               "normal"
             ],
-            "sprite": "../pokeSprite/gen3/0294_loudred.gif",
-            "backSprite": "../pokeSprite/gen3/back/0294_loudred_back.gif",
+            "sprite": "../pokeSprite/gen3/0294_loudred/normal/front.gif",
+            "backSprite": "../pokeSprite/gen3/0294_loudred/normal/back.gif",
             "condition": "Level 20",
             "conditionJa": "Lv.20",
             "details": [
@@ -342,8 +342,8 @@
                 "types": [
                   "normal"
                 ],
-                "sprite": "../pokeSprite/gen3/0295_exploud.gif",
-                "backSprite": "../pokeSprite/gen3/back/0295_exploud_back.gif",
+                "sprite": "../pokeSprite/gen3/0295_exploud/normal/front.gif",
+                "backSprite": "../pokeSprite/gen3/0295_exploud/normal/back.gif",
                 "condition": "Level 40",
                 "conditionJa": "Lv.40",
                 "details": [

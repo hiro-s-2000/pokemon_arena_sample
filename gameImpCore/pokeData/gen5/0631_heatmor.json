@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0631_heatmor.gif",
-  "backSprite": "../pokeSprite/gen5/back/0631_heatmor_back.gif",
+  "sprite": "../pokeSprite/gen5/0631_heatmor/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0631_heatmor/normal/back.gif",
   "abilities": [
     {
       "id": 82,
@@ -263,8 +263,8 @@
         "types": [
           "fire"
         ],
-        "sprite": "../pokeSprite/gen5/0631_heatmor.gif",
-        "backSprite": "../pokeSprite/gen5/back/0631_heatmor_back.gif",
+        "sprite": "../pokeSprite/gen5/0631_heatmor/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0631_heatmor/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

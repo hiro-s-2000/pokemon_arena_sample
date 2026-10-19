@@ -11,8 +11,8 @@
   "category": "gen7",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen7/0743_ribombee.gif",
-  "backSprite": "../pokeSprite/gen7/back/0743_ribombee_back.gif",
+  "sprite": "../pokeSprite/gen7/0743_ribombee/normal/front.gif",
+  "backSprite": "../pokeSprite/gen7/0743_ribombee/normal/back.gif",
   "abilities": [
     {
       "id": 118,
@@ -302,8 +302,8 @@
           "bug",
           "fairy"
         ],
-        "sprite": "../pokeSprite/gen7/0742_cutiefly.gif",
-        "backSprite": "../pokeSprite/gen7/back/0742_cutiefly_back.gif",
+        "sprite": "../pokeSprite/gen7/0742_cutiefly/normal/front.gif",
+        "backSprite": "../pokeSprite/gen7/0742_cutiefly/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -318,8 +318,8 @@
               "bug",
               "fairy"
             ],
-            "sprite": "../pokeSprite/gen7/0743_ribombee.gif",
-            "backSprite": "../pokeSprite/gen7/back/0743_ribombee_back.gif",
+            "sprite": "../pokeSprite/gen7/0743_ribombee/normal/front.gif",
+            "backSprite": "../pokeSprite/gen7/0743_ribombee/normal/back.gif",
             "condition": "Level 25",
             "conditionJa": "Lv.25",
             "details": [

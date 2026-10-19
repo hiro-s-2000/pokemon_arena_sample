@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0525_boldore.gif",
-  "backSprite": "../pokeSprite/gen5/back/0525_boldore_back.gif",
+  "sprite": "../pokeSprite/gen5/0525_boldore/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0525_boldore/normal/back.gif",
   "abilities": [
     {
       "id": 5,
@@ -313,8 +313,8 @@
         "types": [
           "rock"
         ],
-        "sprite": "../pokeSprite/gen5/0524_roggenrola.gif",
-        "backSprite": "../pokeSprite/gen5/back/0524_roggenrola_back.gif",
+        "sprite": "../pokeSprite/gen5/0524_roggenrola/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0524_roggenrola/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -328,8 +328,8 @@
             "types": [
               "rock"
             ],
-            "sprite": "../pokeSprite/gen5/0525_boldore.gif",
-            "backSprite": "../pokeSprite/gen5/back/0525_boldore_back.gif",
+            "sprite": "../pokeSprite/gen5/0525_boldore/normal/front.gif",
+            "backSprite": "../pokeSprite/gen5/0525_boldore/normal/back.gif",
             "condition": "Level 25",
             "conditionJa": "Lv.25",
             "details": [
@@ -357,8 +357,8 @@
                 "types": [
                   "rock"
                 ],
-                "sprite": "../pokeSprite/gen5/0526_gigalith.gif",
-                "backSprite": "../pokeSprite/gen5/back/0526_gigalith_back.gif",
+                "sprite": "../pokeSprite/gen5/0526_gigalith/normal/front.gif",
+                "backSprite": "../pokeSprite/gen5/0526_gigalith/normal/back.gif",
                 "condition": "Trade",
                 "conditionJa": "通信交換",
                 "details": [

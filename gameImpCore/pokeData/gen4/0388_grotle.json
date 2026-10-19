@@ -11,8 +11,8 @@
   "category": "gen4",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen4/0388_grotle.gif",
-  "backSprite": "../pokeSprite/gen4/back/0388_grotle_back.gif",
+  "sprite": "../pokeSprite/gen4/0388_grotle/normal/front.gif",
+  "backSprite": "../pokeSprite/gen4/0388_grotle/normal/back.gif",
   "abilities": [
     {
       "id": 65,
@@ -308,8 +308,8 @@
         "types": [
           "grass"
         ],
-        "sprite": "../pokeSprite/gen4/0387_turtwig.gif",
-        "backSprite": "../pokeSprite/gen4/back/0387_turtwig_back.gif",
+        "sprite": "../pokeSprite/gen4/0387_turtwig/normal/front.gif",
+        "backSprite": "../pokeSprite/gen4/0387_turtwig/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -323,8 +323,8 @@
             "types": [
               "grass"
             ],
-            "sprite": "../pokeSprite/gen4/0388_grotle.gif",
-            "backSprite": "../pokeSprite/gen4/back/0388_grotle_back.gif",
+            "sprite": "../pokeSprite/gen4/0388_grotle/normal/front.gif",
+            "backSprite": "../pokeSprite/gen4/0388_grotle/normal/back.gif",
             "condition": "Level 18",
             "conditionJa": "Lv.18",
             "details": [
@@ -353,8 +353,8 @@
                   "grass",
                   "ground"
                 ],
-                "sprite": "../pokeSprite/gen4/0389_torterra.gif",
-                "backSprite": "../pokeSprite/gen4/back/0389_torterra_back.gif",
+                "sprite": "../pokeSprite/gen4/0389_torterra/normal/front.gif",
+                "backSprite": "../pokeSprite/gen4/0389_torterra/normal/back.gif",
                 "condition": "Level 32",
                 "conditionJa": "Lv.32",
                 "details": [

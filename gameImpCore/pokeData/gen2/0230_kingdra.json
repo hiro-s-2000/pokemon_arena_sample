@@ -11,8 +11,8 @@
   "category": "gen2",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen2/0230_kingdra.gif",
-  "backSprite": "../pokeSprite/gen2/back/0230_kingdra_back.gif",
+  "sprite": "../pokeSprite/gen2/0230_kingdra/normal/front.gif",
+  "backSprite": "../pokeSprite/gen2/0230_kingdra/normal/back.gif",
   "abilities": [
     {
       "id": 33,
@@ -311,8 +311,8 @@
         "types": [
           "water"
         ],
-        "sprite": "../pokeSprite/gen1/0116_horsea.gif",
-        "backSprite": "../pokeSprite/gen1/back/0116_horsea_back.gif",
+        "sprite": "../pokeSprite/gen1/0116_horsea/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0116_horsea/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -326,8 +326,8 @@
             "types": [
               "water"
             ],
-            "sprite": "../pokeSprite/gen1/0117_seadra.gif",
-            "backSprite": "../pokeSprite/gen1/back/0117_seadra_back.gif",
+            "sprite": "../pokeSprite/gen1/0117_seadra/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0117_seadra/normal/back.gif",
             "condition": "Level 32",
             "conditionJa": "Lv.32",
             "details": [
@@ -356,8 +356,8 @@
                   "water",
                   "dragon"
                 ],
-                "sprite": "../pokeSprite/gen2/0230_kingdra.gif",
-                "backSprite": "../pokeSprite/gen2/back/0230_kingdra_back.gif",
+                "sprite": "../pokeSprite/gen2/0230_kingdra/normal/front.gif",
+                "backSprite": "../pokeSprite/gen2/0230_kingdra/normal/back.gif",
                 "condition": "Trade holding Dragon Scale",
                 "conditionJa": "通信交換（りゅうのウロコを持たせる）",
                 "details": [

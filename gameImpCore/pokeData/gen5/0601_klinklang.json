@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0601_klinklang.gif",
-  "backSprite": "../pokeSprite/gen5/back/0601_klinklang_back.gif",
+  "sprite": "../pokeSprite/gen5/0601_klinklang/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0601_klinklang/normal/back.gif",
   "abilities": [
     {
       "id": 57,
@@ -284,8 +284,8 @@
         "types": [
           "steel"
         ],
-        "sprite": "../pokeSprite/gen5/0599_klink.gif",
-        "backSprite": "../pokeSprite/gen5/back/0599_klink_back.gif",
+        "sprite": "../pokeSprite/gen5/0599_klink/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0599_klink/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -299,8 +299,8 @@
             "types": [
               "steel"
             ],
-            "sprite": "../pokeSprite/gen5/0600_klang.gif",
-            "backSprite": "../pokeSprite/gen5/back/0600_klang_back.gif",
+            "sprite": "../pokeSprite/gen5/0600_klang/normal/front.gif",
+            "backSprite": "../pokeSprite/gen5/0600_klang/normal/back.gif",
             "condition": "Level 38",
             "conditionJa": "Lv.38",
             "details": [
@@ -328,8 +328,8 @@
                 "types": [
                   "steel"
                 ],
-                "sprite": "../pokeSprite/gen5/0601_klinklang.gif",
-                "backSprite": "../pokeSprite/gen5/back/0601_klinklang_back.gif",
+                "sprite": "../pokeSprite/gen5/0601_klinklang/normal/front.gif",
+                "backSprite": "../pokeSprite/gen5/0601_klinklang/normal/back.gif",
                 "condition": "Level 49",
                 "conditionJa": "Lv.49",
                 "details": [

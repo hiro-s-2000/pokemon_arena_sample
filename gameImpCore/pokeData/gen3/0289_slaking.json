@@ -11,8 +11,8 @@
   "category": "gen3",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen3/0289_slaking.gif",
-  "backSprite": "../pokeSprite/gen3/back/0289_slaking_back.gif",
+  "sprite": "../pokeSprite/gen3/0289_slaking/normal/front.gif",
+  "backSprite": "../pokeSprite/gen3/0289_slaking/normal/back.gif",
   "abilities": [
     {
       "id": 54,
@@ -259,8 +259,8 @@
         "types": [
           "normal"
         ],
-        "sprite": "../pokeSprite/gen3/0287_slakoth.gif",
-        "backSprite": "../pokeSprite/gen3/back/0287_slakoth_back.gif",
+        "sprite": "../pokeSprite/gen3/0287_slakoth/normal/front.gif",
+        "backSprite": "../pokeSprite/gen3/0287_slakoth/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -274,8 +274,8 @@
             "types": [
               "normal"
             ],
-            "sprite": "../pokeSprite/gen3/0288_vigoroth.gif",
-            "backSprite": "../pokeSprite/gen3/back/0288_vigoroth_back.gif",
+            "sprite": "../pokeSprite/gen3/0288_vigoroth/normal/front.gif",
+            "backSprite": "../pokeSprite/gen3/0288_vigoroth/normal/back.gif",
             "condition": "Level 18",
             "conditionJa": "Lv.18",
             "details": [
@@ -303,8 +303,8 @@
                 "types": [
                   "normal"
                 ],
-                "sprite": "../pokeSprite/gen3/0289_slaking.gif",
-                "backSprite": "../pokeSprite/gen3/back/0289_slaking_back.gif",
+                "sprite": "../pokeSprite/gen3/0289_slaking/normal/front.gif",
+                "backSprite": "../pokeSprite/gen3/0289_slaking/normal/back.gif",
                 "condition": "Level 36",
                 "conditionJa": "Lv.36",
                 "details": [

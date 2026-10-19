@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0547_whimsicott.gif",
-  "backSprite": "../pokeSprite/gen5/back/0547_whimsicott_back.gif",
+  "sprite": "../pokeSprite/gen5/0547_whimsicott/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0547_whimsicott/normal/back.gif",
   "abilities": [
     {
       "id": 158,
@@ -303,8 +303,8 @@
           "grass",
           "fairy"
         ],
-        "sprite": "../pokeSprite/gen5/0546_cottonee.gif",
-        "backSprite": "../pokeSprite/gen5/back/0546_cottonee_back.gif",
+        "sprite": "../pokeSprite/gen5/0546_cottonee/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0546_cottonee/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -319,8 +319,8 @@
               "grass",
               "fairy"
             ],
-            "sprite": "../pokeSprite/gen5/0547_whimsicott.gif",
-            "backSprite": "../pokeSprite/gen5/back/0547_whimsicott_back.gif",
+            "sprite": "../pokeSprite/gen5/0547_whimsicott/normal/front.gif",
+            "backSprite": "../pokeSprite/gen5/0547_whimsicott/normal/back.gif",
             "condition": "Use Sun Stone",
             "conditionJa": "「たいようのいし」を使用",
             "details": [

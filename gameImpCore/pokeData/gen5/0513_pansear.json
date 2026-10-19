@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0513_pansear.gif",
-  "backSprite": "../pokeSprite/gen5/back/0513_pansear_back.gif",
+  "sprite": "../pokeSprite/gen5/0513_pansear/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0513_pansear/normal/back.gif",
   "abilities": [
     {
       "id": 82,
@@ -276,8 +276,8 @@
         "types": [
           "fire"
         ],
-        "sprite": "../pokeSprite/gen5/0513_pansear.gif",
-        "backSprite": "../pokeSprite/gen5/back/0513_pansear_back.gif",
+        "sprite": "../pokeSprite/gen5/0513_pansear/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0513_pansear/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -291,8 +291,8 @@
             "types": [
               "fire"
             ],
-            "sprite": "../pokeSprite/gen5/0514_simisear.gif",
-            "backSprite": "../pokeSprite/gen5/back/0514_simisear_back.gif",
+            "sprite": "../pokeSprite/gen5/0514_simisear/normal/front.gif",
+            "backSprite": "../pokeSprite/gen5/0514_simisear/normal/back.gif",
             "condition": "Use Fire Stone",
             "conditionJa": "「ほのおのいし」を使用",
             "details": [

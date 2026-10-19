@@ -11,8 +11,8 @@
   "category": "mega",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/mega/0530_excadrill-mega.gif",
-  "backSprite": "../pokeSprite/mega/back/0530_excadrill-mega_back.gif",
+  "sprite": "../pokeSprite/gen5/0530_excadrill/mega/excadrill-mega/front.gif",
+  "backSprite": "../pokeSprite/gen5/0530_excadrill/mega/excadrill-mega/back.gif",
   "abilities": [
     {
       "id": 308,
@@ -277,8 +277,8 @@
         "types": [
           "ground"
         ],
-        "sprite": "../pokeSprite/gen5/0529_drilbur.gif",
-        "backSprite": "../pokeSprite/gen5/back/0529_drilbur_back.gif",
+        "sprite": "../pokeSprite/gen5/0529_drilbur/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0529_drilbur/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -293,8 +293,8 @@
               "ground",
               "steel"
             ],
-            "sprite": "../pokeSprite/gen5/0530_excadrill.gif",
-            "backSprite": "../pokeSprite/gen5/back/0530_excadrill_back.gif",
+            "sprite": "../pokeSprite/gen5/0530_excadrill/normal/front.gif",
+            "backSprite": "../pokeSprite/gen5/0530_excadrill/normal/back.gif",
             "condition": "Level 31",
             "conditionJa": "Lv.31",
             "details": [

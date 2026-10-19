@@ -11,8 +11,8 @@
   "category": "gen8",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen8/0832_dubwool.gif",
-  "backSprite": "../pokeSprite/gen8/back/0832_dubwool_back.gif",
+  "sprite": "../pokeSprite/gen8/0832_dubwool/normal/front.gif",
+  "backSprite": "../pokeSprite/gen8/0832_dubwool/normal/back.gif",
   "abilities": [
     {
       "id": 218,
@@ -279,8 +279,8 @@
         "types": [
           "normal"
         ],
-        "sprite": "../pokeSprite/gen8/0831_wooloo.gif",
-        "backSprite": "../pokeSprite/gen8/back/0831_wooloo_back.gif",
+        "sprite": "../pokeSprite/gen8/0831_wooloo/normal/front.gif",
+        "backSprite": "../pokeSprite/gen8/0831_wooloo/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -294,8 +294,8 @@
             "types": [
               "normal"
             ],
-            "sprite": "../pokeSprite/gen8/0832_dubwool.gif",
-            "backSprite": "../pokeSprite/gen8/back/0832_dubwool_back.gif",
+            "sprite": "../pokeSprite/gen8/0832_dubwool/normal/front.gif",
+            "backSprite": "../pokeSprite/gen8/0832_dubwool/normal/back.gif",
             "condition": "Level 24",
             "conditionJa": "Lv.24",
             "details": [

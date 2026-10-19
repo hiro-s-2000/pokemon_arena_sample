@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0619_mienfoo.gif",
-  "backSprite": "../pokeSprite/gen5/back/0619_mienfoo_back.gif",
+  "sprite": "../pokeSprite/gen5/0619_mienfoo/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0619_mienfoo/normal/back.gif",
   "abilities": [
     {
       "id": 39,
@@ -293,8 +293,8 @@
         "types": [
           "fighting"
         ],
-        "sprite": "../pokeSprite/gen5/0619_mienfoo.gif",
-        "backSprite": "../pokeSprite/gen5/back/0619_mienfoo_back.gif",
+        "sprite": "../pokeSprite/gen5/0619_mienfoo/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0619_mienfoo/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -308,8 +308,8 @@
             "types": [
               "fighting"
             ],
-            "sprite": "../pokeSprite/gen5/0620_mienshao.gif",
-            "backSprite": "../pokeSprite/gen5/back/0620_mienshao_back.gif",
+            "sprite": "../pokeSprite/gen5/0620_mienshao/normal/front.gif",
+            "backSprite": "../pokeSprite/gen5/0620_mienshao/normal/back.gif",
             "condition": "Level 50",
             "conditionJa": "Lv.50",
             "details": [

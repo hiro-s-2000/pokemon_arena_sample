@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0581_swanna.gif",
-  "backSprite": "../pokeSprite/gen5/back/0581_swanna_back.gif",
+  "sprite": "../pokeSprite/gen5/0581_swanna/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0581_swanna/normal/back.gif",
   "abilities": [
     {
       "id": 51,
@@ -303,8 +303,8 @@
           "water",
           "flying"
         ],
-        "sprite": "../pokeSprite/gen5/0580_ducklett.gif",
-        "backSprite": "../pokeSprite/gen5/back/0580_ducklett_back.gif",
+        "sprite": "../pokeSprite/gen5/0580_ducklett/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0580_ducklett/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -319,8 +319,8 @@
               "water",
               "flying"
             ],
-            "sprite": "../pokeSprite/gen5/0581_swanna.gif",
-            "backSprite": "../pokeSprite/gen5/back/0581_swanna_back.gif",
+            "sprite": "../pokeSprite/gen5/0581_swanna/normal/front.gif",
+            "backSprite": "../pokeSprite/gen5/0581_swanna/normal/back.gif",
             "condition": "Level 35",
             "conditionJa": "Lv.35",
             "details": [

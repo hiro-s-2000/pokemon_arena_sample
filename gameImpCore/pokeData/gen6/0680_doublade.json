@@ -11,8 +11,8 @@
   "category": "gen6",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen6/0680_doublade.gif",
-  "backSprite": "../pokeSprite/gen6/back/0680_doublade_back.gif",
+  "sprite": "../pokeSprite/gen6/0680_doublade/normal/front.gif",
+  "backSprite": "../pokeSprite/gen6/0680_doublade/normal/back.gif",
   "abilities": [
     {
       "id": 99,
@@ -299,8 +299,8 @@
           "steel",
           "ghost"
         ],
-        "sprite": "../pokeSprite/gen6/0679_honedge.gif",
-        "backSprite": "../pokeSprite/gen6/back/0679_honedge_back.gif",
+        "sprite": "../pokeSprite/gen6/0679_honedge/normal/front.gif",
+        "backSprite": "../pokeSprite/gen6/0679_honedge/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -315,8 +315,8 @@
               "steel",
               "ghost"
             ],
-            "sprite": "../pokeSprite/gen6/0680_doublade.gif",
-            "backSprite": "../pokeSprite/gen6/back/0680_doublade_back.gif",
+            "sprite": "../pokeSprite/gen6/0680_doublade/normal/front.gif",
+            "backSprite": "../pokeSprite/gen6/0680_doublade/normal/back.gif",
             "condition": "Level 35",
             "conditionJa": "Lv.35",
             "details": [
@@ -345,8 +345,8 @@
                   "steel",
                   "ghost"
                 ],
-                "sprite": "../pokeSprite/gen6/0681_aegislash-shield.gif",
-                "backSprite": "../pokeSprite/gen6/back/0681_aegislash-shield_back.gif",
+                "sprite": "../pokeSprite/gen6/0681_aegislash-shield/normal/front.gif",
+                "backSprite": "../pokeSprite/gen6/0681_aegislash-shield/normal/back.gif",
                 "condition": "Use Dusk Stone",
                 "conditionJa": "「やみのいし」を使用",
                 "details": [

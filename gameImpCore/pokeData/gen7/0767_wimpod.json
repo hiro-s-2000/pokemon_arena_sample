@@ -11,8 +11,8 @@
   "category": "gen7",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen7/0767_wimpod.gif",
-  "backSprite": "../pokeSprite/gen7/back/0767_wimpod_back.gif",
+  "sprite": "../pokeSprite/gen7/0767_wimpod/normal/front.gif",
+  "backSprite": "../pokeSprite/gen7/0767_wimpod/normal/back.gif",
   "abilities": [
     {
       "id": 193,
@@ -283,8 +283,8 @@
           "bug",
           "water"
         ],
-        "sprite": "../pokeSprite/gen7/0767_wimpod.gif",
-        "backSprite": "../pokeSprite/gen7/back/0767_wimpod_back.gif",
+        "sprite": "../pokeSprite/gen7/0767_wimpod/normal/front.gif",
+        "backSprite": "../pokeSprite/gen7/0767_wimpod/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -299,8 +299,8 @@
               "bug",
               "water"
             ],
-            "sprite": "../pokeSprite/gen7/0768_golisopod.gif",
-            "backSprite": "../pokeSprite/gen7/back/0768_golisopod_back.gif",
+            "sprite": "../pokeSprite/gen7/0768_golisopod/normal/front.gif",
+            "backSprite": "../pokeSprite/gen7/0768_golisopod/normal/back.gif",
             "condition": "Level 30",
             "conditionJa": "Lv.30",
             "details": [

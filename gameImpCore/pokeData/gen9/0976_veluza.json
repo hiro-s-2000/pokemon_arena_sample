@@ -11,8 +11,8 @@
   "category": "gen9",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen9/0976_veluza.gif",
-  "backSprite": "../pokeSprite/gen9/back/0976_veluza_back.gif",
+  "sprite": "../pokeSprite/gen9/0976_veluza/normal/front.gif",
+  "backSprite": "../pokeSprite/gen9/0976_veluza/normal/back.gif",
   "abilities": [
     {
       "id": 104,
@@ -263,8 +263,8 @@
           "water",
           "psychic"
         ],
-        "sprite": "../pokeSprite/gen9/0976_veluza.gif",
-        "backSprite": "../pokeSprite/gen9/back/0976_veluza_back.gif",
+        "sprite": "../pokeSprite/gen9/0976_veluza/normal/front.gif",
+        "backSprite": "../pokeSprite/gen9/0976_veluza/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

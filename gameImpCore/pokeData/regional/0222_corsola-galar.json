@@ -11,8 +11,8 @@
   "category": "regional",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/regional/0222_corsola-galar.gif",
-  "backSprite": "../pokeSprite/regional/back/0222_corsola-galar_back.gif",
+  "sprite": "../pokeSprite/gen2/0222_corsola/regional/corsola-galar/front.gif",
+  "backSprite": "../pokeSprite/gen2/0222_corsola/regional/corsola-galar/back.gif",
   "abilities": [
     {
       "id": 133,
@@ -282,8 +282,8 @@
           "water",
           "rock"
         ],
-        "sprite": "../pokeSprite/gen2/0222_corsola.gif",
-        "backSprite": "../pokeSprite/gen2/back/0222_corsola_back.gif",
+        "sprite": "../pokeSprite/gen2/0222_corsola/normal/front.gif",
+        "backSprite": "../pokeSprite/gen2/0222_corsola/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -297,8 +297,8 @@
             "types": [
               "ghost"
             ],
-            "sprite": "../pokeSprite/gen8/0864_cursola.gif",
-            "backSprite": "../pokeSprite/gen8/back/0864_cursola_back.gif",
+            "sprite": "../pokeSprite/gen8/0864_cursola/normal/front.gif",
+            "backSprite": "../pokeSprite/gen8/0864_cursola/normal/back.gif",
             "condition": "Level 38",
             "conditionJa": "Lv.38",
             "details": [

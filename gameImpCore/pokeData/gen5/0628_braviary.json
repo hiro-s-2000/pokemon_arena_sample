@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0628_braviary.gif",
-  "backSprite": "../pokeSprite/gen5/back/0628_braviary_back.gif",
+  "sprite": "../pokeSprite/gen5/0628_braviary/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0628_braviary/normal/back.gif",
   "abilities": [
     {
       "id": 51,
@@ -306,8 +306,8 @@
           "normal",
           "flying"
         ],
-        "sprite": "../pokeSprite/gen5/0627_rufflet.gif",
-        "backSprite": "../pokeSprite/gen5/back/0627_rufflet_back.gif",
+        "sprite": "../pokeSprite/gen5/0627_rufflet/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0627_rufflet/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -322,8 +322,8 @@
               "normal",
               "flying"
             ],
-            "sprite": "../pokeSprite/gen5/0628_braviary.gif",
-            "backSprite": "../pokeSprite/gen5/back/0628_braviary_back.gif",
+            "sprite": "../pokeSprite/gen5/0628_braviary/normal/front.gif",
+            "backSprite": "../pokeSprite/gen5/0628_braviary/normal/back.gif",
             "condition": "Level 54",
             "conditionJa": "Lv.54",
             "details": [

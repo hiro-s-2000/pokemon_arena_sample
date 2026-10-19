@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0522_blitzle.gif",
-  "backSprite": "../pokeSprite/gen5/back/0522_blitzle_back.gif",
+  "sprite": "../pokeSprite/gen5/0522_blitzle/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0522_blitzle/normal/back.gif",
   "abilities": [
     {
       "id": 31,
@@ -284,8 +284,8 @@
         "types": [
           "electric"
         ],
-        "sprite": "../pokeSprite/gen5/0522_blitzle.gif",
-        "backSprite": "../pokeSprite/gen5/back/0522_blitzle_back.gif",
+        "sprite": "../pokeSprite/gen5/0522_blitzle/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0522_blitzle/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -299,8 +299,8 @@
             "types": [
               "electric"
             ],
-            "sprite": "../pokeSprite/gen5/0523_zebstrika.gif",
-            "backSprite": "../pokeSprite/gen5/back/0523_zebstrika_back.gif",
+            "sprite": "../pokeSprite/gen5/0523_zebstrika/normal/front.gif",
+            "backSprite": "../pokeSprite/gen5/0523_zebstrika/normal/back.gif",
             "condition": "Level 27",
             "conditionJa": "Lv.27",
             "details": [

@@ -11,8 +11,8 @@
   "category": "mega",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/mega/0018_pidgeot-mega.gif",
-  "backSprite": "../pokeSprite/mega/back/0018_pidgeot-mega_back.gif",
+  "sprite": "../pokeSprite/gen1/0018_pidgeot/mega/pidgeot-mega/front.gif",
+  "backSprite": "../pokeSprite/gen1/0018_pidgeot/mega/pidgeot-mega/back.gif",
   "abilities": [
     {
       "id": 99,
@@ -273,8 +273,8 @@
           "normal",
           "flying"
         ],
-        "sprite": "../pokeSprite/gen1/0016_pidgey.gif",
-        "backSprite": "../pokeSprite/gen1/back/0016_pidgey_back.gif",
+        "sprite": "../pokeSprite/gen1/0016_pidgey/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0016_pidgey/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -289,8 +289,8 @@
               "normal",
               "flying"
             ],
-            "sprite": "../pokeSprite/gen1/0017_pidgeotto.gif",
-            "backSprite": "../pokeSprite/gen1/back/0017_pidgeotto_back.gif",
+            "sprite": "../pokeSprite/gen1/0017_pidgeotto/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0017_pidgeotto/normal/back.gif",
             "condition": "Level 18",
             "conditionJa": "Lv.18",
             "details": [
@@ -319,8 +319,8 @@
                   "normal",
                   "flying"
                 ],
-                "sprite": "../pokeSprite/gen1/0018_pidgeot.gif",
-                "backSprite": "../pokeSprite/gen1/back/0018_pidgeot_back.gif",
+                "sprite": "../pokeSprite/gen1/0018_pidgeot/normal/front.gif",
+                "backSprite": "../pokeSprite/gen1/0018_pidgeot/normal/back.gif",
                 "condition": "Level 36",
                 "conditionJa": "Lv.36",
                 "details": [

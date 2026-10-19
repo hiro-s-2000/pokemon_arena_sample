@@ -11,8 +11,8 @@
   "category": "gen7",
   "isLegendary": false,
   "isMythical": true,
-  "sprite": "../pokeSprite/gen7/0802_marshadow.gif",
-  "backSprite": "../pokeSprite/gen7/back/0802_marshadow_back.gif",
+  "sprite": "../pokeSprite/gen7/0802_marshadow/normal/front.gif",
+  "backSprite": "../pokeSprite/gen7/0802_marshadow/normal/back.gif",
   "abilities": [
     {
       "id": 101,
@@ -263,8 +263,8 @@
           "fighting",
           "ghost"
         ],
-        "sprite": "../pokeSprite/gen7/0802_marshadow.gif",
-        "backSprite": "../pokeSprite/gen7/back/0802_marshadow_back.gif",
+        "sprite": "../pokeSprite/gen7/0802_marshadow/normal/front.gif",
+        "backSprite": "../pokeSprite/gen7/0802_marshadow/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

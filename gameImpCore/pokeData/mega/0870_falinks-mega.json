@@ -11,8 +11,8 @@
   "category": "mega",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/mega/0870_falinks-mega.gif",
-  "backSprite": "../pokeSprite/mega/back/0870_falinks-mega_back.gif",
+  "sprite": "../pokeSprite/gen8/0870_falinks/mega/falinks-mega/front.gif",
+  "backSprite": "../pokeSprite/gen8/0870_falinks/mega/falinks-mega/back.gif",
   "abilities": [
     {
       "id": 128,
@@ -256,8 +256,8 @@
         "types": [
           "fighting"
         ],
-        "sprite": "../pokeSprite/gen8/0870_falinks.gif",
-        "backSprite": "../pokeSprite/gen8/back/0870_falinks_back.gif",
+        "sprite": "../pokeSprite/gen8/0870_falinks/normal/front.gif",
+        "backSprite": "../pokeSprite/gen8/0870_falinks/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

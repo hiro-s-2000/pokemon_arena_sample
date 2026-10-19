@@ -11,8 +11,8 @@
   "category": "gen9",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen9/0920_lokix.gif",
-  "backSprite": "../pokeSprite/gen9/back/0920_lokix_back.gif",
+  "sprite": "../pokeSprite/gen9/0920_lokix/normal/front.gif",
+  "backSprite": "../pokeSprite/gen9/0920_lokix/normal/back.gif",
   "abilities": [
     {
       "id": 68,
@@ -283,8 +283,8 @@
         "types": [
           "bug"
         ],
-        "sprite": "../pokeSprite/gen9/0919_nymble.gif",
-        "backSprite": "../pokeSprite/gen9/back/0919_nymble_back.gif",
+        "sprite": "../pokeSprite/gen9/0919_nymble/normal/front.gif",
+        "backSprite": "../pokeSprite/gen9/0919_nymble/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -299,8 +299,8 @@
               "bug",
               "dark"
             ],
-            "sprite": "../pokeSprite/gen9/0920_lokix.gif",
-            "backSprite": "../pokeSprite/gen9/back/0920_lokix_back.gif",
+            "sprite": "../pokeSprite/gen9/0920_lokix/normal/front.gif",
+            "backSprite": "../pokeSprite/gen9/0920_lokix/normal/back.gif",
             "condition": "Level 24",
             "conditionJa": "Lv.24",
             "details": [

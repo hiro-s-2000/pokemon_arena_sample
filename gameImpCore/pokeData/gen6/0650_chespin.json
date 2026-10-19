@@ -11,8 +11,8 @@
   "category": "gen6",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen6/0650_chespin.gif",
-  "backSprite": "../pokeSprite/gen6/back/0650_chespin_back.gif",
+  "sprite": "../pokeSprite/gen6/0650_chespin/normal/front.gif",
+  "backSprite": "../pokeSprite/gen6/0650_chespin/normal/back.gif",
   "abilities": [
     {
       "id": 65,
@@ -275,8 +275,8 @@
         "types": [
           "grass"
         ],
-        "sprite": "../pokeSprite/gen6/0650_chespin.gif",
-        "backSprite": "../pokeSprite/gen6/back/0650_chespin_back.gif",
+        "sprite": "../pokeSprite/gen6/0650_chespin/normal/front.gif",
+        "backSprite": "../pokeSprite/gen6/0650_chespin/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -290,8 +290,8 @@
             "types": [
               "grass"
             ],
-            "sprite": "../pokeSprite/gen6/0651_quilladin.gif",
-            "backSprite": "../pokeSprite/gen6/back/0651_quilladin_back.gif",
+            "sprite": "../pokeSprite/gen6/0651_quilladin/normal/front.gif",
+            "backSprite": "../pokeSprite/gen6/0651_quilladin/normal/back.gif",
             "condition": "Level 16",
             "conditionJa": "Lv.16",
             "details": [
@@ -320,8 +320,8 @@
                   "grass",
                   "fighting"
                 ],
-                "sprite": "../pokeSprite/gen6/0652_chesnaught.gif",
-                "backSprite": "../pokeSprite/gen6/back/0652_chesnaught_back.gif",
+                "sprite": "../pokeSprite/gen6/0652_chesnaught/normal/front.gif",
+                "backSprite": "../pokeSprite/gen6/0652_chesnaught/normal/back.gif",
                 "condition": "Level 36",
                 "conditionJa": "Lv.36",
                 "details": [

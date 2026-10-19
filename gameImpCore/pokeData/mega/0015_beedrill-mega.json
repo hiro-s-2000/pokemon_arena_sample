@@ -11,8 +11,8 @@
   "category": "mega",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/mega/0015_beedrill-mega.gif",
-  "backSprite": "../pokeSprite/mega/back/0015_beedrill-mega_back.gif",
+  "sprite": "../pokeSprite/gen1/0015_beedrill/mega/beedrill-mega/front.gif",
+  "backSprite": "../pokeSprite/gen1/0015_beedrill/mega/beedrill-mega/back.gif",
   "abilities": [
     {
       "id": 91,
@@ -280,8 +280,8 @@
           "bug",
           "poison"
         ],
-        "sprite": "../pokeSprite/gen1/0013_weedle.gif",
-        "backSprite": "../pokeSprite/gen1/back/0013_weedle_back.gif",
+        "sprite": "../pokeSprite/gen1/0013_weedle/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0013_weedle/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -296,8 +296,8 @@
               "bug",
               "poison"
             ],
-            "sprite": "../pokeSprite/gen1/0014_kakuna.gif",
-            "backSprite": "../pokeSprite/gen1/back/0014_kakuna_back.gif",
+            "sprite": "../pokeSprite/gen1/0014_kakuna/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0014_kakuna/normal/back.gif",
             "condition": "Level 7",
             "conditionJa": "Lv.7",
             "details": [
@@ -326,8 +326,8 @@
                   "bug",
                   "poison"
                 ],
-                "sprite": "../pokeSprite/gen1/0015_beedrill.gif",
-                "backSprite": "../pokeSprite/gen1/back/0015_beedrill_back.gif",
+                "sprite": "../pokeSprite/gen1/0015_beedrill/normal/front.gif",
+                "backSprite": "../pokeSprite/gen1/0015_beedrill/normal/back.gif",
                 "condition": "Level 10",
                 "conditionJa": "Lv.10",
                 "details": [

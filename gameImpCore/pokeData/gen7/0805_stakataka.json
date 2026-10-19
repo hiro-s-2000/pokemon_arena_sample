@@ -11,8 +11,8 @@
   "category": "gen7",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen7/0805_stakataka.gif",
-  "backSprite": "../pokeSprite/gen7/back/0805_stakataka_back.gif",
+  "sprite": "../pokeSprite/gen7/0805_stakataka/normal/front.gif",
+  "backSprite": "../pokeSprite/gen7/0805_stakataka/normal/back.gif",
   "abilities": [
     {
       "id": 224,
@@ -257,8 +257,8 @@
           "rock",
           "steel"
         ],
-        "sprite": "../pokeSprite/gen7/0805_stakataka.gif",
-        "backSprite": "../pokeSprite/gen7/back/0805_stakataka_back.gif",
+        "sprite": "../pokeSprite/gen7/0805_stakataka/normal/front.gif",
+        "backSprite": "../pokeSprite/gen7/0805_stakataka/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

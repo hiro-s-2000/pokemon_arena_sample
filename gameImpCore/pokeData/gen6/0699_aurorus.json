@@ -11,8 +11,8 @@
   "category": "gen6",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen6/0699_aurorus.gif",
-  "backSprite": "../pokeSprite/gen6/back/0699_aurorus_back.gif",
+  "sprite": "../pokeSprite/gen6/0699_aurorus/normal/front.gif",
+  "backSprite": "../pokeSprite/gen6/0699_aurorus/normal/back.gif",
   "abilities": [
     {
       "id": 174,
@@ -287,8 +287,8 @@
           "rock",
           "ice"
         ],
-        "sprite": "../pokeSprite/gen6/0698_amaura.gif",
-        "backSprite": "../pokeSprite/gen6/back/0698_amaura_back.gif",
+        "sprite": "../pokeSprite/gen6/0698_amaura/normal/front.gif",
+        "backSprite": "../pokeSprite/gen6/0698_amaura/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -303,8 +303,8 @@
               "rock",
               "ice"
             ],
-            "sprite": "../pokeSprite/gen6/0699_aurorus.gif",
-            "backSprite": "../pokeSprite/gen6/back/0699_aurorus_back.gif",
+            "sprite": "../pokeSprite/gen6/0699_aurorus/normal/front.gif",
+            "backSprite": "../pokeSprite/gen6/0699_aurorus/normal/back.gif",
             "condition": "Level 39 at night",
             "conditionJa": "Lv.39（night）",
             "details": [

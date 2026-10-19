@@ -11,8 +11,8 @@
   "category": "gen2",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen2/0196_espeon.gif",
-  "backSprite": "../pokeSprite/gen2/back/0196_espeon_back.gif",
+  "sprite": "../pokeSprite/gen2/0196_espeon/normal/front.gif",
+  "backSprite": "../pokeSprite/gen2/0196_espeon/normal/back.gif",
   "abilities": [
     {
       "id": 28,
@@ -272,8 +272,8 @@
         "types": [
           "normal"
         ],
-        "sprite": "../pokeSprite/gen1/0133_eevee.gif",
-        "backSprite": "../pokeSprite/gen1/back/0133_eevee_back.gif",
+        "sprite": "../pokeSprite/gen1/0133_eevee/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0133_eevee/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -287,8 +287,8 @@
             "types": [
               "water"
             ],
-            "sprite": "../pokeSprite/gen1/0134_vaporeon.gif",
-            "backSprite": "../pokeSprite/gen1/back/0134_vaporeon_back.gif",
+            "sprite": "../pokeSprite/gen1/0134_vaporeon/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0134_vaporeon/normal/back.gif",
             "condition": "Use Water Stone",
             "conditionJa": "「みずのいし」を使用",
             "details": [
@@ -317,8 +317,8 @@
             "types": [
               "electric"
             ],
-            "sprite": "../pokeSprite/gen1/0135_jolteon.gif",
-            "backSprite": "../pokeSprite/gen1/back/0135_jolteon_back.gif",
+            "sprite": "../pokeSprite/gen1/0135_jolteon/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0135_jolteon/normal/back.gif",
             "condition": "Use Thunder Stone",
             "conditionJa": "「かみなりのいし」を使用",
             "details": [
@@ -347,8 +347,8 @@
             "types": [
               "fire"
             ],
-            "sprite": "../pokeSprite/gen1/0136_flareon.gif",
-            "backSprite": "../pokeSprite/gen1/back/0136_flareon_back.gif",
+            "sprite": "../pokeSprite/gen1/0136_flareon/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0136_flareon/normal/back.gif",
             "condition": "Use Fire Stone",
             "conditionJa": "「ほのおのいし」を使用",
             "details": [
@@ -377,8 +377,8 @@
             "types": [
               "psychic"
             ],
-            "sprite": "../pokeSprite/gen2/0196_espeon.gif",
-            "backSprite": "../pokeSprite/gen2/back/0196_espeon_back.gif",
+            "sprite": "../pokeSprite/gen2/0196_espeon/normal/front.gif",
+            "backSprite": "../pokeSprite/gen2/0196_espeon/normal/back.gif",
             "condition": "Level up high Friendship (160+) at day",
             "conditionJa": "レベルアップ（なつき度160以上）（day）",
             "details": [
@@ -407,8 +407,8 @@
             "types": [
               "dark"
             ],
-            "sprite": "../pokeSprite/gen2/0197_umbreon.gif",
-            "backSprite": "../pokeSprite/gen2/back/0197_umbreon_back.gif",
+            "sprite": "../pokeSprite/gen2/0197_umbreon/normal/front.gif",
+            "backSprite": "../pokeSprite/gen2/0197_umbreon/normal/back.gif",
             "condition": "Level up high Friendship (160+) at night",
             "conditionJa": "レベルアップ（なつき度160以上）（night）",
             "details": [
@@ -437,8 +437,8 @@
             "types": [
               "grass"
             ],
-            "sprite": "../pokeSprite/gen4/0470_leafeon.gif",
-            "backSprite": "../pokeSprite/gen4/back/0470_leafeon_back.gif",
+            "sprite": "../pokeSprite/gen4/0470_leafeon/normal/front.gif",
+            "backSprite": "../pokeSprite/gen4/0470_leafeon/normal/back.gif",
             "condition": "Level up / Use Leaf Stone",
             "conditionJa": "レベルアップ / 「リーフのいし」を使用",
             "details": [
@@ -532,8 +532,8 @@
             "types": [
               "ice"
             ],
-            "sprite": "../pokeSprite/gen4/0471_glaceon.gif",
-            "backSprite": "../pokeSprite/gen4/back/0471_glaceon_back.gif",
+            "sprite": "../pokeSprite/gen4/0471_glaceon/normal/front.gif",
+            "backSprite": "../pokeSprite/gen4/0471_glaceon/normal/back.gif",
             "condition": "Level up / Use Ice Stone",
             "conditionJa": "レベルアップ / 「こおりのいし」を使用",
             "details": [
@@ -627,8 +627,8 @@
             "types": [
               "fairy"
             ],
-            "sprite": "../pokeSprite/gen6/0700_sylveon.gif",
-            "backSprite": "../pokeSprite/gen6/back/0700_sylveon_back.gif",
+            "sprite": "../pokeSprite/gen6/0700_sylveon/normal/front.gif",
+            "backSprite": "../pokeSprite/gen6/0700_sylveon/normal/back.gif",
             "condition": "Level up / Level up high Friendship (160+)",
             "conditionJa": "レベルアップ / レベルアップ（なつき度160以上）",
             "details": [

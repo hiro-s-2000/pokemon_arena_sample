@@ -11,8 +11,8 @@
   "category": "mega",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/mega/0560_scrafty-mega.gif",
-  "backSprite": "../pokeSprite/mega/back/0560_scrafty-mega_back.gif",
+  "sprite": "../pokeSprite/gen5/0560_scrafty/mega/scrafty-mega/front.gif",
+  "backSprite": "../pokeSprite/gen5/0560_scrafty/mega/scrafty-mega/back.gif",
   "abilities": [
     {
       "id": 22,
@@ -291,8 +291,8 @@
           "dark",
           "fighting"
         ],
-        "sprite": "../pokeSprite/gen5/0559_scraggy.gif",
-        "backSprite": "../pokeSprite/gen5/back/0559_scraggy_back.gif",
+        "sprite": "../pokeSprite/gen5/0559_scraggy/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0559_scraggy/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -307,8 +307,8 @@
               "dark",
               "fighting"
             ],
-            "sprite": "../pokeSprite/gen5/0560_scrafty.gif",
-            "backSprite": "../pokeSprite/gen5/back/0560_scrafty_back.gif",
+            "sprite": "../pokeSprite/gen5/0560_scrafty/normal/front.gif",
+            "backSprite": "../pokeSprite/gen5/0560_scrafty/normal/back.gif",
             "condition": "Level 39",
             "conditionJa": "Lv.39",
             "details": [

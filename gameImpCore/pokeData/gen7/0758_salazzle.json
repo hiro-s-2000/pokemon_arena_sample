@@ -11,8 +11,8 @@
   "category": "gen7",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen7/0758_salazzle.gif",
-  "backSprite": "../pokeSprite/gen7/back/0758_salazzle_back.gif",
+  "sprite": "../pokeSprite/gen7/0758_salazzle/normal/front.gif",
+  "backSprite": "../pokeSprite/gen7/0758_salazzle/normal/back.gif",
   "abilities": [
     {
       "id": 212,
@@ -292,8 +292,8 @@
           "poison",
           "fire"
         ],
-        "sprite": "../pokeSprite/gen7/0757_salandit.gif",
-        "backSprite": "../pokeSprite/gen7/back/0757_salandit_back.gif",
+        "sprite": "../pokeSprite/gen7/0757_salandit/normal/front.gif",
+        "backSprite": "../pokeSprite/gen7/0757_salandit/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -308,8 +308,8 @@
               "poison",
               "fire"
             ],
-            "sprite": "../pokeSprite/gen7/0758_salazzle.gif",
-            "backSprite": "../pokeSprite/gen7/back/0758_salazzle_back.gif",
+            "sprite": "../pokeSprite/gen7/0758_salazzle/normal/front.gif",
+            "backSprite": "../pokeSprite/gen7/0758_salazzle/normal/back.gif",
             "condition": "Level 33",
             "conditionJa": "Lv.33",
             "details": [

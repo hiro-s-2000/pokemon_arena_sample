@@ -11,8 +11,8 @@
   "category": "gen4",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen4/0401_kricketot.gif",
-  "backSprite": "../pokeSprite/gen4/back/0401_kricketot_back.gif",
+  "sprite": "../pokeSprite/gen4/0401_kricketot/normal/front.gif",
+  "backSprite": "../pokeSprite/gen4/0401_kricketot/normal/back.gif",
   "abilities": [
     {
       "id": 61,
@@ -275,8 +275,8 @@
         "types": [
           "bug"
         ],
-        "sprite": "../pokeSprite/gen4/0401_kricketot.gif",
-        "backSprite": "../pokeSprite/gen4/back/0401_kricketot_back.gif",
+        "sprite": "../pokeSprite/gen4/0401_kricketot/normal/front.gif",
+        "backSprite": "../pokeSprite/gen4/0401_kricketot/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -290,8 +290,8 @@
             "types": [
               "bug"
             ],
-            "sprite": "../pokeSprite/gen4/0402_kricketune.gif",
-            "backSprite": "../pokeSprite/gen4/back/0402_kricketune_back.gif",
+            "sprite": "../pokeSprite/gen4/0402_kricketune/normal/front.gif",
+            "backSprite": "../pokeSprite/gen4/0402_kricketune/normal/back.gif",
             "condition": "Level 10",
             "conditionJa": "Lv.10",
             "details": [

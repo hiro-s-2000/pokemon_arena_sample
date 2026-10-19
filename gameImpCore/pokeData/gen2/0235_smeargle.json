@@ -11,8 +11,8 @@
   "category": "gen2",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen2/0235_smeargle.gif",
-  "backSprite": "../pokeSprite/gen2/back/0235_smeargle_back.gif",
+  "sprite": "../pokeSprite/gen2/0235_smeargle/normal/front.gif",
+  "backSprite": "../pokeSprite/gen2/0235_smeargle/normal/back.gif",
   "abilities": [
     {
       "id": 20,
@@ -258,8 +258,8 @@
         "types": [
           "normal"
         ],
-        "sprite": "../pokeSprite/gen2/0235_smeargle.gif",
-        "backSprite": "../pokeSprite/gen2/back/0235_smeargle_back.gif",
+        "sprite": "../pokeSprite/gen2/0235_smeargle/normal/front.gif",
+        "backSprite": "../pokeSprite/gen2/0235_smeargle/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

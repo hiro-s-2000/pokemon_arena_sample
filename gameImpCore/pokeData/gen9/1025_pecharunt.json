@@ -11,8 +11,8 @@
   "category": "gen9",
   "isLegendary": false,
   "isMythical": true,
-  "sprite": "../pokeSprite/gen9/1025_pecharunt.gif",
-  "backSprite": "../pokeSprite/gen9/back/1025_pecharunt_back.gif",
+  "sprite": "../pokeSprite/gen9/1025_pecharunt/normal/front.gif",
+  "backSprite": "../pokeSprite/gen9/1025_pecharunt/normal/back.gif",
   "abilities": [
     {
       "id": 307,
@@ -254,8 +254,8 @@
           "poison",
           "ghost"
         ],
-        "sprite": "../pokeSprite/gen9/1025_pecharunt.gif",
-        "backSprite": "../pokeSprite/gen9/back/1025_pecharunt_back.gif",
+        "sprite": "../pokeSprite/gen9/1025_pecharunt/normal/front.gif",
+        "backSprite": "../pokeSprite/gen9/1025_pecharunt/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

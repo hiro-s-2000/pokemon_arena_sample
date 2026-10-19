@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0563_cofagrigus.gif",
-  "backSprite": "../pokeSprite/gen5/back/0563_cofagrigus_back.gif",
+  "sprite": "../pokeSprite/gen5/0563_cofagrigus/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0563_cofagrigus/normal/back.gif",
   "abilities": [
     {
       "id": 152,
@@ -269,8 +269,8 @@
         "types": [
           "ghost"
         ],
-        "sprite": "../pokeSprite/gen5/0562_yamask.gif",
-        "backSprite": "../pokeSprite/gen5/back/0562_yamask_back.gif",
+        "sprite": "../pokeSprite/gen5/0562_yamask/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0562_yamask/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -284,8 +284,8 @@
             "types": [
               "ghost"
             ],
-            "sprite": "../pokeSprite/gen5/0563_cofagrigus.gif",
-            "backSprite": "../pokeSprite/gen5/back/0563_cofagrigus_back.gif",
+            "sprite": "../pokeSprite/gen5/0563_cofagrigus/normal/front.gif",
+            "backSprite": "../pokeSprite/gen5/0563_cofagrigus/normal/back.gif",
             "condition": "Level 34",
             "conditionJa": "Lv.34",
             "details": [
@@ -315,8 +315,8 @@
               "ground",
               "ghost"
             ],
-            "sprite": "../pokeSprite/gen8/0867_runerigus.gif",
-            "backSprite": "../pokeSprite/gen8/back/0867_runerigus_back.gif",
+            "sprite": "../pokeSprite/gen8/0867_runerigus/normal/front.gif",
+            "backSprite": "../pokeSprite/gen8/0867_runerigus/normal/back.gif",
             "condition": "Go somewhere after taking damage",
             "conditionJa": "Go somewhere after taking damage",
             "details": [

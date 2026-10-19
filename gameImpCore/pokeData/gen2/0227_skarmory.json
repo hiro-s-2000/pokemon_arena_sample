@@ -11,8 +11,8 @@
   "category": "gen2",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen2/0227_skarmory.gif",
-  "backSprite": "../pokeSprite/gen2/back/0227_skarmory_back.gif",
+  "sprite": "../pokeSprite/gen2/0227_skarmory/normal/front.gif",
+  "backSprite": "../pokeSprite/gen2/0227_skarmory/normal/back.gif",
   "abilities": [
     {
       "id": 51,
@@ -276,8 +276,8 @@
           "steel",
           "flying"
         ],
-        "sprite": "../pokeSprite/gen2/0227_skarmory.gif",
-        "backSprite": "../pokeSprite/gen2/back/0227_skarmory_back.gif",
+        "sprite": "../pokeSprite/gen2/0227_skarmory/normal/front.gif",
+        "backSprite": "../pokeSprite/gen2/0227_skarmory/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

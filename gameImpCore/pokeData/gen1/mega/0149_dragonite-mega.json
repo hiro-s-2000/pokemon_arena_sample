@@ -11,8 +11,8 @@
   "category": "mega",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/mega/0149_dragonite-mega.gif",
-  "backSprite": "../pokeSprite/mega/back/0149_dragonite-mega_back.gif",
+  "sprite": "../pokeSprite/gen1/0149_dragonite/mega/dragonite-mega/front.gif",
+  "backSprite": "../pokeSprite/gen1/0149_dragonite/mega/dragonite-mega/back.gif",
   "abilities": [
     {
       "id": 136,
@@ -281,8 +281,8 @@
         "types": [
           "dragon"
         ],
-        "sprite": "../pokeSprite/gen1/0147_dratini.gif",
-        "backSprite": "../pokeSprite/gen1/back/0147_dratini_back.gif",
+        "sprite": "../pokeSprite/gen1/0147_dratini/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0147_dratini/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -296,8 +296,8 @@
             "types": [
               "dragon"
             ],
-            "sprite": "../pokeSprite/gen1/0148_dragonair.gif",
-            "backSprite": "../pokeSprite/gen1/back/0148_dragonair_back.gif",
+            "sprite": "../pokeSprite/gen1/0148_dragonair/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0148_dragonair/normal/back.gif",
             "condition": "Level 30",
             "conditionJa": "Lv.30",
             "details": [
@@ -326,8 +326,8 @@
                   "dragon",
                   "flying"
                 ],
-                "sprite": "../pokeSprite/gen1/0149_dragonite.gif",
-                "backSprite": "../pokeSprite/gen1/back/0149_dragonite_back.gif",
+                "sprite": "../pokeSprite/gen1/0149_dragonite/normal/front.gif",
+                "backSprite": "../pokeSprite/gen1/0149_dragonite/normal/back.gif",
                 "condition": "Level 55",
                 "conditionJa": "Lv.55",
                 "details": [

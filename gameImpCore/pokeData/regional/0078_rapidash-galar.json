@@ -11,8 +11,8 @@
   "category": "regional",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/regional/0078_rapidash-galar.gif",
-  "backSprite": "../pokeSprite/regional/back/0078_rapidash-galar_back.gif",
+  "sprite": "../pokeSprite/gen1/0078_rapidash/regional/rapidash-galar/front.gif",
+  "backSprite": "../pokeSprite/gen1/0078_rapidash/regional/rapidash-galar/back.gif",
   "abilities": [
     {
       "id": 50,
@@ -307,8 +307,8 @@
         "types": [
           "fire"
         ],
-        "sprite": "../pokeSprite/gen1/0077_ponyta.gif",
-        "backSprite": "../pokeSprite/gen1/back/0077_ponyta_back.gif",
+        "sprite": "../pokeSprite/gen1/0077_ponyta/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0077_ponyta/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -322,8 +322,8 @@
             "types": [
               "fire"
             ],
-            "sprite": "../pokeSprite/gen1/0078_rapidash.gif",
-            "backSprite": "../pokeSprite/gen1/back/0078_rapidash_back.gif",
+            "sprite": "../pokeSprite/gen1/0078_rapidash/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0078_rapidash/normal/back.gif",
             "condition": "Level 40",
             "conditionJa": "Lv.40",
             "details": [

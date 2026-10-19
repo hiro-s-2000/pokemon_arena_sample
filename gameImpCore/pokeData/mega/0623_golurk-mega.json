@@ -11,8 +11,8 @@
   "category": "mega",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/mega/0623_golurk-mega.gif",
-  "backSprite": "../pokeSprite/mega/back/0623_golurk-mega_back.gif",
+  "sprite": "../pokeSprite/gen5/0623_golurk/mega/golurk-mega/front.gif",
+  "backSprite": "../pokeSprite/gen5/0623_golurk/mega/golurk-mega/back.gif",
   "abilities": [
     {
       "id": 260,
@@ -278,8 +278,8 @@
           "ground",
           "ghost"
         ],
-        "sprite": "../pokeSprite/gen5/0622_golett.gif",
-        "backSprite": "../pokeSprite/gen5/back/0622_golett_back.gif",
+        "sprite": "../pokeSprite/gen5/0622_golett/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0622_golett/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -294,8 +294,8 @@
               "ground",
               "ghost"
             ],
-            "sprite": "../pokeSprite/gen5/0623_golurk.gif",
-            "backSprite": "../pokeSprite/gen5/back/0623_golurk_back.gif",
+            "sprite": "../pokeSprite/gen5/0623_golurk/normal/front.gif",
+            "backSprite": "../pokeSprite/gen5/0623_golurk/normal/back.gif",
             "condition": "Level 43",
             "conditionJa": "Lv.43",
             "details": [

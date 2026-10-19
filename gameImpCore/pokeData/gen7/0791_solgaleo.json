@@ -11,8 +11,8 @@
   "category": "gen7",
   "isLegendary": true,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen7/0791_solgaleo.gif",
-  "backSprite": "../pokeSprite/gen7/back/0791_solgaleo_back.gif",
+  "sprite": "../pokeSprite/gen7/0791_solgaleo/normal/front.gif",
+  "backSprite": "../pokeSprite/gen7/0791_solgaleo/normal/back.gif",
   "abilities": [
     {
       "id": 230,
@@ -275,8 +275,8 @@
         "types": [
           "psychic"
         ],
-        "sprite": "../pokeSprite/gen7/0789_cosmog.gif",
-        "backSprite": "../pokeSprite/gen7/back/0789_cosmog_back.gif",
+        "sprite": "../pokeSprite/gen7/0789_cosmog/normal/front.gif",
+        "backSprite": "../pokeSprite/gen7/0789_cosmog/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -290,8 +290,8 @@
             "types": [
               "psychic"
             ],
-            "sprite": "../pokeSprite/gen7/0790_cosmoem.gif",
-            "backSprite": "../pokeSprite/gen7/back/0790_cosmoem_back.gif",
+            "sprite": "../pokeSprite/gen7/0790_cosmoem/normal/front.gif",
+            "backSprite": "../pokeSprite/gen7/0790_cosmoem/normal/back.gif",
             "condition": "Level 43",
             "conditionJa": "Lv.43",
             "details": [
@@ -320,8 +320,8 @@
                   "psychic",
                   "steel"
                 ],
-                "sprite": "../pokeSprite/gen7/0791_solgaleo.gif",
-                "backSprite": "../pokeSprite/gen7/back/0791_solgaleo_back.gif",
+                "sprite": "../pokeSprite/gen7/0791_solgaleo/normal/front.gif",
+                "backSprite": "../pokeSprite/gen7/0791_solgaleo/normal/back.gif",
                 "condition": "Level 53",
                 "conditionJa": "Lv.53",
                 "details": [
@@ -351,8 +351,8 @@
                   "psychic",
                   "ghost"
                 ],
-                "sprite": "../pokeSprite/gen7/0792_lunala.gif",
-                "backSprite": "../pokeSprite/gen7/back/0792_lunala_back.gif",
+                "sprite": "../pokeSprite/gen7/0792_lunala/normal/front.gif",
+                "backSprite": "../pokeSprite/gen7/0792_lunala/normal/back.gif",
                 "condition": "Level 53",
                 "conditionJa": "Lv.53",
                 "details": [

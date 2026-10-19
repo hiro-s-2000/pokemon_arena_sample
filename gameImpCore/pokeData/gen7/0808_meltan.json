@@ -11,8 +11,8 @@
   "category": "gen7",
   "isLegendary": false,
   "isMythical": true,
-  "sprite": "../pokeSprite/gen7/0808_meltan.gif",
-  "backSprite": "../pokeSprite/gen7/back/0808_meltan_back.gif",
+  "sprite": "../pokeSprite/gen7/0808_meltan/normal/front.gif",
+  "backSprite": "../pokeSprite/gen7/0808_meltan/normal/back.gif",
   "abilities": [
     {
       "id": 42,
@@ -266,8 +266,8 @@
         "types": [
           "steel"
         ],
-        "sprite": "../pokeSprite/gen7/0808_meltan.gif",
-        "backSprite": "../pokeSprite/gen7/back/0808_meltan_back.gif",
+        "sprite": "../pokeSprite/gen7/0808_meltan/normal/front.gif",
+        "backSprite": "../pokeSprite/gen7/0808_meltan/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -281,8 +281,8 @@
             "types": [
               "steel"
             ],
-            "sprite": "../pokeSprite/gen7/0809_melmetal.gif",
-            "backSprite": "../pokeSprite/gen7/back/0809_melmetal_back.gif",
+            "sprite": "../pokeSprite/gen7/0809_melmetal/normal/front.gif",
+            "backSprite": "../pokeSprite/gen7/0809_melmetal/normal/back.gif",
             "condition": "Feed 400 Meltan Candies in Pokémon GO",
             "conditionJa": "Feed 400 Meltan Candies in Pokémon GO",
             "details": [

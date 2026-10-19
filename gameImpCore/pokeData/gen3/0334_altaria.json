@@ -11,8 +11,8 @@
   "category": "gen3",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen3/0334_altaria.gif",
-  "backSprite": "../pokeSprite/gen3/back/0334_altaria_back.gif",
+  "sprite": "../pokeSprite/gen3/0334_altaria/normal/front.gif",
+  "backSprite": "../pokeSprite/gen3/0334_altaria/normal/back.gif",
   "abilities": [
     {
       "id": 30,
@@ -292,8 +292,8 @@
           "normal",
           "flying"
         ],
-        "sprite": "../pokeSprite/gen3/0333_swablu.gif",
-        "backSprite": "../pokeSprite/gen3/back/0333_swablu_back.gif",
+        "sprite": "../pokeSprite/gen3/0333_swablu/normal/front.gif",
+        "backSprite": "../pokeSprite/gen3/0333_swablu/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -308,8 +308,8 @@
               "dragon",
               "flying"
             ],
-            "sprite": "../pokeSprite/gen3/0334_altaria.gif",
-            "backSprite": "../pokeSprite/gen3/back/0334_altaria_back.gif",
+            "sprite": "../pokeSprite/gen3/0334_altaria/normal/front.gif",
+            "backSprite": "../pokeSprite/gen3/0334_altaria/normal/back.gif",
             "condition": "Level 35",
             "conditionJa": "Lv.35",
             "details": [

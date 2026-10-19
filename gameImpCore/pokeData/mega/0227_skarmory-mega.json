@@ -11,8 +11,8 @@
   "category": "mega",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/mega/0227_skarmory-mega.gif",
-  "backSprite": "../pokeSprite/mega/back/0227_skarmory-mega_back.gif",
+  "sprite": "../pokeSprite/gen2/0227_skarmory/mega/skarmory-mega/front.gif",
+  "backSprite": "../pokeSprite/gen2/0227_skarmory/mega/skarmory-mega/back.gif",
   "abilities": [
     {
       "id": 242,
@@ -256,8 +256,8 @@
           "steel",
           "flying"
         ],
-        "sprite": "../pokeSprite/gen2/0227_skarmory.gif",
-        "backSprite": "../pokeSprite/gen2/back/0227_skarmory_back.gif",
+        "sprite": "../pokeSprite/gen2/0227_skarmory/normal/front.gif",
+        "backSprite": "../pokeSprite/gen2/0227_skarmory/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

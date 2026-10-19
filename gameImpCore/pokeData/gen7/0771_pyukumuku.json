@@ -11,8 +11,8 @@
   "category": "gen7",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen7/0771_pyukumuku.gif",
-  "backSprite": "../pokeSprite/gen7/back/0771_pyukumuku_back.gif",
+  "sprite": "../pokeSprite/gen7/0771_pyukumuku/normal/front.gif",
+  "backSprite": "../pokeSprite/gen7/0771_pyukumuku/normal/back.gif",
   "abilities": [
     {
       "id": 215,
@@ -252,8 +252,8 @@
         "types": [
           "water"
         ],
-        "sprite": "../pokeSprite/gen7/0771_pyukumuku.gif",
-        "backSprite": "../pokeSprite/gen7/back/0771_pyukumuku_back.gif",
+        "sprite": "../pokeSprite/gen7/0771_pyukumuku/normal/front.gif",
+        "backSprite": "../pokeSprite/gen7/0771_pyukumuku/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

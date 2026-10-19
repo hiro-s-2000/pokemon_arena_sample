@@ -11,8 +11,8 @@
   "category": "gen8",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen8/0852_clobbopus.gif",
-  "backSprite": "../pokeSprite/gen8/back/0852_clobbopus_back.gif",
+  "sprite": "../pokeSprite/gen8/0852_clobbopus/normal/front.gif",
+  "backSprite": "../pokeSprite/gen8/0852_clobbopus/normal/back.gif",
   "abilities": [
     {
       "id": 7,
@@ -283,8 +283,8 @@
         "types": [
           "fighting"
         ],
-        "sprite": "../pokeSprite/gen8/0852_clobbopus.gif",
-        "backSprite": "../pokeSprite/gen8/back/0852_clobbopus_back.gif",
+        "sprite": "../pokeSprite/gen8/0852_clobbopus/normal/front.gif",
+        "backSprite": "../pokeSprite/gen8/0852_clobbopus/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -298,8 +298,8 @@
             "types": [
               "fighting"
             ],
-            "sprite": "../pokeSprite/gen8/0853_grapploct.gif",
-            "backSprite": "../pokeSprite/gen8/back/0853_grapploct_back.gif",
+            "sprite": "../pokeSprite/gen8/0853_grapploct/normal/front.gif",
+            "backSprite": "../pokeSprite/gen8/0853_grapploct/normal/back.gif",
             "condition": "Level up knowing Taunt",
             "conditionJa": "レベルアップ（「ちょうはつ」を習得）",
             "details": [

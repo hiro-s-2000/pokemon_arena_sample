@@ -11,8 +11,8 @@
   "category": "gen1",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen1/0101_electrode.gif",
-  "backSprite": "../pokeSprite/gen1/back/0101_electrode_back.gif",
+  "sprite": "../pokeSprite/gen1/0101_electrode/normal/front.gif",
+  "backSprite": "../pokeSprite/gen1/0101_electrode/normal/back.gif",
   "abilities": [
     {
       "id": 43,
@@ -295,8 +295,8 @@
         "types": [
           "electric"
         ],
-        "sprite": "../pokeSprite/gen1/0100_voltorb.gif",
-        "backSprite": "../pokeSprite/gen1/back/0100_voltorb_back.gif",
+        "sprite": "../pokeSprite/gen1/0100_voltorb/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0100_voltorb/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -310,8 +310,8 @@
             "types": [
               "electric"
             ],
-            "sprite": "../pokeSprite/gen1/0101_electrode.gif",
-            "backSprite": "../pokeSprite/gen1/back/0101_electrode_back.gif",
+            "sprite": "../pokeSprite/gen1/0101_electrode/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0101_electrode/normal/back.gif",
             "condition": "Level 30 / Use Leaf Stone",
             "conditionJa": "Lv.30 / 「リーフのいし」を使用",
             "details": [

@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0590_foongus.gif",
-  "backSprite": "../pokeSprite/gen5/back/0590_foongus_back.gif",
+  "sprite": "../pokeSprite/gen5/0590_foongus/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0590_foongus/normal/back.gif",
   "abilities": [
     {
       "id": 27,
@@ -287,8 +287,8 @@
           "grass",
           "poison"
         ],
-        "sprite": "../pokeSprite/gen5/0590_foongus.gif",
-        "backSprite": "../pokeSprite/gen5/back/0590_foongus_back.gif",
+        "sprite": "../pokeSprite/gen5/0590_foongus/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0590_foongus/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -303,8 +303,8 @@
               "grass",
               "poison"
             ],
-            "sprite": "../pokeSprite/gen5/0591_amoonguss.gif",
-            "backSprite": "../pokeSprite/gen5/back/0591_amoonguss_back.gif",
+            "sprite": "../pokeSprite/gen5/0591_amoonguss/normal/front.gif",
+            "backSprite": "../pokeSprite/gen5/0591_amoonguss/normal/back.gif",
             "condition": "Level 39",
             "conditionJa": "Lv.39",
             "details": [

@@ -11,8 +11,8 @@
   "category": "gen9",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen9/0911_skeledirge.gif",
-  "backSprite": "../pokeSprite/gen9/back/0911_skeledirge_back.gif",
+  "sprite": "../pokeSprite/gen9/0911_skeledirge/normal/front.gif",
+  "backSprite": "../pokeSprite/gen9/0911_skeledirge/normal/back.gif",
   "abilities": [
     {
       "id": 66,
@@ -286,8 +286,8 @@
         "types": [
           "fire"
         ],
-        "sprite": "../pokeSprite/gen9/0909_fuecoco.gif",
-        "backSprite": "../pokeSprite/gen9/back/0909_fuecoco_back.gif",
+        "sprite": "../pokeSprite/gen9/0909_fuecoco/normal/front.gif",
+        "backSprite": "../pokeSprite/gen9/0909_fuecoco/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -301,8 +301,8 @@
             "types": [
               "fire"
             ],
-            "sprite": "../pokeSprite/gen9/0910_crocalor.gif",
-            "backSprite": "../pokeSprite/gen9/back/0910_crocalor_back.gif",
+            "sprite": "../pokeSprite/gen9/0910_crocalor/normal/front.gif",
+            "backSprite": "../pokeSprite/gen9/0910_crocalor/normal/back.gif",
             "condition": "Level 16",
             "conditionJa": "Lv.16",
             "details": [
@@ -331,8 +331,8 @@
                   "fire",
                   "ghost"
                 ],
-                "sprite": "../pokeSprite/gen9/0911_skeledirge.gif",
-                "backSprite": "../pokeSprite/gen9/back/0911_skeledirge_back.gif",
+                "sprite": "../pokeSprite/gen9/0911_skeledirge/normal/front.gif",
+                "backSprite": "../pokeSprite/gen9/0911_skeledirge/normal/back.gif",
                 "condition": "Level 36",
                 "conditionJa": "Lv.36",
                 "details": [

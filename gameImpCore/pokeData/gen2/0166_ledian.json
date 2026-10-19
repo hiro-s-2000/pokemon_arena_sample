@@ -11,8 +11,8 @@
   "category": "gen2",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen2/0166_ledian.gif",
-  "backSprite": "../pokeSprite/gen2/back/0166_ledian_back.gif",
+  "sprite": "../pokeSprite/gen2/0166_ledian/normal/front.gif",
+  "backSprite": "../pokeSprite/gen2/0166_ledian/normal/back.gif",
   "abilities": [
     {
       "id": 68,
@@ -297,8 +297,8 @@
           "bug",
           "flying"
         ],
-        "sprite": "../pokeSprite/gen2/0165_ledyba.gif",
-        "backSprite": "../pokeSprite/gen2/back/0165_ledyba_back.gif",
+        "sprite": "../pokeSprite/gen2/0165_ledyba/normal/front.gif",
+        "backSprite": "../pokeSprite/gen2/0165_ledyba/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -313,8 +313,8 @@
               "bug",
               "flying"
             ],
-            "sprite": "../pokeSprite/gen2/0166_ledian.gif",
-            "backSprite": "../pokeSprite/gen2/back/0166_ledian_back.gif",
+            "sprite": "../pokeSprite/gen2/0166_ledian/normal/front.gif",
+            "backSprite": "../pokeSprite/gen2/0166_ledian/normal/back.gif",
             "condition": "Level 18",
             "conditionJa": "Lv.18",
             "details": [

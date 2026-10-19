@@ -11,8 +11,8 @@
   "category": "mega",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/mega/0036_clefable-mega.gif",
-  "backSprite": "../pokeSprite/mega/back/0036_clefable-mega_back.gif",
+  "sprite": "../pokeSprite/gen1/0036_clefable/mega/clefable-mega/front.gif",
+  "backSprite": "../pokeSprite/gen1/0036_clefable/mega/clefable-mega/back.gif",
   "abilities": [
     {
       "id": 156,
@@ -275,8 +275,8 @@
         "types": [
           "fairy"
         ],
-        "sprite": "../pokeSprite/gen2/0173_cleffa.gif",
-        "backSprite": "../pokeSprite/gen2/back/0173_cleffa_back.gif",
+        "sprite": "../pokeSprite/gen2/0173_cleffa/normal/front.gif",
+        "backSprite": "../pokeSprite/gen2/0173_cleffa/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -290,8 +290,8 @@
             "types": [
               "fairy"
             ],
-            "sprite": "../pokeSprite/gen1/0035_clefairy.gif",
-            "backSprite": "../pokeSprite/gen1/back/0035_clefairy_back.gif",
+            "sprite": "../pokeSprite/gen1/0035_clefairy/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0035_clefairy/normal/back.gif",
             "condition": "Level up high Friendship (160+)",
             "conditionJa": "レベルアップ（なつき度160以上）",
             "details": [
@@ -319,8 +319,8 @@
                 "types": [
                   "fairy"
                 ],
-                "sprite": "../pokeSprite/gen1/0036_clefable.gif",
-                "backSprite": "../pokeSprite/gen1/back/0036_clefable_back.gif",
+                "sprite": "../pokeSprite/gen1/0036_clefable/normal/front.gif",
+                "backSprite": "../pokeSprite/gen1/0036_clefable/normal/back.gif",
                 "condition": "Use Moon Stone",
                 "conditionJa": "「つきのいし」を使用",
                 "details": [

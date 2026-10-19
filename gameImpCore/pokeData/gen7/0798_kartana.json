@@ -11,8 +11,8 @@
   "category": "gen7",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen7/0798_kartana.gif",
-  "backSprite": "../pokeSprite/gen7/back/0798_kartana_back.gif",
+  "sprite": "../pokeSprite/gen7/0798_kartana/normal/front.gif",
+  "backSprite": "../pokeSprite/gen7/0798_kartana/normal/back.gif",
   "abilities": [
     {
       "id": 224,
@@ -256,8 +256,8 @@
           "grass",
           "steel"
         ],
-        "sprite": "../pokeSprite/gen7/0798_kartana.gif",
-        "backSprite": "../pokeSprite/gen7/back/0798_kartana_back.gif",
+        "sprite": "../pokeSprite/gen7/0798_kartana/normal/front.gif",
+        "backSprite": "../pokeSprite/gen7/0798_kartana/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

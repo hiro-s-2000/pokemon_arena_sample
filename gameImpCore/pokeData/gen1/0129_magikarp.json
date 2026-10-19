@@ -11,8 +11,8 @@
   "category": "gen1",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen1/0129_magikarp.gif",
-  "backSprite": "../pokeSprite/gen1/back/0129_magikarp_back.gif",
+  "sprite": "../pokeSprite/gen1/0129_magikarp/normal/front.gif",
+  "backSprite": "../pokeSprite/gen1/0129_magikarp/normal/back.gif",
   "abilities": [
     {
       "id": 33,
@@ -281,8 +281,8 @@
         "types": [
           "water"
         ],
-        "sprite": "../pokeSprite/gen1/0129_magikarp.gif",
-        "backSprite": "../pokeSprite/gen1/back/0129_magikarp_back.gif",
+        "sprite": "../pokeSprite/gen1/0129_magikarp/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0129_magikarp/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -297,8 +297,8 @@
               "water",
               "flying"
             ],
-            "sprite": "../pokeSprite/gen1/0130_gyarados.gif",
-            "backSprite": "../pokeSprite/gen1/back/0130_gyarados_back.gif",
+            "sprite": "../pokeSprite/gen1/0130_gyarados/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0130_gyarados/normal/back.gif",
             "condition": "Level 20",
             "conditionJa": "Lv.20",
             "details": [

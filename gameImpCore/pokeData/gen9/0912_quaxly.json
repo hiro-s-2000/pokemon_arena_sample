@@ -11,8 +11,8 @@
   "category": "gen9",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen9/0912_quaxly.gif",
-  "backSprite": "../pokeSprite/gen9/back/0912_quaxly_back.gif",
+  "sprite": "../pokeSprite/gen9/0912_quaxly/normal/front.gif",
+  "backSprite": "../pokeSprite/gen9/0912_quaxly/normal/back.gif",
   "abilities": [
     {
       "id": 67,
@@ -281,8 +281,8 @@
         "types": [
           "water"
         ],
-        "sprite": "../pokeSprite/gen9/0912_quaxly.gif",
-        "backSprite": "../pokeSprite/gen9/back/0912_quaxly_back.gif",
+        "sprite": "../pokeSprite/gen9/0912_quaxly/normal/front.gif",
+        "backSprite": "../pokeSprite/gen9/0912_quaxly/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -296,8 +296,8 @@
             "types": [
               "water"
             ],
-            "sprite": "../pokeSprite/gen9/0913_quaxwell.gif",
-            "backSprite": "../pokeSprite/gen9/back/0913_quaxwell_back.gif",
+            "sprite": "../pokeSprite/gen9/0913_quaxwell/normal/front.gif",
+            "backSprite": "../pokeSprite/gen9/0913_quaxwell/normal/back.gif",
             "condition": "Level 16",
             "conditionJa": "Lv.16",
             "details": [
@@ -326,8 +326,8 @@
                   "water",
                   "fighting"
                 ],
-                "sprite": "../pokeSprite/gen9/0914_quaquaval.gif",
-                "backSprite": "../pokeSprite/gen9/back/0914_quaquaval_back.gif",
+                "sprite": "../pokeSprite/gen9/0914_quaquaval/normal/front.gif",
+                "backSprite": "../pokeSprite/gen9/0914_quaquaval/normal/back.gif",
                 "condition": "Level 36",
                 "conditionJa": "Lv.36",
                 "details": [

@@ -11,8 +11,8 @@
   "category": "gen4",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen4/0458_mantyke.gif",
-  "backSprite": "../pokeSprite/gen4/back/0458_mantyke_back.gif",
+  "sprite": "../pokeSprite/gen4/0458_mantyke/normal/front.gif",
+  "backSprite": "../pokeSprite/gen4/0458_mantyke/normal/back.gif",
   "abilities": [
     {
       "id": 33,
@@ -299,8 +299,8 @@
           "water",
           "flying"
         ],
-        "sprite": "../pokeSprite/gen4/0458_mantyke.gif",
-        "backSprite": "../pokeSprite/gen4/back/0458_mantyke_back.gif",
+        "sprite": "../pokeSprite/gen4/0458_mantyke/normal/front.gif",
+        "backSprite": "../pokeSprite/gen4/0458_mantyke/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -315,8 +315,8 @@
               "water",
               "flying"
             ],
-            "sprite": "../pokeSprite/gen2/0226_mantine.gif",
-            "backSprite": "../pokeSprite/gen2/back/0226_mantine_back.gif",
+            "sprite": "../pokeSprite/gen2/0226_mantine/normal/front.gif",
+            "backSprite": "../pokeSprite/gen2/0226_mantine/normal/back.gif",
             "condition": "Level up",
             "conditionJa": "レベルアップ",
             "details": [

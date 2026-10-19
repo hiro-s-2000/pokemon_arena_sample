@@ -11,8 +11,8 @@
   "category": "gen3",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen3/0267_beautifly.gif",
-  "backSprite": "../pokeSprite/gen3/back/0267_beautifly_back.gif",
+  "sprite": "../pokeSprite/gen3/0267_beautifly/normal/front.gif",
+  "backSprite": "../pokeSprite/gen3/0267_beautifly/normal/back.gif",
   "abilities": [
     {
       "id": 68,
@@ -286,8 +286,8 @@
         "types": [
           "bug"
         ],
-        "sprite": "../pokeSprite/gen3/0265_wurmple.gif",
-        "backSprite": "../pokeSprite/gen3/back/0265_wurmple_back.gif",
+        "sprite": "../pokeSprite/gen3/0265_wurmple/normal/front.gif",
+        "backSprite": "../pokeSprite/gen3/0265_wurmple/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -301,8 +301,8 @@
             "types": [
               "bug"
             ],
-            "sprite": "../pokeSprite/gen3/0266_silcoon.gif",
-            "backSprite": "../pokeSprite/gen3/back/0266_silcoon_back.gif",
+            "sprite": "../pokeSprite/gen3/0266_silcoon/normal/front.gif",
+            "backSprite": "../pokeSprite/gen3/0266_silcoon/normal/back.gif",
             "condition": "Level 7",
             "conditionJa": "Lv.7",
             "details": [
@@ -344,8 +344,8 @@
                   "bug",
                   "flying"
                 ],
-                "sprite": "../pokeSprite/gen3/0267_beautifly.gif",
-                "backSprite": "../pokeSprite/gen3/back/0267_beautifly_back.gif",
+                "sprite": "../pokeSprite/gen3/0267_beautifly/normal/front.gif",
+                "backSprite": "../pokeSprite/gen3/0267_beautifly/normal/back.gif",
                 "condition": "Level 10",
                 "conditionJa": "Lv.10",
                 "details": [
@@ -376,8 +376,8 @@
             "types": [
               "bug"
             ],
-            "sprite": "../pokeSprite/gen3/0268_cascoon.gif",
-            "backSprite": "../pokeSprite/gen3/back/0268_cascoon_back.gif",
+            "sprite": "../pokeSprite/gen3/0268_cascoon/normal/front.gif",
+            "backSprite": "../pokeSprite/gen3/0268_cascoon/normal/back.gif",
             "condition": "Level 7",
             "conditionJa": "Lv.7",
             "details": [
@@ -419,8 +419,8 @@
                   "bug",
                   "poison"
                 ],
-                "sprite": "../pokeSprite/gen3/0269_dustox.gif",
-                "backSprite": "../pokeSprite/gen3/back/0269_dustox_back.gif",
+                "sprite": "../pokeSprite/gen3/0269_dustox/normal/front.gif",
+                "backSprite": "../pokeSprite/gen3/0269_dustox/normal/back.gif",
                 "condition": "Level 10",
                 "conditionJa": "Lv.10",
                 "details": [

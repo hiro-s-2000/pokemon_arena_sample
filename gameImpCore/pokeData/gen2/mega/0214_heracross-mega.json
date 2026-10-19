@@ -11,8 +11,8 @@
   "category": "mega",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/mega/0214_heracross-mega.gif",
-  "backSprite": "../pokeSprite/mega/back/0214_heracross-mega_back.gif",
+  "sprite": "../pokeSprite/gen2/0214_heracross/mega/heracross-mega/front.gif",
+  "backSprite": "../pokeSprite/gen2/0214_heracross/mega/heracross-mega/back.gif",
   "abilities": [
     {
       "id": 92,
@@ -256,8 +256,8 @@
           "bug",
           "fighting"
         ],
-        "sprite": "../pokeSprite/gen2/0214_heracross.gif",
-        "backSprite": "../pokeSprite/gen2/back/0214_heracross_back.gif",
+        "sprite": "../pokeSprite/gen2/0214_heracross/normal/front.gif",
+        "backSprite": "../pokeSprite/gen2/0214_heracross/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

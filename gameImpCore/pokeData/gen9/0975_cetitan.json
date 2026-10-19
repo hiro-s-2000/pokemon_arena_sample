@@ -11,8 +11,8 @@
   "category": "gen9",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen9/0975_cetitan.gif",
-  "backSprite": "../pokeSprite/gen9/back/0975_cetitan_back.gif",
+  "sprite": "../pokeSprite/gen9/0975_cetitan/normal/front.gif",
+  "backSprite": "../pokeSprite/gen9/0975_cetitan/normal/back.gif",
   "abilities": [
     {
       "id": 47,
@@ -284,8 +284,8 @@
         "types": [
           "ice"
         ],
-        "sprite": "../pokeSprite/gen9/0974_cetoddle.gif",
-        "backSprite": "../pokeSprite/gen9/back/0974_cetoddle_back.gif",
+        "sprite": "../pokeSprite/gen9/0974_cetoddle/normal/front.gif",
+        "backSprite": "../pokeSprite/gen9/0974_cetoddle/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -299,8 +299,8 @@
             "types": [
               "ice"
             ],
-            "sprite": "../pokeSprite/gen9/0975_cetitan.gif",
-            "backSprite": "../pokeSprite/gen9/back/0975_cetitan_back.gif",
+            "sprite": "../pokeSprite/gen9/0975_cetitan/normal/front.gif",
+            "backSprite": "../pokeSprite/gen9/0975_cetitan/normal/back.gif",
             "condition": "Use Ice Stone",
             "conditionJa": "「こおりのいし」を使用",
             "details": [

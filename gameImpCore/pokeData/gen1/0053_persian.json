@@ -11,8 +11,8 @@
   "category": "gen1",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen1/0053_persian.gif",
-  "backSprite": "../pokeSprite/gen1/back/0053_persian_back.gif",
+  "sprite": "../pokeSprite/gen1/0053_persian/normal/front.gif",
+  "backSprite": "../pokeSprite/gen1/0053_persian/normal/back.gif",
   "abilities": [
     {
       "id": 7,
@@ -292,8 +292,8 @@
         "types": [
           "normal"
         ],
-        "sprite": "../pokeSprite/gen1/0052_meowth.gif",
-        "backSprite": "../pokeSprite/gen1/back/0052_meowth_back.gif",
+        "sprite": "../pokeSprite/gen1/0052_meowth/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0052_meowth/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -307,8 +307,8 @@
             "types": [
               "normal"
             ],
-            "sprite": "../pokeSprite/gen1/0053_persian.gif",
-            "backSprite": "../pokeSprite/gen1/back/0053_persian_back.gif",
+            "sprite": "../pokeSprite/gen1/0053_persian/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0053_persian/normal/back.gif",
             "condition": "Level 28 / Level up high Friendship (160+)",
             "conditionJa": "Lv.28 / レベルアップ（なつき度160以上）",
             "details": [
@@ -350,8 +350,8 @@
             "types": [
               "steel"
             ],
-            "sprite": "../pokeSprite/gen8/0863_perrserker.gif",
-            "backSprite": "../pokeSprite/gen8/back/0863_perrserker_back.gif",
+            "sprite": "../pokeSprite/gen8/0863_perrserker/normal/front.gif",
+            "backSprite": "../pokeSprite/gen8/0863_perrserker/normal/back.gif",
             "condition": "Level 28",
             "conditionJa": "Lv.28",
             "details": [

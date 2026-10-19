@@ -11,8 +11,8 @@
   "category": "gen1",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen1/0049_venomoth.gif",
-  "backSprite": "../pokeSprite/gen1/back/0049_venomoth_back.gif",
+  "sprite": "../pokeSprite/gen1/0049_venomoth/normal/front.gif",
+  "backSprite": "../pokeSprite/gen1/0049_venomoth/normal/back.gif",
   "abilities": [
     {
       "id": 19,
@@ -300,8 +300,8 @@
           "bug",
           "poison"
         ],
-        "sprite": "../pokeSprite/gen1/0048_venonat.gif",
-        "backSprite": "../pokeSprite/gen1/back/0048_venonat_back.gif",
+        "sprite": "../pokeSprite/gen1/0048_venonat/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0048_venonat/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -316,8 +316,8 @@
               "bug",
               "poison"
             ],
-            "sprite": "../pokeSprite/gen1/0049_venomoth.gif",
-            "backSprite": "../pokeSprite/gen1/back/0049_venomoth_back.gif",
+            "sprite": "../pokeSprite/gen1/0049_venomoth/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0049_venomoth/normal/back.gif",
             "condition": "Level 31",
             "conditionJa": "Lv.31",
             "details": [

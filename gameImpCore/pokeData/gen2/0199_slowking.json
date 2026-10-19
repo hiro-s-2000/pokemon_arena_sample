@@ -11,8 +11,8 @@
   "category": "gen2",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen2/0199_slowking.gif",
-  "backSprite": "../pokeSprite/gen2/back/0199_slowking_back.gif",
+  "sprite": "../pokeSprite/gen2/0199_slowking/normal/front.gif",
+  "backSprite": "../pokeSprite/gen2/0199_slowking/normal/back.gif",
   "abilities": [
     {
       "id": 12,
@@ -313,8 +313,8 @@
           "water",
           "psychic"
         ],
-        "sprite": "../pokeSprite/gen1/0079_slowpoke.gif",
-        "backSprite": "../pokeSprite/gen1/back/0079_slowpoke_back.gif",
+        "sprite": "../pokeSprite/gen1/0079_slowpoke/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0079_slowpoke/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -329,8 +329,8 @@
               "water",
               "psychic"
             ],
-            "sprite": "../pokeSprite/gen1/0080_slowbro.gif",
-            "backSprite": "../pokeSprite/gen1/back/0080_slowbro_back.gif",
+            "sprite": "../pokeSprite/gen1/0080_slowbro/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0080_slowbro/normal/back.gif",
             "condition": "Level 37 / Use Galarica Cuff",
             "conditionJa": "Lv.37 / 「ガラナツブレス」を使用",
             "details": [
@@ -373,8 +373,8 @@
               "water",
               "psychic"
             ],
-            "sprite": "../pokeSprite/gen2/0199_slowking.gif",
-            "backSprite": "../pokeSprite/gen2/back/0199_slowking_back.gif",
+            "sprite": "../pokeSprite/gen2/0199_slowking/normal/front.gif",
+            "backSprite": "../pokeSprite/gen2/0199_slowking/normal/back.gif",
             "condition": "Trade holding King’s Rock / Use Galarica Wreath",
             "conditionJa": "通信交換（おうじゃのしるしを持たせる） / 「ガラナツリース」を使用",
             "details": [

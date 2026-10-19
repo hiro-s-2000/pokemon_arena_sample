@@ -11,8 +11,8 @@
   "category": "gen1",
   "isLegendary": true,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen1/0150_mewtwo.gif",
-  "backSprite": "../pokeSprite/gen1/back/0150_mewtwo_back.gif",
+  "sprite": "../pokeSprite/gen1/0150_mewtwo/normal/front.gif",
+  "backSprite": "../pokeSprite/gen1/0150_mewtwo/normal/back.gif",
   "abilities": [
     {
       "id": 46,
@@ -251,8 +251,8 @@
         "types": [
           "psychic"
         ],
-        "sprite": "../pokeSprite/gen1/0150_mewtwo.gif",
-        "backSprite": "../pokeSprite/gen1/back/0150_mewtwo_back.gif",
+        "sprite": "../pokeSprite/gen1/0150_mewtwo/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0150_mewtwo/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

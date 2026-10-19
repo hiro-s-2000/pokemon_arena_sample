@@ -11,8 +11,8 @@
   "category": "gen8",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen8/0840_applin.gif",
-  "backSprite": "../pokeSprite/gen8/back/0840_applin_back.gif",
+  "sprite": "../pokeSprite/gen8/0840_applin/normal/front.gif",
+  "backSprite": "../pokeSprite/gen8/0840_applin/normal/back.gif",
   "abilities": [
     {
       "id": 247,
@@ -347,8 +347,8 @@
           "grass",
           "dragon"
         ],
-        "sprite": "../pokeSprite/gen8/0840_applin.gif",
-        "backSprite": "../pokeSprite/gen8/back/0840_applin_back.gif",
+        "sprite": "../pokeSprite/gen8/0840_applin/normal/front.gif",
+        "backSprite": "../pokeSprite/gen8/0840_applin/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -363,8 +363,8 @@
               "grass",
               "dragon"
             ],
-            "sprite": "../pokeSprite/gen8/0841_flapple.gif",
-            "backSprite": "../pokeSprite/gen8/back/0841_flapple_back.gif",
+            "sprite": "../pokeSprite/gen8/0841_flapple/normal/front.gif",
+            "backSprite": "../pokeSprite/gen8/0841_flapple/normal/back.gif",
             "condition": "Use Tart Apple",
             "conditionJa": "「すっぱいりんご」を使用",
             "details": [
@@ -394,8 +394,8 @@
               "grass",
               "dragon"
             ],
-            "sprite": "../pokeSprite/gen8/0842_appletun.gif",
-            "backSprite": "../pokeSprite/gen8/back/0842_appletun_back.gif",
+            "sprite": "../pokeSprite/gen8/0842_appletun/normal/front.gif",
+            "backSprite": "../pokeSprite/gen8/0842_appletun/normal/back.gif",
             "condition": "Use Sweet Apple",
             "conditionJa": "「あまーいりんご」を使用",
             "details": [
@@ -425,8 +425,8 @@
               "grass",
               "dragon"
             ],
-            "sprite": "../pokeSprite/gen9/1011_dipplin.gif",
-            "backSprite": "../pokeSprite/gen9/back/1011_dipplin_back.gif",
+            "sprite": "../pokeSprite/gen9/1011_dipplin/normal/front.gif",
+            "backSprite": "../pokeSprite/gen9/1011_dipplin/normal/back.gif",
             "condition": "Use Syrupy Apple",
             "conditionJa": "「みついりりんご」を使用",
             "details": [
@@ -455,8 +455,8 @@
                   "grass",
                   "dragon"
                 ],
-                "sprite": "../pokeSprite/gen9/1019_hydrapple.gif",
-                "backSprite": "../pokeSprite/gen9/back/1019_hydrapple_back.gif",
+                "sprite": "../pokeSprite/gen9/1019_hydrapple/normal/front.gif",
+                "backSprite": "../pokeSprite/gen9/1019_hydrapple/normal/back.gif",
                 "condition": "Level up knowing Dragon Cheer",
                 "conditionJa": "レベルアップ（「ドラゴンエール」を習得）",
                 "details": [

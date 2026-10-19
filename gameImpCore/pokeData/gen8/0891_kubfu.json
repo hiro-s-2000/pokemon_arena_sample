@@ -11,8 +11,8 @@
   "category": "gen8",
   "isLegendary": true,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen8/0891_kubfu.gif",
-  "backSprite": "../pokeSprite/gen8/back/0891_kubfu_back.gif",
+  "sprite": "../pokeSprite/gen8/0891_kubfu/normal/front.gif",
+  "backSprite": "../pokeSprite/gen8/0891_kubfu/normal/back.gif",
   "abilities": [
     {
       "id": 39,
@@ -306,8 +306,8 @@
         "types": [
           "fighting"
         ],
-        "sprite": "../pokeSprite/gen8/0891_kubfu.gif",
-        "backSprite": "../pokeSprite/gen8/back/0891_kubfu_back.gif",
+        "sprite": "../pokeSprite/gen8/0891_kubfu/normal/front.gif",
+        "backSprite": "../pokeSprite/gen8/0891_kubfu/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -322,8 +322,8 @@
               "fighting",
               "dark"
             ],
-            "sprite": "../pokeSprite/gen8/0892_urshifu-single-strike.gif",
-            "backSprite": "../pokeSprite/gen8/back/0892_urshifu-single-strike_back.gif",
+            "sprite": "../pokeSprite/gen8/0892_urshifu-single-strike/normal/front.gif",
+            "backSprite": "../pokeSprite/gen8/0892_urshifu-single-strike/normal/back.gif",
             "condition": "Train in the Tower of Darkness / Train in the Tower of Waters / Use Scroll of Darkness / Use Scroll of Waters",
             "conditionJa": "Train in the Tower of Darkness / Train in the Tower of Waters / 「あくのかけじく」を使用 / 「みずのかけじく」を使用",
             "details": [

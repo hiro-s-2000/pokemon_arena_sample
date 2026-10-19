@@ -11,8 +11,8 @@
   "category": "gen1",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen1/0140_kabuto.gif",
-  "backSprite": "../pokeSprite/gen1/back/0140_kabuto_back.gif",
+  "sprite": "../pokeSprite/gen1/0140_kabuto/normal/front.gif",
+  "backSprite": "../pokeSprite/gen1/0140_kabuto/normal/back.gif",
   "abilities": [
     {
       "id": 33,
@@ -305,8 +305,8 @@
           "rock",
           "water"
         ],
-        "sprite": "../pokeSprite/gen1/0140_kabuto.gif",
-        "backSprite": "../pokeSprite/gen1/back/0140_kabuto_back.gif",
+        "sprite": "../pokeSprite/gen1/0140_kabuto/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0140_kabuto/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -321,8 +321,8 @@
               "rock",
               "water"
             ],
-            "sprite": "../pokeSprite/gen1/0141_kabutops.gif",
-            "backSprite": "../pokeSprite/gen1/back/0141_kabutops_back.gif",
+            "sprite": "../pokeSprite/gen1/0141_kabutops/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0141_kabutops/normal/back.gif",
             "condition": "Level 40",
             "conditionJa": "Lv.40",
             "details": [

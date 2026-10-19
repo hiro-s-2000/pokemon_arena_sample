@@ -11,8 +11,8 @@
   "category": "gen1",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen1/0114_tangela.gif",
-  "backSprite": "../pokeSprite/gen1/back/0114_tangela_back.gif",
+  "sprite": "../pokeSprite/gen1/0114_tangela/normal/front.gif",
+  "backSprite": "../pokeSprite/gen1/0114_tangela/normal/back.gif",
   "abilities": [
     {
       "id": 34,
@@ -285,8 +285,8 @@
         "types": [
           "grass"
         ],
-        "sprite": "../pokeSprite/gen1/0114_tangela.gif",
-        "backSprite": "../pokeSprite/gen1/back/0114_tangela_back.gif",
+        "sprite": "../pokeSprite/gen1/0114_tangela/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0114_tangela/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -300,8 +300,8 @@
             "types": [
               "grass"
             ],
-            "sprite": "../pokeSprite/gen4/0465_tangrowth.gif",
-            "backSprite": "../pokeSprite/gen4/back/0465_tangrowth_back.gif",
+            "sprite": "../pokeSprite/gen4/0465_tangrowth/normal/front.gif",
+            "backSprite": "../pokeSprite/gen4/0465_tangrowth/normal/back.gif",
             "condition": "Level up knowing Ancient Power",
             "conditionJa": "レベルアップ（「げんしのちから」を習得）",
             "details": [

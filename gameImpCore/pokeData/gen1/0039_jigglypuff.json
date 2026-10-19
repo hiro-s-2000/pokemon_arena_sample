@@ -11,8 +11,8 @@
   "category": "gen1",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen1/0039_jigglypuff.gif",
-  "backSprite": "../pokeSprite/gen1/back/0039_jigglypuff_back.gif",
+  "sprite": "../pokeSprite/gen1/0039_jigglypuff/normal/front.gif",
+  "backSprite": "../pokeSprite/gen1/0039_jigglypuff/normal/back.gif",
   "abilities": [
     {
       "id": 56,
@@ -316,8 +316,8 @@
           "normal",
           "fairy"
         ],
-        "sprite": "../pokeSprite/gen2/0174_igglybuff.gif",
-        "backSprite": "../pokeSprite/gen2/back/0174_igglybuff_back.gif",
+        "sprite": "../pokeSprite/gen2/0174_igglybuff/normal/front.gif",
+        "backSprite": "../pokeSprite/gen2/0174_igglybuff/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -332,8 +332,8 @@
               "normal",
               "fairy"
             ],
-            "sprite": "../pokeSprite/gen1/0039_jigglypuff.gif",
-            "backSprite": "../pokeSprite/gen1/back/0039_jigglypuff_back.gif",
+            "sprite": "../pokeSprite/gen1/0039_jigglypuff/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0039_jigglypuff/normal/back.gif",
             "condition": "Level up high Friendship (160+)",
             "conditionJa": "レベルアップ（なつき度160以上）",
             "details": [
@@ -362,8 +362,8 @@
                   "normal",
                   "fairy"
                 ],
-                "sprite": "../pokeSprite/gen1/0040_wigglytuff.gif",
-                "backSprite": "../pokeSprite/gen1/back/0040_wigglytuff_back.gif",
+                "sprite": "../pokeSprite/gen1/0040_wigglytuff/normal/front.gif",
+                "backSprite": "../pokeSprite/gen1/0040_wigglytuff/normal/back.gif",
                 "condition": "Use Moon Stone",
                 "conditionJa": "「つきのいし」を使用",
                 "details": [

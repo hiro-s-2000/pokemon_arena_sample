@@ -11,8 +11,8 @@
   "category": "gen3",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen3/0277_swellow.gif",
-  "backSprite": "../pokeSprite/gen3/back/0277_swellow_back.gif",
+  "sprite": "../pokeSprite/gen3/0277_swellow/normal/front.gif",
+  "backSprite": "../pokeSprite/gen3/0277_swellow/normal/back.gif",
   "abilities": [
     {
       "id": 62,
@@ -283,8 +283,8 @@
           "normal",
           "flying"
         ],
-        "sprite": "../pokeSprite/gen3/0276_taillow.gif",
-        "backSprite": "../pokeSprite/gen3/back/0276_taillow_back.gif",
+        "sprite": "../pokeSprite/gen3/0276_taillow/normal/front.gif",
+        "backSprite": "../pokeSprite/gen3/0276_taillow/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -299,8 +299,8 @@
               "normal",
               "flying"
             ],
-            "sprite": "../pokeSprite/gen3/0277_swellow.gif",
-            "backSprite": "../pokeSprite/gen3/back/0277_swellow_back.gif",
+            "sprite": "../pokeSprite/gen3/0277_swellow/normal/front.gif",
+            "backSprite": "../pokeSprite/gen3/0277_swellow/normal/back.gif",
             "condition": "Level 22",
             "conditionJa": "Lv.22",
             "details": [

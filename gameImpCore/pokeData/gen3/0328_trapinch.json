@@ -11,8 +11,8 @@
   "category": "gen3",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen3/0328_trapinch.gif",
-  "backSprite": "../pokeSprite/gen3/back/0328_trapinch_back.gif",
+  "sprite": "../pokeSprite/gen3/0328_trapinch/normal/front.gif",
+  "backSprite": "../pokeSprite/gen3/0328_trapinch/normal/back.gif",
   "abilities": [
     {
       "id": 52,
@@ -294,8 +294,8 @@
         "types": [
           "ground"
         ],
-        "sprite": "../pokeSprite/gen3/0328_trapinch.gif",
-        "backSprite": "../pokeSprite/gen3/back/0328_trapinch_back.gif",
+        "sprite": "../pokeSprite/gen3/0328_trapinch/normal/front.gif",
+        "backSprite": "../pokeSprite/gen3/0328_trapinch/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -310,8 +310,8 @@
               "ground",
               "dragon"
             ],
-            "sprite": "../pokeSprite/gen3/0329_vibrava.gif",
-            "backSprite": "../pokeSprite/gen3/back/0329_vibrava_back.gif",
+            "sprite": "../pokeSprite/gen3/0329_vibrava/normal/front.gif",
+            "backSprite": "../pokeSprite/gen3/0329_vibrava/normal/back.gif",
             "condition": "Level 35",
             "conditionJa": "Lv.35",
             "details": [
@@ -340,8 +340,8 @@
                   "ground",
                   "dragon"
                 ],
-                "sprite": "../pokeSprite/gen3/0330_flygon.gif",
-                "backSprite": "../pokeSprite/gen3/back/0330_flygon_back.gif",
+                "sprite": "../pokeSprite/gen3/0330_flygon/normal/front.gif",
+                "backSprite": "../pokeSprite/gen3/0330_flygon/normal/back.gif",
                 "condition": "Level 45",
                 "conditionJa": "Lv.45",
                 "details": [

@@ -11,8 +11,8 @@
   "category": "gen9",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen9/0944_shroodle.gif",
-  "backSprite": "../pokeSprite/gen9/back/0944_shroodle_back.gif",
+  "sprite": "../pokeSprite/gen9/0944_shroodle/normal/front.gif",
+  "backSprite": "../pokeSprite/gen9/0944_shroodle/normal/back.gif",
   "abilities": [
     {
       "id": 84,
@@ -294,8 +294,8 @@
           "poison",
           "normal"
         ],
-        "sprite": "../pokeSprite/gen9/0944_shroodle.gif",
-        "backSprite": "../pokeSprite/gen9/back/0944_shroodle_back.gif",
+        "sprite": "../pokeSprite/gen9/0944_shroodle/normal/front.gif",
+        "backSprite": "../pokeSprite/gen9/0944_shroodle/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -310,8 +310,8 @@
               "poison",
               "normal"
             ],
-            "sprite": "../pokeSprite/gen9/0945_grafaiai.gif",
-            "backSprite": "../pokeSprite/gen9/back/0945_grafaiai_back.gif",
+            "sprite": "../pokeSprite/gen9/0945_grafaiai/normal/front.gif",
+            "backSprite": "../pokeSprite/gen9/0945_grafaiai/normal/back.gif",
             "condition": "Level 28",
             "conditionJa": "Lv.28",
             "details": [

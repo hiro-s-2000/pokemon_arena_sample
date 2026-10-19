@@ -11,8 +11,8 @@
   "category": "gen9",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen9/0972_houndstone.gif",
-  "backSprite": "../pokeSprite/gen9/back/0972_houndstone_back.gif",
+  "sprite": "../pokeSprite/gen9/0972_houndstone/normal/front.gif",
+  "backSprite": "../pokeSprite/gen9/0972_houndstone/normal/back.gif",
   "abilities": [
     {
       "id": 146,
@@ -273,8 +273,8 @@
         "types": [
           "ghost"
         ],
-        "sprite": "../pokeSprite/gen9/0971_greavard.gif",
-        "backSprite": "../pokeSprite/gen9/back/0971_greavard_back.gif",
+        "sprite": "../pokeSprite/gen9/0971_greavard/normal/front.gif",
+        "backSprite": "../pokeSprite/gen9/0971_greavard/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -288,8 +288,8 @@
             "types": [
               "ghost"
             ],
-            "sprite": "../pokeSprite/gen9/0972_houndstone.gif",
-            "backSprite": "../pokeSprite/gen9/back/0972_houndstone_back.gif",
+            "sprite": "../pokeSprite/gen9/0972_houndstone/normal/front.gif",
+            "backSprite": "../pokeSprite/gen9/0972_houndstone/normal/back.gif",
             "condition": "Level 30 at night",
             "conditionJa": "Lv.30（night）",
             "details": [

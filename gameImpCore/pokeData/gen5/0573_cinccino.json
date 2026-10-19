@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0573_cinccino.gif",
-  "backSprite": "../pokeSprite/gen5/back/0573_cinccino_back.gif",
+  "sprite": "../pokeSprite/gen5/0573_cinccino/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0573_cinccino/normal/back.gif",
   "abilities": [
     {
       "id": 56,
@@ -279,8 +279,8 @@
         "types": [
           "normal"
         ],
-        "sprite": "../pokeSprite/gen5/0572_minccino.gif",
-        "backSprite": "../pokeSprite/gen5/back/0572_minccino_back.gif",
+        "sprite": "../pokeSprite/gen5/0572_minccino/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0572_minccino/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -294,8 +294,8 @@
             "types": [
               "normal"
             ],
-            "sprite": "../pokeSprite/gen5/0573_cinccino.gif",
-            "backSprite": "../pokeSprite/gen5/back/0573_cinccino_back.gif",
+            "sprite": "../pokeSprite/gen5/0573_cinccino/normal/front.gif",
+            "backSprite": "../pokeSprite/gen5/0573_cinccino/normal/back.gif",
             "condition": "Use Shiny Stone",
             "conditionJa": "「ひかりのいし」を使用",
             "details": [

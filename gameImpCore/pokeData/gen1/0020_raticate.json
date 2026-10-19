@@ -11,8 +11,8 @@
   "category": "gen1",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen1/0020_raticate.gif",
-  "backSprite": "../pokeSprite/gen1/back/0020_raticate_back.gif",
+  "sprite": "../pokeSprite/gen1/0020_raticate/normal/front.gif",
+  "backSprite": "../pokeSprite/gen1/0020_raticate/normal/back.gif",
   "abilities": [
     {
       "id": 50,
@@ -292,8 +292,8 @@
         "types": [
           "normal"
         ],
-        "sprite": "../pokeSprite/gen1/0019_rattata.gif",
-        "backSprite": "../pokeSprite/gen1/back/0019_rattata_back.gif",
+        "sprite": "../pokeSprite/gen1/0019_rattata/normal/front.gif",
+        "backSprite": "../pokeSprite/gen1/0019_rattata/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -307,8 +307,8 @@
             "types": [
               "normal"
             ],
-            "sprite": "../pokeSprite/gen1/0020_raticate.gif",
-            "backSprite": "../pokeSprite/gen1/back/0020_raticate_back.gif",
+            "sprite": "../pokeSprite/gen1/0020_raticate/normal/front.gif",
+            "backSprite": "../pokeSprite/gen1/0020_raticate/normal/back.gif",
             "condition": "Level 20 / Level 20 at night",
             "conditionJa": "Lv.20 / Lv.20（night）",
             "details": [

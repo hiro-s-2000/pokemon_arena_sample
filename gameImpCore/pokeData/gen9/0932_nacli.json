@@ -11,8 +11,8 @@
   "category": "gen9",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen9/0932_nacli.gif",
-  "backSprite": "../pokeSprite/gen9/back/0932_nacli_back.gif",
+  "sprite": "../pokeSprite/gen9/0932_nacli/normal/front.gif",
+  "backSprite": "../pokeSprite/gen9/0932_nacli/normal/back.gif",
   "abilities": [
     {
       "id": 272,
@@ -286,8 +286,8 @@
         "types": [
           "rock"
         ],
-        "sprite": "../pokeSprite/gen9/0932_nacli.gif",
-        "backSprite": "../pokeSprite/gen9/back/0932_nacli_back.gif",
+        "sprite": "../pokeSprite/gen9/0932_nacli/normal/front.gif",
+        "backSprite": "../pokeSprite/gen9/0932_nacli/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -301,8 +301,8 @@
             "types": [
               "rock"
             ],
-            "sprite": "../pokeSprite/gen9/0933_naclstack.gif",
-            "backSprite": "../pokeSprite/gen9/back/0933_naclstack_back.gif",
+            "sprite": "../pokeSprite/gen9/0933_naclstack/normal/front.gif",
+            "backSprite": "../pokeSprite/gen9/0933_naclstack/normal/back.gif",
             "condition": "Level 24",
             "conditionJa": "Lv.24",
             "details": [
@@ -330,8 +330,8 @@
                 "types": [
                   "rock"
                 ],
-                "sprite": "../pokeSprite/gen9/0934_garganacl.gif",
-                "backSprite": "../pokeSprite/gen9/back/0934_garganacl_back.gif",
+                "sprite": "../pokeSprite/gen9/0934_garganacl/normal/front.gif",
+                "backSprite": "../pokeSprite/gen9/0934_garganacl/normal/back.gif",
                 "condition": "Level 38",
                 "conditionJa": "Lv.38",
                 "details": [

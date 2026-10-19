@@ -11,8 +11,8 @@
   "category": "gen9",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen9/0995_iron-thorns.gif",
-  "backSprite": "../pokeSprite/gen9/back/0995_iron-thorns_back.gif",
+  "sprite": "../pokeSprite/gen9/0995_iron-thorns/normal/front.gif",
+  "backSprite": "../pokeSprite/gen9/0995_iron-thorns/normal/back.gif",
   "abilities": [
     {
       "id": 282,
@@ -255,8 +255,8 @@
           "rock",
           "electric"
         ],
-        "sprite": "../pokeSprite/gen9/0995_iron-thorns.gif",
-        "backSprite": "../pokeSprite/gen9/back/0995_iron-thorns_back.gif",
+        "sprite": "../pokeSprite/gen9/0995_iron-thorns/normal/front.gif",
+        "backSprite": "../pokeSprite/gen9/0995_iron-thorns/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],

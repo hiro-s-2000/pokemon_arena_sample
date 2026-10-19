@@ -11,8 +11,8 @@
   "category": "gen6",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen6/0654_braixen.gif",
-  "backSprite": "../pokeSprite/gen6/back/0654_braixen_back.gif",
+  "sprite": "../pokeSprite/gen6/0654_braixen/normal/front.gif",
+  "backSprite": "../pokeSprite/gen6/0654_braixen/normal/back.gif",
   "abilities": [
     {
       "id": 66,
@@ -297,8 +297,8 @@
         "types": [
           "fire"
         ],
-        "sprite": "../pokeSprite/gen6/0653_fennekin.gif",
-        "backSprite": "../pokeSprite/gen6/back/0653_fennekin_back.gif",
+        "sprite": "../pokeSprite/gen6/0653_fennekin/normal/front.gif",
+        "backSprite": "../pokeSprite/gen6/0653_fennekin/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
@@ -312,8 +312,8 @@
             "types": [
               "fire"
             ],
-            "sprite": "../pokeSprite/gen6/0654_braixen.gif",
-            "backSprite": "../pokeSprite/gen6/back/0654_braixen_back.gif",
+            "sprite": "../pokeSprite/gen6/0654_braixen/normal/front.gif",
+            "backSprite": "../pokeSprite/gen6/0654_braixen/normal/back.gif",
             "condition": "Level 16",
             "conditionJa": "Lv.16",
             "details": [
@@ -342,8 +342,8 @@
                   "fire",
                   "psychic"
                 ],
-                "sprite": "../pokeSprite/gen6/0655_delphox.gif",
-                "backSprite": "../pokeSprite/gen6/back/0655_delphox_back.gif",
+                "sprite": "../pokeSprite/gen6/0655_delphox/normal/front.gif",
+                "backSprite": "../pokeSprite/gen6/0655_delphox/normal/back.gif",
                 "condition": "Level 36",
                 "conditionJa": "Lv.36",
                 "details": [

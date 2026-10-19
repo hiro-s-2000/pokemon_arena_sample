@@ -11,8 +11,8 @@
   "category": "gen5",
   "isLegendary": false,
   "isMythical": false,
-  "sprite": "../pokeSprite/gen5/0531_audino.gif",
-  "backSprite": "../pokeSprite/gen5/back/0531_audino_back.gif",
+  "sprite": "../pokeSprite/gen5/0531_audino/normal/front.gif",
+  "backSprite": "../pokeSprite/gen5/0531_audino/normal/back.gif",
   "abilities": [
     {
       "id": 131,
@@ -258,8 +258,8 @@
         "types": [
           "normal"
         ],
-        "sprite": "../pokeSprite/gen5/0531_audino.gif",
-        "backSprite": "../pokeSprite/gen5/back/0531_audino_back.gif",
+        "sprite": "../pokeSprite/gen5/0531_audino/normal/front.gif",
+        "backSprite": "../pokeSprite/gen5/0531_audino/normal/back.gif",
         "condition": null,
         "conditionJa": null,
         "details": [],
